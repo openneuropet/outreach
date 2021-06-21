@@ -5,7 +5,7 @@ at this years OHBM meeting, that is if we are able to secure a room.
 **PET BIDS Topic List**
 
 - BEP 009
-- The addition of PED data into Open Neuro ~> coming soon datasets from the NRU and NIMH
+- The addition of PET data into Open Neuro ~> coming soon datasets from the NRU and NIMH
 - Some brief overview of what makes PET data unique (meta data examples, ecat, dicom, etc)
 
 
@@ -13,7 +13,7 @@ at this years OHBM meeting, that is if we are able to secure a room.
 
 ### Meat and Potatoes
 - As of April 7th 2021 PET data is now accepted/incorporated into the BIDS standard
-- Special kudos to Melanie Ganz, Martin Norgaard, Cyril Pernet, Adam Thomas, and Robert Innis of Open Neuro PET and these many others shown here -> Granville J. Matheson, Hanne D. Hansen, Graham Searle, Gaia Rizzo, Mattia Veronese, Alessio Giacomel, Maqsood Yaqub, Matteo Tonietto, Thomas Funck, Ashley Gillman, Hugo Boniface, Alexandre Routier, Jelle R. Dalenberg, Tobey Betthauser, Franklin Feingold, Christopher J.6Markiewicz, Krzysztof J. Gorgolewski, Ross W. Blair, Stefan Appelhoff, Remi Gau,Taylor Salo, Guiomar Niso, Christophe Phillips, Robert Oostenveld, Jean-Dominique Gallezot, Richard E. Carson, Gitte M. Knudsen
+- Special kudos to Melanie Ganz!
 - Additionally a preprint of the accompanying article has been released at `bioRxiv` [here](https://www.biorxiv.org/content/10.1101/2021.06.16.448390v1)
 
 ### Some pre-history/pre-BIDS
@@ -43,8 +43,83 @@ At the present OpenNeuroPET is working to develop better support for PET BIDS in
     - [Buildng requered BIDS metadata text files from a PET dataset](https://github.com/CPernet/bids-starter-kit/tree/main/matlabCode)
 - a matlab converter [here](https://github.com/CPernet/bids-starter-kit/tree/main/matlabCode)
 - a python converter [here](https://github.com/bendhouseart/BespokeBIDSConverters/tree/nimh-dataset-1)
+    - Example of metadata file for a single pet scan: [metadata](images/pet_metadata.png)
+    - How we're currently dealing with that: [enter bespokeness]()
 
 Additional work being done to better integrate PET bids PET into community:
-- Better support for PET and BIDS PET in [Nibabel](), [Pybids]()
--  
+- Better support for PET and BIDS PET in [Nibabel](https://nipy.org/nibabel/), [Pybids](https://github.com/bids-standard/pybids)
 
+More BIDS
+- Bids Extension Proposal [023](https://docs.google.com/document/d/1yzsd1J9GT-aA0DWhdlgNr5LCu6_gvbjLyfvYq2FuxlY/edit)
+
+## Show the below if you don't want to click on links, otherwise ignore.
+Direct images/code:
+![pet metadata](images/pet_metadata.png)
+
+```python
+def bespoke(self):
+
+        future_json = {
+            'Manufacturer': self.nifti_json_data['Manufacturer'],
+            'ManufacturersModelName': self.nifti_json_data['ManufacturersModelName'],
+            'Units': 'Bq/mL',
+            'TracerName': self.nifti_json_data['Radiopharmaceutical'],  # need to grab part of this string
+            'TracerRadionuclide': self.nifti_json_data['RadionuclideTotalDose']/10**6,
+            'InjectedRadioactivityUnits': 'MBq',
+            'InjectedMass': self.metadata_dataframe.iloc[35, 10]*self.metadata_dataframe.iloc[38, 6],  # nmol/kg * weight
+            'InjectedMassUnits': 'nmol',
+            'MolarActivity': self.metadata_dataframe.iloc[0, 35]*0.000037,  # uCi to GBq
+            'MolarActivityUnits': 'GBq/nmol',
+            'SpecificRadioactivity': 'n/a',
+            'SpecificRadioactivityUnits': 'n/a',
+            'ModeOfAdministration': 'bolus',
+            'TimeZero': '10:15:14',
+            'ScanStart': 61,
+            'InjectionStart': 0,
+            'FrameTimesStart':
+                [int(entry) for entry in ([0] +
+                list(cumsum(self.nifti_json_data['FrameDuration']))[0:len(self.nifti_json_data['FrameDuration']) - 1])],
+            'FrameDuration': self.nifti_json_data['FrameDuration'],
+            'AcquisitionMode': 'list mode',
+            'ImageDecayCorrected': True,
+            'ImageDecayCorrectionTime': -61,
+            'ReconMethodName': self.dicom_header_data.ReconstructionMethod,
+            'ReconMethodParameterLabels': ['iterations', 'subsets', 'lower energy threshold', 'upper energy threshold'],
+            'ReconMethodParameterUnits': ['none', 'none', 'keV', 'keV'],
+            'ReconMethodParameterValues': [
+                3,
+                21,
+                float(min(re.findall('\d+\.\d+', str(self.dicom_header_data.EnergyWindowRangeSequence).lower()))),
+                float(max(re.findall('\d+\.\d+', str(self.dicom_header_data.EnergyWindowRangeSequence).lower()))),
+            ],
+            'ReconFilterType': self.dicom_header_data.ConvolutionKernel,
+            'ReconFilterSize': 0,
+            'AttenuationCorrection': self.dicom_header_data.AttenuationCorrectionMethod,
+            'DecayCorrectionFactor': self.nifti_json_data['DecayFactor']
+
+        }
+
+        future_blood_json = {
+
+        }
+
+        future_blood_tsv = {
+            'time': self.metadata_dataframe.iloc[2:7, 6]*60, # convert minutes to seconds,
+            'PlasmaRadioactivity': self.metadata_dataframe.iloc[2:7, 7]/60,
+            'WholeBloodRadioactivity': self.metadata_dataframe.iloc[2:7, 9]/60,
+            'MetaboliteParentFraction': self.metadata_dataframe.iloc[2:7, 8]/60
+        }
+
+        participants_tsv = {
+            'sub_id': [self.subject_id],
+            'weight': [self.dicom_header_data.PatientWeight],
+            'sex': [self.dicom_header_data.PatientSex]
+        }
+
+        return {
+            'future_json': future_json,
+            'future_blood_json': future_blood_json,
+            'future_blood_tsv': future_blood_tsv,
+            'participants_info': participants_tsv
+        }
+```
