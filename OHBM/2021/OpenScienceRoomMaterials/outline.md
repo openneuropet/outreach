@@ -19,7 +19,9 @@ at this years OHBM meeting, that is if we are able to secure a room.
 ### Some pre-history/pre-BIDS
 
 Previous work in the adoption of better standards and practices initially started in 2007 with the publishing of the following paper:  
-- Innis, R. B.et al.Consensus nomenclature for in vivo imaging of reversibly binding radioligands.J. Cereb. Blood Flow &240Metab.27, 1533–1539 (2007)
+- Innis, R. B.et al.Consensus nomenclature for in vivo imaging of reversibly binding radioligands. J. Cereb. Blood Flow &240Metab.27, 1533–1539 (2007)
+The work got continued by the NRM community in 2016 and guidelines for reporting on and publishing PET studies came out last year:
+- Knudsen, Gitte M., et al.Guidelines for the content and format of PET brain data in publications and archives: A consensus paper. J. Cereb. Blood Flow &240Metab.40.8 (2020)
 
 ## OpenNeuro PET
 
