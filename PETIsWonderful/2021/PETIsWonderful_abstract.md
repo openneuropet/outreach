@@ -8,7 +8,7 @@ OpenNeuro PET: Campaign to Combat PET Data Entropy
 ## Authors
 
 Gitte Moos Knudsen, Robert Innis, Melanie Ganz-Bejanaminsen, Adam Thomas, Cyril Pernet, Martin Nørgaard, Douglash Greeve,
-Russel Poldrak, Paul Wighton, Anthony Galassi
+Russell Poldrak, Paul Wighton, Anthony Galassi
 
 ## Affiliations
 
@@ -19,7 +19,9 @@ Neurobiology Research Unit at Copenhagen University
 At present there exists little to no standardization between/within PET Neuroimaging research produced data; 
 analysis tools and methods are often as unique and inaccessible as the the data they are used on. 
 These factors often compound deleteriously and can lead to irreproducibility and duplication of work within the 
-community.
+community.Two notable efforts towards data standardization within the Neuroimaging community have been the 
+development of the BIDS standard and, more specifically to PET, the publishing of "Consensus Nomenclature for in 
+vivo Imaging of Reversibly Binding Radioligands", Innis et. al. 2007.
 
 OpenNeuro PET builds off of the aforementioned efforts and seeks to help ameliorate the negative effects 
 mentioned above by introducing standardization and a platform to share and distribute to PET Neuroimaging data. 
