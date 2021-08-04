@@ -16,27 +16,34 @@ OpenNeuro PET, Stanford University, National Institutes of Health, Massachusetts
 Neurobiology Research Unit at Copenhagen University
 
 ## Body
-At present there exists little to no standardization between/within PET Neuroimaging research produced data; 
+Little standardization exists among PET Neuroimaging data; 
 analysis tools and methods are often as unique and inaccessible as the the data they are used on. 
-These factors often compound deleteriously and can lead to irreproducibility and duplication of work within the 
-community.Two notable efforts towards data standardization within the Neuroimaging community have been the 
-development of the BIDS standard and, more specifically to PET, the publishing of "Consensus Nomenclature for in 
-vivo Imaging of Reversibly Binding Radioligands", Innis et. al. 2007.
+These factors compound deleteriously leading to irreproducibility and duplication of work within the 
+community.
 
-OpenNeuro PET builds off of the aforementioned efforts and seeks to help ameliorate the negative effects 
-mentioned above by introducing standardization and a platform to share and distribute to PET Neuroimaging data. 
-OpenNeuro PET is a project built around OpenNeuro and BIDS that aims primarily at developing data sharing openly 
+OpenNeuro PET (ONP) seeks to ameliorate some of these issues by introducing further standardization and a platform to share PET data. 
+ONP is a project built around OpenNeuro<sup>1</sup> and BIDS<sup>2</sup> that aims primarily at developing data sharing openly 
 (CC0) or securely (DUA-GDPR) with a united front-end and user friendly tools for the BIDS based data curation of 
-PET data. 
+PET data.  
 
-To support this effort OpenNeuro PET has integrated PET into the BIDS standard and is 
+To support this effort ONP has integrated PET into the BIDS standard and is 
 conducting further work to introduce PET Preprocessing derivatives into the standard with BEP023. 
-Additionally, OpenNeuroPET has contributed to developing software to validate BIDS formatted PET data with 
+Additionally, ONP has contributed software to validate BIDS formatted PET data with 
 the BIDS Validator and has developed PET Neuroimaging and metadata conversion software from image and tabular 
-formats such as DICOM, ECAT, csv, and xlsx into BIDS compliant formats with Matlab and Python.
+formats such as DICOM, ECAT, csv, and xlsx into BIDS.
 
-OpenNeuro PET continues to work on updating OpenNeuro.org to better support PET, and is working with popular 
-Neuroimaging libraries such as Nibabel and Freesurfer (via PetSurfer) to better support PET both
+ONP continues to work on updating OpenNeuro.org to better support PET, and is working with popular 
+Neuroimaging libraries such as Nibabel<sup>3</sup> and PetSurfer<sup>4</sup> to better support PET both
 within and outside of the PET BIDS standard.
+
+Sources
+
+1) OpenNeuro, https://openneuro.org/
+2) BIDS, https://bids.neuroimaging.io/
+3) Nibabel, https://nipy.org/nibabel/
+4) PetSurfer, https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer
+5) BIDS Validator, https://github.com/bids-standard/bids-validator
+6) Converters, https://github.com/openneuropet/BIDS-converter
+
 
 ## Figures
