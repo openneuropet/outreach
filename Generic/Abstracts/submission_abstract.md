@@ -7,7 +7,7 @@ OpenNeuro PET: Campaign to Combat PET Data Entropy
 
 ## Authors
 
-Gitte Moos Knudsen, Robert Innis, Melanie Ganz-Bejanaminsen, Adam Thomas, Cyril Pernet, Martin Nørgaard, Douglash Greeve,
+Gitte Moos Knudsen, Robert Innis, Melanie Ganz-Benjaminsen, Adam Thomas, Cyril Pernet, Martin Nørgaard, Douglas Greeve,
 Russel Poldrak, Paul Wighton, Anthony Galassi
 
 ## Affiliations
