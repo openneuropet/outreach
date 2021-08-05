@@ -1,44 +1,30 @@
-# The OpenNeuro PET Project
+# The OpenNeuroPET Project
 
 ---
 ## Title
 
-OpenNeuro PET: Campaign to Combat PET Data Entropy
-
-## Authors
-
-Gitte Moos Knudsen, Robert Innis, Melanie Ganz-Benjaminsen, Adam Thomas, Cyril Pernet, Martin Nørgaard, Douglas Greeve,
-Russel Poldrak, Paul Wighton, Anthony Galassi
-
-## Affiliations
-
-OpenNeuro PET, Stanford University, National Institutes of Health, Massachusetts General Hospital, 
-Neurobiology Research Unit at Copenhagen University
+OpenNeuroPET: Campaign to Combat PET Data Entropy
 
 ## Body
-At present there exists little to no standardization between/within PET Neuroimaging data produced by 
-researchers; analysis tools and methods are often as unique and inaccessible as the the data they are used on. 
-These factors often compound deleteriously and can lead to irreproducibility and duplication of work within the 
-community. Two notable efforts towards data standardization within the Neuroimaging community have been the 
-development of the BIDS standard and, more specifically to PET, the publishing of "Consensus Nomenclature for in 
-vivo Imaging of Reversibly Binding Radioligands", Innis et. al. 2007. 
+At present there exists little standardization between/within PET neuroimaging data produced by researchers; analysis tools and methods are often as unique and inaccessible as the the data they are used on. This can lead to irreproducibility and duplication of work within the community. Two notable efforts towards data standardization within the general neuroimaging community have been the development of the BIDS standard and, more specifically to PET, the publishing of the "Consensus Nomenclature for in 
+vivo Imaging of Reversibly Binding Radioligands" by Innis et. al. [1]. 
 
-OpenNeuro PET builds off of the aforementioned efforts and seeks to help ameliorate the negative effects 
-mentioned above by introducing standardization and a platform to share and distribute to PET Neuroimaging data. 
-OpenNeuro PET is a project built around OpenNeuro and BIDS that aims primarily at developing data sharing openly 
-(CC0) or securely (DUA-GDPR) with a united front-end and user friendly tools for the BIDS based data curation of 
-PET data.
+OpenNeuroPET builds off of the aforementioned efforts and seeks to introduce a data standard for and a platform to share and distribute PET Neuroimaging data. The data standard utilized in OpenNeuroPET is built around the Brain Imaging Data Standard (BIDS) [2] and specifically customized for PET data [3]. The OpenNeuro platform [4] serves as insipration for the data sharing aspect. It aims at developing data sharing openly (CC0) with a united front-end and user friendly tools for the BIDS based data curation of data. OpenNeuroPET extends OpenNeuro's data sharing aspect to include curation of multimodal and specifically PET data as well as to add a secure data sharing feature (GDPR-DUA) in order to enable access to data that can not be shared openly.
 
-To support this effort OpenNeuro PET has recently introduced PET into the BIDS standard with BEP 009 and is 
-conducting further work to introduce PET Preprocessing derivatives into the BIDS standard with BEP 023. 
-Additionally, OpenNeuroPET has contributed to 
-developing software to validate BIDS formatted PET data with the BIDS Validator and has developed PET 
-Neuroimaging and metadata conversion software from image and tabular formats such as DICOM, ECAT, csv, and xlsx 
-into BIDS compliant formats with Matlab and Python.
+OpenNeuroPET is currently introducing PET Preprocessing derivatives into the BIDS standard with BEP 023 [5]. Additionally, OpenNeuroPET has developed PET Neuroimaging and metadata conversion software from image and tabular formats such as DICOM, ECAT, csv, and xlsx into BIDS compliant formats with Matlab and Python [6].
 
-OpenNeuro PET continues to work on updating OpenNeuro.org to better support PET, and is working with popular 
-Neuroimaging libraries such as Nibabel and Freesurfer (via PetSurfer) to better support PET both
-within and outside of the PET BIDS standard. Simultaneously, OpenNeuro PET is seeking and solicating PET experts 
-to educate and collaborate with in these efforts.
+OpenNeuroPET continues to work on improving OpenNeuro.org to better support PET, and is working with popular neuroimaging libraries, such as Nibabel and Freesurfer (via PetSurfer), to better support PET both within and outside of the PET BIDS standard. Simultaneously, OpenNeuroPET is seeking and solicating PET experts to educate and collaborate with in these efforts.
 
-## Figures
+## References
+
+[1] Innis RB, Cunningham VJ, Delforge J, Fujita M, Gjedde A, Gunn RN, Holden J, Houle S, Huang SC, Ichise M, Iida H. Consensus nomenclature for in vivo imaging of reversibly binding radioligands. Journal of Cerebral Blood Flow & Metabolism. 2007 Sep;27(9):1533-9.
+
+[2] Gorgolewski KJ, Auer T, Calhoun VD, Craddock RC, Das S, Duff EP, Flandin G, Ghosh SS, Glatard T, Halchenko YO, Handwerker DA. The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. Scientific data. 2016 Jun 21;3(1):1-9.
+
+[3] Norgaard M, Matheson GJ, Hansen HD, Thomas AG, Searle G, Rizzo G, Veronese M, Giacomel A, Yaqub M, Tonietto M, Funck T. PET-BIDS, an extension to the brain imaging data structure for positron emission tomography. bioRxiv. 2021 Jan 1.
+
+[4] Gorgolewski K, Esteban O, Schaefer G, Wandell B, Poldrack R. OpenNeuro—a free online platform for sharing and analysis of neuroimaging data. Organization for human brain mapping. Vancouver, Canada. 2017 Jun;1677(2).
+
+ [5] https://bids.neuroimaging.io/bep023
+ 
+ [6] https://github.com/openneuropet/BIDS-converter 
