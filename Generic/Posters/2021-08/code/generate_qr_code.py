@@ -11,8 +11,6 @@ def create_qr_code(data, output=None, method='basic'):
     # possible values 'basic' 'fragment' 'path'
     method = "basic"
 
-    data = "Some text that you want to store in the qrcode"
-
     if method == 'basic':
     # Simple factory, just a set of rects.
         factory = qrcode.image.svg.SvgImage
@@ -35,4 +33,22 @@ def create_qr_code(data, output=None, method='basic'):
     else:
         output = output
         # Save svg file somewhere
-        img.save(output)
+    img.save(output)
+    print(f"saving output to {output}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('input', type=str, help="Enter text to QR'ize.")
+    parser.add_argument('--output', '-o', type=str, default=None,
+    help="Output full path or file name to save svg qr code as, if not supplied creates"
+    " Timestamped svg file within the directory this utility is called from")
+    parser.add_argument('--method', '-m', type=str, default='basic', 
+    help='''Enter factory method to use to create qr code
+     basic - simple factory, just a set of rects.
+     fragment - fragment factory, also just a set of rects
+     path - combined path factory, fixes white space that may occur when zooming''')
+    args = parser.parse_args()
+
+    create_qr_code(data=args.input, output=args.output, method=args.method)
+
