@@ -5,3 +5,5 @@ Repository of our outreach activities
 - educational material
 - coding sprints
 - brain hack
+
+## Talks about PET BIDS
