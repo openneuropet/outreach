@@ -3,5 +3,6 @@
 Repository of our outreach activities
 - presentations
 - educational material
-- coding sprints
-- brain hack
+- BrainHack and Datathon
+
+## Talks about PET BIDS
