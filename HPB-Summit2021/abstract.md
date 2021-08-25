@@ -9,7 +9,7 @@
 
 ## Goals
 
-Our aim is to develop methods to openly (CC0) or securely (DUA-GDPR) share positron emission tomography (PET) brain imaging data [Brain Imaging Data Structure](https://bids.neuroimaging.io/) [1] accompanied by user friendly tools for data curation. Our secondary objective is to develop pipelines for automated quality control (QC) and [molecular imaging template building](https://github.com/openneuropet/templates).  
+Our aim is to develop methods to openly (CC0) or securely (DUA-GDPR) share positron emission tomography (PET) brain imaging data according to the [Brain Imaging Data Structure](https://bids.neuroimaging.io/) [1] accompanied by user friendly tools for data curation. Our secondary objective is to develop pipelines for automated quality control (QC) and [molecular imaging template building](https://github.com/openneuropet/templates).  
 
 ## FAIR neuroPET data
 
