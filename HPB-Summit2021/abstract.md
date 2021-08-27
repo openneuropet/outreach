@@ -19,7 +19,11 @@ Our aim is to develop methods to openly (CC0) or securely (DUA-GDPR) share posit
 
 ## Existing tools for PET data
 
+<<<<<<< Updated upstream
 We have created Matlab(R) and Python PET BIDS converters available @https://github.com/openneuropet/BIDS-converter. Converters allow converting source ecat files to nifti+json. There are also tools to help converting metadata to json files. 
+=======
+We have created Matlab(R) and Python converters available @https://github.com/openneuropet/BIDS-converter. Converters allow converting source ecat files (Siemens HRRT scaner) to nifti+json while dicom files (other scanners like GE Advance) can be converted with usual tools (e.g. dcm2nixx). For those cases, tools and templates are provided to augment the json files. There are also tools to help converting metadata to json files in the [BIDS starter kit](https://github.com/bids-standard/bids-starter-kit/tree/main/matlabCode/pet).
+>>>>>>> Stashed changes
 
 ## References
 [1] Norgaard M, Matheson GJ, Hansen HD, Thomas AG, Searle G, Rizzo G, Veronese M, Giacomel A, Yaqub M, Tonietto M, Funck T. PET-BIDS, an extension to the brain imaging data structure for positron emission tomography. bioRxiv. 2021 Jan 1.  
