@@ -25,7 +25,7 @@ The [OpenNeuroPET](https://openneuropet.github.io/) project primary aim is to sh
 
 We have created PET BIDS converters in Matlab(R) and Python that are openly available for download at https://github.com/openneuropet/BIDS-converter. These tools allow ECAT files (a proprietary Siemens file format) to be converted to [NIfTI](https://nifti.nimh.nih.gov/) format with an additional JSON sidecar file containing necessary metadata (figure 1). DICOM formatted files (used on other PET scanners such as the GE Advance) can be converted with any existing tools - for instance the widely-used [dcm2nixx](https://github.com/rordenlab/dcm2niix) tool written by Chris Rorden. For these DICOM formatted source files, we have provided additional tools to complement automatically the JSON sidecar files with the necessary BIDS metadata. We also made tools available in the [BIDS starter kit](https://github.com/bids-standard/bids-starter-kit/tree/main/matlabCode/pet) to help with converting PET metadata to JSON format.
 
-![Illustration of the data curation from source files to curated BIDS files](https://github.com/openneuropet/outreach/blob/main/Templates/Images/eact_data_set_tree.png)
+![Illustration of the data curation from source files to curated BIDS files](https://github.com/openneuropet/outreach/blob/main/Templates/Images/eact2bidstree.png)
 
 
 ## Available Atlases
