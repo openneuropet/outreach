@@ -34,11 +34,11 @@ Serotonin system (5-HTT, 5-HT1A, 5-HT1B, 5-HT2A, 5-HT4 [5][6]) and gamma-Aminobu
 
 ![Serotonin (left) and GABA (right) templates ](https://github.com/openneuropet/outreach/tree/main/Templates/Images/atlases.png)
 
-## References
+## References  
 [1] Norgaard M, et al. (2021). PET-BIDS, an extension to the brain imaging data structure for positron emission tomography. bioRxiv 2021.06.16.448390. 
-[2] Halchenko et al., (2021). DataLad: distributed system for joint management of code, data, and their relationship. Journal of Open Source Software, 6(63), 3262.
-[3] Markiewicz, C.J. et al. (2021). OpenNeuro: An open resource for sharing of neuroimaging data. bioRxiv 2021.06.28.450168.
-[4] Wilkinson, M. et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018.
-[5] Beliveau, V. et al. (2017). A high-resolution in vivo atlas of the human brain's serotonin system. J Neurosci. 37, 120 - 128.
-[6] Beliveau, V. et al. (2020). The Structure of the Serotonin System: a PET Imaging Study. NeuroImage, 205, 116240.
-[7] Nørgaard, et al. (2021). A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABAA receptors. NeuroImage, 232, 117878.
+[2] Halchenko et al., (2021). DataLad: distributed system for joint management of code, data, and their relationship. Journal of Open Source Software, 6(63), 3262.  
+[3] Markiewicz, C.J. et al. (2021). OpenNeuro: An open resource for sharing of neuroimaging data. bioRxiv 2021.06.28.450168.  
+[4] Wilkinson, M. et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018.  
+[5] Beliveau, V. et al. (2017). A high-resolution in vivo atlas of the human brain's serotonin system. J Neurosci. 37, 120 - 128.  
+[6] Beliveau, V. et al. (2020). The Structure of the Serotonin System: a PET Imaging Study. NeuroImage, 205, 116240.  
+[7] Nørgaard, et al. (2021). A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABAA receptors. NeuroImage, 232, 117878.  
