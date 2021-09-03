@@ -25,14 +25,14 @@ The [OpenNeuroPET](https://openneuropet.github.io/) project primary aim is to sh
 
 We have created PET BIDS converters in Matlab(R) and Python that are openly available for download at https://github.com/openneuropet/BIDS-converter. These tools allow ECAT files (a proprietary Siemens file format) to be converted to [NIfTI](https://nifti.nimh.nih.gov/) format with an additional JSON sidecar file containing necessary metadata (figure 1). DICOM formatted files (used on other PET scanners such as the GE Advance) can be converted with any existing tools - for instance the widely-used [dcm2nixx](https://github.com/rordenlab/dcm2niix) tool written by Chris Rorden. For these DICOM formatted source files, we have provided additional tools to complement automatically the JSON sidecar files with the necessary BIDS metadata. We also made tools available in the [BIDS starter kit](https://github.com/bids-standard/bids-starter-kit/tree/main/matlabCode/pet) to help with converting PET metadata to JSON format.
 
-![Illustration of the data curation from source files to curated BIDS files](C:\Users\cpernet\Desktop\openneuropet_grants\outreach\Templates\Images\eact2bidstree.png)
+![Illustration of the data curation from source files to curated BIDS files](https://github.com/openneuropet/outreach/tree/main/Templates/Images/eact2bidstree.png)
 
 
 ## Available Atlases
 
 Serotonin system (5-HTT, 5-HT1A, 5-HT1B, 5-HT2A, 5-HT4 [5][6]) and gamma-Aminobutyric acid system (BZR [7]) templates in MNI space are freely at https://github.com/openneuropet/templates. 
 
-![Serotonin (left) and GABA (right) templates ](C:\Users\cpernet\Desktop\openneuropet_grants\outreach\Templates\Images\atlases.png)
+![Serotonin (left) and GABA (right) templates ](https://github.com/openneuropet/outreach/tree/main/Templates/Images/atlases.png)
 
 ## References
 [1] Norgaard M, et al. (2021). PET-BIDS, an extension to the brain imaging data structure for positron emission tomography. bioRxiv 2021.06.16.448390. 
