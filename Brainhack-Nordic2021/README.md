@@ -1,11 +1,15 @@
 # Brainhack Nordic
 
-Brain Imaging in Nordic European countries (Denmark, Sweden, Finland) - our brainhack session focuses on educational sessions around BIDS and hacking your data to prepare them. A unique selling point is our experitise in molecular imaging and as such there will be a dedicate session on PET. 
+Brain Imaging in Nordic European countries (Denmark, Sweden, Finland) and anywhere else :-)  
+Our brainhack session focuses on educational around BIDS and hacking your data to prepare them (datathon) with opportunities to develop tools around data concersion, curation, and pipelines. We are also super interested in any multimodal imaging.
 
 ----------------------------------------------------------------------------------------------------
    **SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
 
 ----------------------------------------------------------------------------------------------------    
+Brainhack Nordic abides by the [BrainHack code of conduct](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/code_of_conduct.md) - make sure you have a read.  
+
+----------------------------------------------------------------------------------------------------  
 
 ## Educational sessions
 
