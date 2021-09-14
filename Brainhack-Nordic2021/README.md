@@ -9,14 +9,15 @@ Brain Imaging in Nordic European countries (Denmark, Sweden, Finland) - our brai
 
 ## Educational sessions
 
-### Live
+### Local
 
 The Brain Imaging Data Structure: right now and tomorrow - _Dr Cyril Pernet_  
 
-### Hybrid or Virtual
+### Broascast
 
 The The Brain Imaging Data Structure PET extension - _Dr Melanie Ganz_   
 The The Brain Imaging Data Structure PET derivatives - _Dr Martin Nørgaard_   
+An overview of PET surfer - _Dr Douglas Greve_
 
 ## Projects - Unconference
 
@@ -31,7 +32,7 @@ Converting your raw PET data to BIDS (_Dr Cyril Pernet, Dr Martin Nørgaard_)
 
 ### Multimodal Imaging
 
-
+- PET and resting state fMRI
 
 
 
