@@ -92,7 +92,7 @@ In all cases, the local organizers will make every effort to stay in clear commu
 ## Reporting procedure
 If you are being harassed or made uncomfortable, if you notice that anyone in the gathering is being harassed, or if you feel any other concerns regarding any disruptive and unacceptable behavior of the others regarding the composure of the gathering please follow one of the options below. 
 
-### Recommended option: Report the incident to the Code of Conduct Committee. 
+### Report the incident to the Code of Conduct Committee (Recommended option)
 If the complaint is related to an event organizer or the Brainhack Global team, you can fill directly the form available here. You can also make a report either with your personal email or using an anonymous email to brainhackorg@gmail.com if you prefer.
 The Code of Conduct committee is obligated to respect the privacy and security of the reporter and the incident itself. All reports will be handled with discretion. In your report please include:
 - Your contact information, if you are comfortable providing it.
@@ -104,7 +104,9 @@ The Code of Conduct committee is obligated to respect the privacy and security o
 After filing a report, the Code of Conduct Committee will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond (e.g., talk to the offender, ban the offender from the current and future Brainhack events, connect the reporter to services) and act accordingly.
 If you experience a time lapse between your informing and the response and still feel uncomfortable with the situation, please put your personal safety and well-being first. Consider logging out and be persistent on getting a reply and help from the Code of Conduct committee. 
 
-### Address it directly: For smaller incidents that might be settled with a brief conversation, you can choose to direct messaging to the person in question or set up a video chat to discuss how it affected you. Please use this approach only if you feel comfortable; you do not have to carry the weight of addressing these issues yourself. If you’re interested in this option but unsure how to go about it, try discussing with the Code of Conduct Committee first—they will have advice on how to make the conversation happen and can also join you in a conversation.
+### Address it directly: 
+
+For smaller incidents that might be settled with a brief conversation, you can choose to direct messaging to the person in question or set up a video chat to discuss how it affected you. Please use this approach only if you feel comfortable; you do not have to carry the weight of addressing these issues yourself. If you’re interested in this option but unsure how to go about it, try discussing with the Code of Conduct Committee first—they will have advice on how to make the conversation happen and can also join you in a conversation.
 
 ## Enforcement Process
 Brainhack organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. In the case of a reporting of the violation of the Code of Conduct, the organizers will discuss the actions to be taken immediately. Whatever the resolution that they decide upon, the decision of the admins involved in a violation case will be considered final and which will be shared with the offender privately.  
