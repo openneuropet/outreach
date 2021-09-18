@@ -21,7 +21,8 @@ The Brain Imaging Data Structure: right now and tomorrow - _Dr Cyril Pernet_
 
 The The Brain Imaging Data Structure PET extension - _Dr Melanie Ganz_   
 The The Brain Imaging Data Structure PET derivatives - _Dr Martin Nørgaard_   
-An overview of PET surfer - _Dr Douglas Greve_
+An overview of PET surfer - _Dr Douglas Greve_ (from BrainHack Massachussetts)
+Latent states in resting fMRI - _Dr Patrick Fisher_
 
 ## Projects - Unconference
 
