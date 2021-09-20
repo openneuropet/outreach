@@ -1,4 +1,4 @@
-# Brainhack Nordic
+# Brainhack Nordic - 6/7 Decembre 2021
 
 Brain Imaging in Nordic European countries (Denmark, Sweden, Finland) and anywhere else :-)  
 Our brainhack session focuses on educational around BIDS and hacking your data to prepare them (datathon) with opportunities to develop tools around data concersion, curation, and pipelines. We are also super interested in any multimodal imaging.
