@@ -13,4 +13,4 @@ PET-BIDS and the OpenNeuroPET project with application for brain tumour was pres
 
 ## Talk about data sharing
 
-We discussed data sharing issues in EU and how OpenNeuroPET implements data sharing ([slides here](https://doi.org/10.6084/m9.figshare.16652761.v1)) during then [European Network of Research Integrity Offices](http://www.enrio.eu/) 2021 conference.
+We discussed data sharing issues in EU and how OpenNeuroPET implements data sharing ([The case of opening brain images to advance cognitive and clinical neuroscience](https://doi.org/10.6084/m9.figshare.16652761.v1)) during then [European Network of Research Integrity Offices](http://www.enrio.eu/) 2021 conference. A related discussion in the context of clinical data was also presented at the [European Society for Magnetic Resonance in Medicine and Biology](https://www.esmrmb.org/congress/esmrmb-2021/) 2021 annaul meeting ([Data sharing standard for brain tumour imaging in the era of GDPR](https://doi.org/10.6084/m9.figshare.16676521.v1)).
