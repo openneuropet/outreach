@@ -9,6 +9,11 @@ Unfortunately due to MGH's current COVID policies, this session can only be atte
 
 Organized in coordination with BrainHack Nordic 2021, BrainHack MGH is focused on the BIDS, particularly the new PET-BIDS specification, and it's applications.
 
+----------------------------------------------------------------------------------------------------
+   **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
+
+----------------------------------------------------------------------------------------------------    
+
 ## Schedule
 
 TBD
