@@ -20,8 +20,8 @@ Latent states in resting fMRI - _Dr Patrick Fisher_
 
 ### Broascast
 
-The The Brain Imaging Data Structure PET extension - _Dr Melanie Ganz_   
-The The Brain Imaging Data Structure PET derivatives - _Dr Martin Nørgaard_   
+The Brain Imaging Data Structure PET extension - _Dr Melanie Ganz_   
+The Brain Imaging Data Structure PET derivatives - _Dr Martin Nørgaard_   
 An overview of PET surfer - _Dr Douglas Greve_ (from BrainHack Massachussetts)
 
 ## Projects - Unconference
