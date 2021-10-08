@@ -1,4 +1,4 @@
-# BrainHack Nordic
+# Brainhack Nordic
 
 06 - 07 / 12 / 2021             
 
