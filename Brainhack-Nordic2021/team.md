@@ -1,8 +1,8 @@
 ## Team
 
-Dr Melanie Ganz
-Dr Martin Norgaard
-Dr Cyril Pernet
+Dr Melanie Ganz  
+Dr Martin Norgaard  
+Dr Cyril Pernet  
 
 ## Contact
 
