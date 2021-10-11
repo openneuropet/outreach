@@ -12,6 +12,10 @@ Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/open
 ----------------------------------------------------------------------------------------------------  
 ## [Location](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md)
 
+## [Team](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/team.md)
+
+## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/attendees.md)
+
 ## Educational sessions
 
 ### Local
