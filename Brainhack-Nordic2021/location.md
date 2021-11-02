@@ -17,9 +17,14 @@ kl. 09.00 -17.00
 
     Coffee, tea, Iced water, soft drinks and fresh fruit ad libitum
     Morning serving
-    Lunch in [restaurant](https://cofoco.dk/en/vaekst/) incl. 1 water or soda.
+    Lunch
     Afternoon serving
     Standard AV equipment
     LCD screen, sound system, paper, pens and flipchart.
    
     :-) Wine Hour between kl. 17.00 – 18.00 in the hotel lobby bar
+    
+  ## Lunches 12:00-13:00
+  
+  Monday 6th December 2021: [Restaurant Vækst](https://cofoco.dk/en/vaekst/).
+  Tuesday 7th December 2021: [Restaurant Meille](https://restaurant-meille.dk/en/velkommen/).
