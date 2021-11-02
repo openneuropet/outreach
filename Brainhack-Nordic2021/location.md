@@ -26,5 +26,5 @@ kl. 09.00 -17.00
     
   ## Lunches 12:00-13:00
   
-  Monday 6th December 2021: [Restaurant Vækst](https://cofoco.dk/en/vaekst/).
-  Tuesday 7th December 2021: [Restaurant Meille](https://restaurant-meille.dk/en/velkommen/).
+  Monday 6th December 2021: [Restaurant Vækst](https://cofoco.dk/en/vaekst/).  
+  Tuesday 7th December 2021: [Restaurant Meille](https://restaurant-meille.dk/en/velkommen/).  
