@@ -2,6 +2,8 @@
 
 Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon) with opportunities to develop tools around PET data conversion, curation, and pipelines. We are also super interested in any multimodal imaging.
 
+## [Register here](https://openneuropet.github.io/brainhack/)
+
 <img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
 ----------------------------------------------------------------------------------------------------
