@@ -1,7 +1,8 @@
 # Brainhack Nordic - 6/7 Decembre 2021
 
-Brain Imaging in Nordic European countries (Denmark, Sweden, Finland) and anywhere else :-)  
-Our brainhack session focuses on educational around BIDS and hacking your data to prepare them (datathon) with opportunities to develop tools around data concersion, curation, and pipelines. We are also super interested in any multimodal imaging.
+Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon) with opportunities to develop tools around PET data conversion, curation, and pipelines. We are also super interested in any multimodal imaging.
+
+<img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
 ----------------------------------------------------------------------------------------------------
    **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
