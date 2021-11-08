@@ -15,6 +15,8 @@ Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/open
 ----------------------------------------------------------------------------------------------------  
 ## [Location](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md)
 
+[HOTEL SP34, SANKT PEDERS STRÆDE 34, 1453 KØBENHAVN K](https://www.brochner-hotels.dk/hotel-sp34/)
+
 ## [Team](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/team.md)
 
 ## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/attendees.md)
