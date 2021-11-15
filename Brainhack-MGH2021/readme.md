@@ -3,7 +3,7 @@
 <img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-MGH2021/brainhack-boston2021.png">
 
 - Dec 6th and 7th 2021; 9:00am-4:00pm
-- [Register Here](https://forms.gle/M9QMk2dtguJLmFJB7)
+  - [Register Here](https://forms.gle/M9QMk2dtguJLmFJB7)
 - [114 16th St, Charlestown, MA 02129, United States (CNY Building 114)](https://goo.gl/maps/kXXiPn71EdLgpxGA7); Room 1-114D1
   - [Directions](https://connect.vassar.edu/s/1654/images/gid2/editor_documents/classes/1969/1969drivingdirections.pdf?gid=2&pgid=61&sessionid=bedb33da-3371-4464-bcdd-002a53ea53ca&cc=1)
 - Hosted in close collaboration with BrainHack Nordic
@@ -18,7 +18,7 @@
 
 Organized in coordination with [BrainHack Nordic 2021](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021), BrainHack MGH is focused on the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/), the new [PET-BIDS specification](https://bids-specification.readthedocs.io/en/bep-009/04-modality-specific-files/09-positron-emission-tomography.html), how to curate BIDS datasets and how to build and run pipelines that operate on these datasets.
 
-People are encouranged to come with their own NeuroImaging data and we'll help you curate BIDS datasets.  Even if the data isn't shareable, we can provide assistnace without it ever having to leave your laptop.
+People are encouranged to come with their own NeuroImaging data and we'll help you curate BIDS datasets.  Even if the data isn't shareable, we can provide assistnace without it ever having to leave your laptop!
 
 You can register [here](https://forms.gle/M9QMk2dtguJLmFJB7)
 
