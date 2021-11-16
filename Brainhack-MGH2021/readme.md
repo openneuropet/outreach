@@ -50,9 +50,9 @@ Join the brainhack mattermost channels for the lastest info
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-10:30am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
   - https://meet.google.com/wvc-dsby-rqp
-- 10:00am-10:30am | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
+- 10:30am-11:00am | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
   - https://meet.google.com/wvc-dsby-rqp
-- 10:30am-4:00pm Unstructured time for projects/hacking
+- 11:00am-4:00pm Unstructured time for projects/hacking
 
 ## Projects
 
@@ -70,6 +70,8 @@ Join the brainhack mattermost channels for the lastest info
 - [PetSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer)
 - [Neurodocker tutorial](https://miykael.github.io/nipype_tutorial/notebooks/introduction_neurodocker.html)
 - [Nipype Tutorial](https://miykael.github.io/nipype_tutorial/)
+- [Women in Science @ the MGH Martinos Center](https://wis.martinos.org/)
+- [Women in Neuroscience](https://www.winrepo.org/)
 
 ## Conduct
 
