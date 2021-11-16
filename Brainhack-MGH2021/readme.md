@@ -71,7 +71,7 @@ Join the brainhack mattermost channels for the lastest info
 - [Neurodocker tutorial](https://miykael.github.io/nipype_tutorial/notebooks/introduction_neurodocker.html)
 - [Nipype Tutorial](https://miykael.github.io/nipype_tutorial/)
 - [Women in Science @ the MGH Martinos Center](https://wis.martinos.org/)
-- [Women in Neuroscience](https://www.winrepo.org/)
+- [Women in Neuroscience Repo](https://www.winrepo.org/)
 
 ## Conduct
 
