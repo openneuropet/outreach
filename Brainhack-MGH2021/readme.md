@@ -38,9 +38,11 @@ Join the brainhack mattermost channels for the lastest info
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-10:30am | **Talk** | An Overview of PetSurfer | Dr Doug Greve
   - https://meet.google.com/nvz-nqnc-cvo
-- 10:30am-11:00am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
+- 10:30am-11:30am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
   - https://meet.google.com/nvz-nqnc-cvo
-- 11:00am-11:30am | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
+- 11:30am-12:00pm | **Talk** | Diversity in Academia: The Women in Neuroscience Repository (WiNRepo) | Dr. Paola Mengotti, Dr Aina Frau-Pascual
+  - https://meet.google.com/nvz-nqnc-cvo
+- 1:00pm-1:30pm | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
   - https://meet.google.com/nvz-nqnc-cvo
 - 11:30am-4:00pm Unstructured time for projects/hacking
  
