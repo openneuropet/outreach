@@ -34,6 +34,7 @@ Join the brainhack mattermost channels for the lastest info
 
 ### Dec 6th
 
+- 9:00am-10:00am | **Welcome** | Coffee and snacks
 - 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-10:30am | **Talk** | An Overview of PetSurfer | Dr Doug Greve
@@ -48,6 +49,7 @@ Join the brainhack mattermost channels for the lastest info
  
 ### Dec 7th
 
+- 9:00am-10:00am | **Welcome Back** | Coffee and snacks
 - 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-10:30am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
