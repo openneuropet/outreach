@@ -45,7 +45,7 @@ Join the brainhack mattermost channels for the lastest info
   - https://meet.google.com/nvz-nqnc-cvo
 - 1:00pm-1:30pm | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
   - https://meet.google.com/nvz-nqnc-cvo
-- 11:30am-4:00pm Unstructured time for projects/hacking
+- 1:30pm-4:00pm Unstructured time for projects/hacking
  
 ### Dec 7th
 
