@@ -56,7 +56,10 @@ All times are EST (UTC−05:00)
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
   - https://meet.google.com/wvc-dsby-rqp
-- 11:00am-11:30am | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
+- 11:00am-11:30am | **Talk** | The Pandemic Brain: neuroinflammation in healthy, non-infected
+individuals during the COVID-19 pandemic | Dr Ludovica Brusaferri
+  - https://meet.google.com/wvc-dsby-rqp
+- 11:30am-12:00am | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
   - https://meet.google.com/wvc-dsby-rqp
 - 11:30am-4:00pm Unstructured time for projects/hacking
 
