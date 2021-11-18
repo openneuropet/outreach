@@ -32,9 +32,11 @@ Join the brainhack mattermost channels for the lastest info
 
 ## Schedule
 
+All times are EST (UTC−05:00)
+
 ### Dec 6th
 
-- 9:00am-10:00am | **Welcome** | Coffee and snacks
+- 9:00am-9:30am | **Welcome** | Coffee and snacks
 - 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-10:30am | **Talk** | An Overview of PetSurfer | Dr Doug Greve
@@ -49,14 +51,14 @@ Join the brainhack mattermost channels for the lastest info
  
 ### Dec 7th
 
-- 9:00am-10:00am | **Welcome Back** | Coffee and snacks
+- 9:00am-9:30am | **Welcome Back** | Coffee and snacks
 - 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
   - Broadcast from Brainhack Nordic; link tbd
-- 10:00am-10:30am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
+- 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
   - https://meet.google.com/wvc-dsby-rqp
-- 10:30am-11:00am | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
+- 11:00am-11:30am | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
   - https://meet.google.com/wvc-dsby-rqp
-- 11:00am-4:00pm Unstructured time for projects/hacking
+- 11:30am-4:00pm Unstructured time for projects/hacking
 
 ## Projects
 
