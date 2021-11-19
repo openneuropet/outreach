@@ -25,10 +25,8 @@ You can register [here](https://forms.gle/M9QMk2dtguJLmFJB7)
 ## Contact
 
 Join the brainhack mattermost channels for the lastest info
-- [#bhg21-mgh](https://mattermost.brainhack.org/brainhack/channels/bhg21-mgh)
-- [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet)
-- [#bhg21-nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021)
-- Paul Wighton: `paul.wighton [at] gmail.com`
+- [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet)  
+- Paul Wighton: `paul.wighton [at] gmail.com` 
 
 ## Schedule
 
