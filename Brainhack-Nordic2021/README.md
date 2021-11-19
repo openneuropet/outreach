@@ -12,6 +12,8 @@ Our brainhack session focuses on educational around BIDS and hacking your PET an
 ----------------------------------------------------------------------------------------------------    
 Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/code_of_conduct.md) - make sure you have a read.  
 
+Organized in coordination with [BrainHack MGH 2021](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
+
 ----------------------------------------------------------------------------------------------------  
 ## [Location](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md)
 
