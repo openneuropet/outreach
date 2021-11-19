@@ -24,11 +24,10 @@ You can register [here](https://forms.gle/M9QMk2dtguJLmFJB7)
 
 ## Contact
 
-Join the brainhack mattermost channels for the lastest info
-- [#bhg21-mgh](https://mattermost.brainhack.org/brainhack/channels/bhg21-mgh)
+Join the brainhack mattermost channel for the lastest info
 - [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet)
-- [#bhg21-nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021)
-- Paul Wighton: `paul.wighton [at] gmail.com`
+
+Or contact Paul Wighton: `paul.wighton [at] gmail.com`
 
 ## Schedule
 
@@ -36,23 +35,23 @@ All times are EST (UTC−05:00)
 
 ### Dec 6th
 
-- 9:00am-9:30am | **Welcome** | Coffee and snacks
-- 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
+- 8:30am-9:00am | **Welcome** | Coffee and snacks
+- 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
   - Broadcast from Brainhack Nordic; link tbd
-- 10:00am-10:30am | **Talk** | An Overview of PetSurfer | Dr Doug Greve
+- 9:30am-10:00am | **Talk** | An Overview of PetSurfer | Dr Doug Greve
   - https://meet.google.com/nvz-nqnc-cvo
-- 10:30am-11:30am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
+- 10:00am-11:00am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
+  - https://meet.google.com/nvz-nqnc-cvo
+- 11:00am-11:30am | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
   - https://meet.google.com/nvz-nqnc-cvo
 - 11:30am-12:00pm | **Talk** | Diversity in Academia: The Women in Neuroscience Repository (WiNRepo) | Dr. Paola Mengotti, Dr Aina Frau-Pascual
   - https://meet.google.com/nvz-nqnc-cvo
-- 12:00pm-12:30pm | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
-  - https://meet.google.com/nvz-nqnc-cvo
-- 12:30pm-1:30pm | **Lunch**
-- 1:30pm-4:00pm Unstructured time for projects/hacking
+- 12:00pm-1:00pm | **Lunch Break**
+- 1:00pm-4:00pm Unstructured time for projects/hacking
  
 ### Dec 7th
 
-- 9:00am-9:30am | **Welcome Back** | Coffee and snacks
+- 8:30am-9:30am | **Welcome Back** | Coffee and snacks
 - 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
@@ -62,7 +61,7 @@ individuals during the COVID-19 pandemic | Dr Ludovica Brusaferri
   - https://meet.google.com/wvc-dsby-rqp
 - 11:30am-12:00pm | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
   - https://meet.google.com/wvc-dsby-rqp
-- 12:00pm-1:00pm | **Lunch**
+- 12:00pm-1:00pm | **Lunch Break**
 - 1:00pm-4:00pm Unstructured time for projects/hacking
 
 ## Projects
