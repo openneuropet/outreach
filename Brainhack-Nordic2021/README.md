@@ -56,7 +56,7 @@ All times are CEST (GMT+1:00)
   - BIDS coin
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
 - 3:30pm-4:00pm | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
-- 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack MGH)
+- 4:00pm-5:00pm | **Unconference** | Project Updates (syncd with Brainhack MGH)
   - https://meet.google.com/wvc-dsby-rqp
 
 ### Projects
