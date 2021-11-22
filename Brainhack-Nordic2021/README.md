@@ -49,9 +49,9 @@ All times are CEST (GMT+1:00)
 
 ### Dec 7th
 
-- 9:00am-10:00am | **Talk** | Latent states in rfMRI | Dr Patrick Fisher
-- 10:00am-11:00am | **Talk** | EEG and PET imaging | Dr Cheng Tengip
-- 11:00am-3:00pm Unstructured time for projects/hacking
+- 9:15am-10:00am | **Talk** | Latent states in rfMRI | Dr Patrick Fisher
+- 10:00am-10:30am | **Talk** | EEG and PET imaging | Dr Cheng Tengip
+- 10:30am-3:00pm Unstructured time for projects/hacking
   - PET connectivity
   - BIDS coin
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
