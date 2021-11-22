@@ -46,6 +46,7 @@ All times are CEST (GMT+1:00)
   - Broadcast from BrainHack MGH: https://meet.google.com/nvz-nqnc-cvo
 - 4:00pm-5:00pm | **Unconference** | Project Ideas/Presentations (syncd with Brainhack MGH)
   - https://meet.google.com/wvc-dsby-rqp
+  - BIDS coin
 
 ### Dec 7th
 
@@ -53,7 +54,6 @@ All times are CEST (GMT+1:00)
 - 10:00am-10:30am | **Talk** | EEG and PET imaging | Dr Cheng Tengip
 - 10:30am-3:00pm Unstructured time for projects/hacking
   - PET connectivity
-  - BIDS coin
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
 - 3:30pm-4:00pm | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
 - 4:00pm-5:00pm | **Unconference** | Project Updates (syncd with Brainhack MGH)
