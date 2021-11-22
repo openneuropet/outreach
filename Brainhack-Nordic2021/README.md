@@ -38,7 +38,7 @@ All times are CEST (GMT+1:00)
 ### Dec 6th
 
 - 9:00am-10:00am | **Talk** | BIDS now and then | Dr Cyril Pernet
-- 10:00am-11:00am | **Talk** | BIDS related projects/tools | Dr Cyril Pernet
+- 10:00am-11:00am | **Talk** | BIDS related projects/tools | 
 - 11:00am-3:00pm Unstructured time for projects/hacking
   - Datathon: bring your data!
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
