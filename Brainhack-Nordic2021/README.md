@@ -42,7 +42,7 @@ All times are CEST (GMT+1:00)
 - 11:00am-3:00pm Unstructured time for projects/hacking
   - Datathon: bring your data!
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
-- 3:30pm-4:00pm | **Talk** | An Overview of PetSurfer | Dr Doug Greve
+- 3:30pm-4:00pm | **Talk** | An Overview of PetSurfer | Dr Douglas N. Greve
   - Broadcast from BrainHack MGH: https://meet.google.com/nvz-nqnc-cvo
 - 4:00pm-5:00pm | **Unconference** | Project Ideas/Presentations (syncd with Brainhack MGH)
   - https://meet.google.com/wvc-dsby-rqp

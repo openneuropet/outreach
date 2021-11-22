@@ -38,7 +38,7 @@ All times are EST (GMT−05:00)
 - 8:30am-9:00am | **Welcome** | Coffee and snacks
 - 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
   - Broadcast from Brainhack Nordic; link tbd
-- 9:30am-10:00am | **Talk** | An Overview of PetSurfer | Dr Doug Greve
+- 9:30am-10:00am | **Talk** | An Overview of PetSurfer | Dr Douglas N. Greve
   - https://meet.google.com/nvz-nqnc-cvo
 - 10:00am-11:00am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
   - https://meet.google.com/nvz-nqnc-cvo
