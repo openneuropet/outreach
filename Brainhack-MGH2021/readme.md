@@ -31,7 +31,7 @@ Or contact Paul Wighton: `paul.wighton [at] gmail.com`
 
 ## Schedule
 
-All times are EST (UTC−05:00)
+All times are EST (GMT−05:00)
 
 ### Dec 6th
 
@@ -51,8 +51,9 @@ All times are EST (UTC−05:00)
  
 ### Dec 7th
 
-- 8:30am-9:30am | **Welcome Back** | Coffee and snacks
-- 9:30am-10:00am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
+- 8:30am-9:00am | **Welcome Back** | Coffee and snacks
+- 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
+- 9:30am-10:00am | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
   - Broadcast from Brainhack Nordic; link tbd
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
   - https://meet.google.com/wvc-dsby-rqp

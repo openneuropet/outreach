@@ -31,24 +31,33 @@ _Contact_ `wamcyril[at]gmail.com`
 
 ## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/attendees.md)
 
-## Educational sessions
+## Schedule
 
-### Local
+All times are CEST (GMT+1:00)
 
-The Brain Imaging Data Structure: right now and tomorrow - _Dr Cyril Pernet_  
-Latent states in resting fMRI - _Dr Patrick Fisher_
+### Dec 6th
 
-### Broascast
+- 9:00am-10:00am | **Talk** | BIDS now and then | Dr Cyril Pernet
+- 10:00am-11:00am | **Talk** | BIDS related projects/tools | Dr Cyril Pernet
+- 11:00am-3:00pm Unstructured time for projects/hacking
+  - Datathon: bring your data!
+- 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
+- 3:30pm-4:00pm | **Talk** | An Overview of PetSurfer | Dr Doug Greve
+  - Broadcast from BrainHack MGH: https://meet.google.com/nvz-nqnc-cvo
+- 4:00pm-5:00pm | **Unconference** | Project Ideas/Presentations (syncd with Brainhack MGH)
+  - https://meet.google.com/wvc-dsby-rqp
 
-The Brain Imaging Data Structure PET extension - _Dr Melanie Ganz_   
-The Brain Imaging Data Structure PET derivatives - _Dr Martin Nørgaard_   
-An overview of PET surfer - _Dr Douglas Greve_ (from BrainHack MGH)
+### Dec 7th
 
-## Projects - Unconference
-
-### Datathon
-
-Converting your raw PET data to BIDS (_Dr Cyril Pernet, Dr Martin Nørgaard_)  
+- 9:00am-10:00am | **Talk** | Latent states in rfMRI | Dr Patrick Fisher
+- 10:00am-11:00am | **Talk** | EEG and PET imaging | Dr Cheng Tengip
+- 11:00am-3:00pm Unstructured time for projects/hacking
+  - PET connectivity
+  - BIDS coin
+- 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
+- 3:30pm-4:00pm | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
+- 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack MGH)
+  - https://meet.google.com/wvc-dsby-rqp
 
 ### Projects
 
