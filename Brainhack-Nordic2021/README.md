@@ -69,7 +69,7 @@ All times are CEST (GMT+1:00)
 ### Multimodal Imaging
 
 - PET and resting state fMRI
-- -PET and EEG
+- PET and EEG
 
 
 
