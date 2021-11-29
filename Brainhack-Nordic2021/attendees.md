@@ -9,6 +9,7 @@ Luca	Gherardini
 Gabriel	Gonzalez-Escamilla  
 Avneet	Kaur  
 Granville	Matheson  
+Maja Marstrand-Jorgensen  
 Soodeh	Moallemian  
 Matej	Murgaš  
 Martin	Norgaard  
@@ -17,6 +18,7 @@ Arianna	Sala
 Anjali	Sankar  
 Claus	Svarer  
 Jonas	Svensson  
+Søren Vinther  
 Marcel	Zwiers  
 
 ## On line 
