@@ -12,7 +12,7 @@
 - Bring your data! We'll help you curate a BIDS dataset
 - Submit you project as an [issue](https://github.com/openneuropet/outreach/issues/new/choose)
 
-**Unfortunately due to MGH's current COVID policies, this session can only be attended in person by MGH employees.  All can attend the virtual sessions.**  All talk will be broacast, join [#bhg21-mgh](https://mattermost.brainhack.org/brainhack/channels/bhg21-mgh) for latest info and collaborative hacking. 
+**Unfortunately due to MGH's current COVID policies, this session can only be attended in person by MGH employees.  All can attend the virtual sessions.**  All talks will be accesible via jisti, check this page again on the day of the event for the link. Also, please join [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet) for latest info and collaborative hacking. 
 
 ## About
 
@@ -37,15 +37,18 @@ All times are EST (GMT−05:00)
 
 - 8:30am-9:00am | **Welcome** | Coffee and snacks
 - 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
-  - Broadcast from Brainhack Nordic; link tbd
+  - Broadcast from Brainhack Nordic
+  - Jitsi meeting link tbd
+  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 9:30am-10:00am | **Talk** | An Overview of PetSurfer | Dr Douglas N. Greve
-  - https://meet.google.com/nvz-nqnc-cvo
+  - Jitsi meeting link tbd
+  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 10:00am-11:00am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
-  - https://meet.google.com/nvz-nqnc-cvo
+  - Jitsi meeting link tbd
 - 11:00am-11:30am | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
-  - https://meet.google.com/nvz-nqnc-cvo
+  - Jitsi meeting link tbd
 - 11:30am-12:00pm | **Talk** | Diversity in Academia: The Women in Neuroscience Repository (WiNRepo) | Dr. Paola Mengotti, Dr Aina Frau-Pascual
-  - https://meet.google.com/nvz-nqnc-cvo
+  - Jitsi meeting link tbd
 - 12:00pm-1:00pm | **Lunch Break**
 - 1:00pm-4:00pm Unstructured time for projects/hacking
  
@@ -53,15 +56,20 @@ All times are EST (GMT−05:00)
 
 - 8:30am-9:00am | **Welcome Back** | Coffee and snacks
 - 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
+  - Broadcast from Brainhack Nordic
+  - Jitsi meeting link tbd
+  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 9:30am-10:00am | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
-  - Broadcast from Brainhack Nordic; link tbd
+  - Broadcast from Brainhack Nordic
+  - Jitsi meeting link tbd
+  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
-  - https://meet.google.com/wvc-dsby-rqp
+  - Jitsi meeting link tbd
 - 11:00am-11:30am | **Talk** | The Pandemic Brain: neuroinflammation in healthy, non-infected
 individuals during the COVID-19 pandemic | Dr Ludovica Brusaferri
-  - https://meet.google.com/wvc-dsby-rqp
-- 11:30am-12:00pm | **Talk** | Pipelines for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
-  - https://meet.google.com/wvc-dsby-rqp
+  - Jitsi meeting link tbd
+- 11:30am-12:00pm | **Talk** | Containers for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
+  - Jitsi meeting link tbd
 - 12:00pm-1:00pm | **Lunch Break**
 - 1:00pm-4:00pm Unstructured time for projects/hacking
 
