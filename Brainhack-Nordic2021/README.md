@@ -2,8 +2,6 @@
 
 Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon --> bring your data, or ensure access to them from your laptop) with opportunities to develop tools around PET data conversion, curation, and pipelines. We are also super interested in any multimodal imaging. 
 
-## [Register here](https://openneuropet.github.io/brainhack/)
-
 <img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
 ----------------------------------------------------------------------------------------------------
@@ -43,21 +41,20 @@ All times are CEST (GMT+1:00)
   - Datathon: bring your data!
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
 - 3:30pm-4:00pm | **Talk** | An Overview of PetSurfer | Dr Douglas N. Greve
-  - Broadcast from BrainHack MGH: https://meet.google.com/nvz-nqnc-cvo
+  - Broadcast at https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 4:00pm-5:00pm | **Unconference** | Project Ideas/Presentations (syncd with Brainhack MGH)
-  - https://meet.google.com/wvc-dsby-rqp
+  - BIDS coin
 
 ### Dec 7th
 
-- 9:00am-10:00am | **Talk** | Latent states in rfMRI | Dr Patrick Fisher
-- 10:00am-11:00am | **Talk** | EEG and PET imaging | Dr Cheng Tengip
-- 11:00am-3:00pm Unstructured time for projects/hacking
+- 9:15am-10:00am | **Talk** | Latent states in rfMRI | Dr Patrick Fisher
+- 10:00am-10:30am | **Talk** | EEG and PET imaging | Dr Cheng Tengip
+- 10:30am-3:00pm Unstructured time for projects/hacking
   - PET connectivity
-  - BIDS coin
 - 3:00pm-3:30pm | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
 - 3:30pm-4:00pm | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
-- 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack MGH)
-  - https://meet.google.com/wvc-dsby-rqp
+  - Broadcast at https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
+- 4:00pm-5:00pm | **Unconference** | Project Updates (syncd with Brainhack MGH)
 
 ### Projects
 
@@ -69,6 +66,7 @@ All times are CEST (GMT+1:00)
 ### Multimodal Imaging
 
 - PET and resting state fMRI
+- PET and EEG
 
 
 
