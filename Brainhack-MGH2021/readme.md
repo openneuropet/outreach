@@ -57,11 +57,11 @@ All times are EST (GMT−05:00)
 - 8:30am-9:00am | **Welcome Back** | Coffee and snacks
 - 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
   - Broadcast from Brainhack Nordic
-  - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
+  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
   - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 9:30am-10:00am | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
   - Broadcast from Brainhack Nordic
-  - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
+  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
   - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
   - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
