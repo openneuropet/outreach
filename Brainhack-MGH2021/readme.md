@@ -64,7 +64,7 @@ All times are EST (GMT−05:00)
   - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
   - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
-  - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
+  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
 - 11:00am-11:30am | **Talk** | The Pandemic Brain: neuroinflammation in healthy, non-infected
 individuals during the COVID-19 pandemic | Dr Ludovica Brusaferri
   - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
