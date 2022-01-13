@@ -1,6 +1,6 @@
 # The OpenNeuroPET project: enabling FAIR data sharing for Positron Emission Tomography
 
-*Cyril Pernet[^1], Melanie Ganz[^1], Martin Norgaard[^2], Russel Poldrack[^2], Douglas Greeve[^3], Paul Wighton[^3], Anthony Galassi[^4], Adam Thomas[^4], Robert Innis[^4], Gitte Moos Knudsen[^1]*
+*Cyril Pernet[^1], Melanie Ganz[^1], Martin Norgaard[^2], Russell Poldrack[^2], Douglas Greeve[^3], Paul Wighton[^3], Anthony Galassi[^4], Adam Thomas[^4], Robert Innis[^4], Gitte Moos Knudsen[^1]*
 
 [^1] Neurobiology Research Unit, Rigshospitalet, Copenhagen, DK  
 [^2] Center for Reproducible Neuroscience, Stanford University, USA  
