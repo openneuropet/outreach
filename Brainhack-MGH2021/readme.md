@@ -36,40 +36,26 @@ All times are EST (GMT−05:00)
 ### Dec 6th
 
 - 8:30am-9:00am | **Welcome** | Coffee and snacks
-- 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET extension | Dr Melanie Ganz
+- 9:00am-9:30am | **Talk** | [The Brain Imaging Data Structure PET extension](https://youtu.be/1-sgAct6_NY)  | Dr Melanie Ganz
   - Broadcast from Brainhack Nordic
-  - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
-  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
-- 9:30am-10:00am | **Talk** | An Overview of PetSurfer | Dr Douglas N. Greve
-  - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
-  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
+- 9:30am-10:00am | **Talk** | [An Overview of PetSurfer](https://youtu.be/1-sgAct6_NY?t=1591) | Dr Douglas N. Greve
 - 10:00am-11:00am | **Unconference** | Project Ideas/Presentations (syncd with Brainhack Nordic)
-  - Jitsi meeting link: https://meet.jit.si/Brainhack-Nordic2021
 - 11:00am-11:30am | **Talk** | Curating a PET-BIDS dataset | Anthony Galassi
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
 - 11:30am-12:00pm | **Talk** | Diversity in Academia: The Women in Neuroscience Repository (WiNRepo) | Dr. Paola Mengotti, Dr Aina Frau-Pascual
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
 - 12:00pm-1:00pm | **Lunch Break**
 - 1:00pm-4:00pm Unstructured time for projects/hacking
  
 ### Dec 7th
 
 - 8:30am-9:00am | **Welcome Back** | Coffee and snacks
-- 9:00am-9:30am | **Talk** | The Brain Imaging Data Structure PET derivatives | Dr Martin Nørgaard
+- 9:00am-9:30am | **Talk** | [The Brain Imaging Data Structure PET derivatives](https://www.youtube.com/watch?v=QI6eiOY_790) | Dr Martin Nørgaard
   - Broadcast from Brainhack Nordic
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
-  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
-- 9:30am-10:00am | **Talk** | Automated pipelines for PetSurfer | Dr Vincent Beliveau
+- 9:30am-10:00am | **Talk** | [Automated pipelines for PetSurfer](https://www.youtube.com/watch?v=m3pFVS13U3g) | Dr Vincent Beliveau
   - Broadcast from Brainhack Nordic
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
-  - Youtube Broadcast link: https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 10:00am-11:00am | **Unconference** | Project Updates (syncd with Brainhack Nordic)
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
-- 11:00am-11:30am | **Talk** | The Pandemic Brain: neuroinflammation in healthy, non-infected
-individuals during the COVID-19 pandemic | Dr Ludovica Brusaferri
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
+- 11:00am-11:30am | **Talk** | [The Pandemic Brain: neuroinflammation in healthy, non-infected
+individuals during the COVID-19 pandemic](https://youtu.be/9V9kxzq7M2M) | Dr Ludovica Brusaferri
 - 11:30am-12:00pm | **Talk** | Containers for processing BIDS data using Neurodocker and Nipype | Dr Paul Wighton
-  - Jitsi meeting link: https://meet.jit.si/BrainHack-Boston2021
 - 12:00pm-1:00pm | **Lunch Break**
 - 1:00pm-4:00pm Unstructured time for projects/hacking
 
