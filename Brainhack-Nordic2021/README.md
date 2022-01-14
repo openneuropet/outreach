@@ -52,7 +52,6 @@ All times are CEST (GMT+1:00)
   - PET connectivity
 - 3:00pm-3:30pm | **Talk** | [The Brain Imaging Data Structure PET derivatives](https://www.youtube.com/watch?v=QI6eiOY_790) | Dr Martin Nørgaard
 - 3:30pm-4:00pm | **Talk** | [Automated pipelines for PetSurfer](https://www.youtube.com/watch?v=m3pFVS13U3g) | Dr Vincent Beliveau
-  - Broadcast at https://www.youtube.com/channel/UCg3ruJDBLhi9gWx35uSUpew
 - 4:00pm-5:00pm | **Unconference** | Project Updates (syncd with Brainhack MGH)
 
 ### Projects
