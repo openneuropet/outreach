@@ -24,3 +24,5 @@ Date: Tuesday, 14 December, 2021, 1:15 PM
 _P-WE-7-01 – A High-Resolution In Vivo Atlas of the Human Brain’s Benzodiazepine Binding Site of GABAA Receptors (#13)_
 Martin Nørgaard, Vincent Beliveau, Melanie Ganz, Claus Svarer, Lars H. Pinborg, Sune H. Keller, Peter S. Jensen, Douglas N. Greve, Gitte M. Knudsen
 Date: Wednesday, 15 December, 2021, 1:15 PM  
+
+![A High-Resolution In Vivo Atlas of the Human Brain’s Benzodiazepine Binding Site of GABAA Receptors](https://github.com/openneuropet/outreach/blob/main/NRM2021/gaba_atlas_poster.png "A High-Resolution In Vivo Atlas of the Human Brain’s Benzodiazepine Binding Site of GABAA Receptors")
