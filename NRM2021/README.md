@@ -2,19 +2,17 @@
 
 [NeuroReceptor Mapping Meeting (NRM 2021)](https://nrm2021.org) date to December 14, 15 and 16, 2021.  
 
-**oral session: Open science and data sharing for PET**
+**oral session: Open science and data sharing for PET**  
 _Session chair: 	Knudsen, Gitte, Professor (Copenhagen University Hospital, Copenhagen, Denmark)
 Innis, Robert B., Dr. (National Institute of Mental Health, Bethesda, USA)
 Ganz, Melanie (Rigshospitalet, Neurobiology Research Unit, Copenhagen, Denmark)
 Date: 	Thursday, 16 December, 2021, 3:00 PM - 4:00 PM 
 
 [Introduction to PET data sharing](https://doi.org/10.6084/m9.figshare.18585953.v1) by Gitte Knudsen
-<iframe src="https://widgets.figshare.com/articles/18585953/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 [The Brain Imaging Data Structure and OpenNeuroPET](https://doi.org/10.6084/m9.figshare.18585971.v1) by Melanie Ganz
-<iframe src="https://widgets.figshare.com/articles/18585971/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
-**Posters**
+**Posters**  
 
 _P-TU-3-03 – Estimating PET partial volume full-width-half-maximum directly from human data (#30)_
 Douglas N. Greve, Martin Schain, Melanie Ganz, Martin Nørgaard, Claus Svarer, Gitte M. Knudsen
