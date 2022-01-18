@@ -15,6 +15,8 @@ _P-TU-3-03 – Estimating PET partial volume full-width-half-maximum directly fr
 Douglas N. Greve, Martin Schain, Melanie Ganz, Martin Nørgaard, Claus Svarer, Gitte M. Knudsen
 Date: Tuesday, 14 December, 2021, 1:15 PM  
 
+![Estimating PET partial volume full-width-half-maximum directly from human data](https://github.com/openneuropet/outreach/blob/main/NRM2021/agtm-greve.jpg "Estimating PET partial volume full-width-half-maximum directly from human data")
+
 _P-TU-3-11 – The Positron Emission Tomography Brain imaging Data structure (PET-BIDS) extension: A new standard for sharing PET data (#322)_
 Martin Norgaard, Granville J. Matheson, Hanne D. Hansen, Adam Thomas, Graham Searle, Gaia Rizzo, Mattia Veronese, Alessio Giacomel, Maqsood Yaqub, Matteo Tonietto, Thomas Funck, Ashley Gillman, Hugo Boniface, Alexandre Routier, Jelle R. Dalenberg, Tobey Betthauser, Franklin Feingold, Christopher J. Markiewicz, Krzysztof J. Gorgolewski, Ross W. Blair, Stefan Appelhoff, Remi Gau, Taylor Salo, Guiomar Niso, Cyril Pernet, Christophe Phillips, Robert Oostenveld, Jean-Dominique Gallezot, Richard E. Carson, Gitte M. Knudsen, Robert B. Innis, Melanie Ganz
 Date: Tuesday, 14 December, 2021, 1:15 PM  
