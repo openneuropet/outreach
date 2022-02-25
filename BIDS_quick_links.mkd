@@ -8,10 +8,15 @@ The talks and slides https://osf.io/yn93h/
 # Prepare BIDS data 
 The specification https://bids-specification.readthedocs.io/en/stable/  
 Get some converters https://bids.neuroimaging.io/benefits.html#converters  
-Get started - the starter kit https://bids-standard.github.io/bids-starter-kit/  
-                      - BIDS data examples https://github.com/bids-standard/bids-examples  
-The validator - in your browser https://bids-standard.github.io/bids-validator/  
-                         - in your terminal `npm install -g bids-validator` or `pip install bids_validator` (see https://github.com/bids-standard/bids-validator)  
+
+Get started 
+- the starter kit https://bids-standard.github.io/bids-starter-kit/  
+- BIDS data examples https://github.com/bids-standard/bids-examples  
+
+The validator https://github.com/bids-standard/bids-validator  
+- in your browser https://bids-standard.github.io/bids-validator/  
+- in your terminal `npm install -g bids-validator` or `pip install bids_validator`
+
 
 # Work with BIDS data
 In Matlab https://bids-matlab.readthedocs.io/en/latest/index.html  
