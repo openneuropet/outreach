@@ -1,0 +1,27 @@
+![BIDS](./Templates/Images/BIDS.png)
+
+# Check what is going on with BIDS and what people say about it
+The website https://bids.neuroimaging.io/
+The YouTube channel https://www.youtube.com/channel/UCxZUcYfd_nvIVWAbzRB1tlw
+The talks and slides https://osf.io/yn93h/
+
+# Prepare BIDS data 
+The specification https://bids-specification.readthedocs.io/en/stable/
+Get some converters https://bids.neuroimaging.io/benefits.html#converters
+Get started - the starter kit https://bids-standard.github.io/bids-starter-kit/
+                      - BIDS data examples https://github.com/bids-standard/bids-examples
+The validator - in your browser https://bids-standard.github.io/bids-validator/
+                         - in your terminal npm install -g bids-validator 
+                                                         pip install bids_validator
+                         (see https://github.com/bids-standard/bids-validator)
+
+# Work with BIDS data
+In Matlab https://bids-matlab.readthedocs.io/en/latest/index.html
+In Python https://bids-standard.github.io/pybids/
+Get BIDS Apps http://bids-apps.neuroimaging.io/
+
+# Contribute
+https://github.com/bids-standard
+
+
+      C. Pernet v1. 25-02-2021
