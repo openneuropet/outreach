@@ -5,11 +5,13 @@ Repository of our outreach activities
 - educational material
 - BrainHack and Datathon
 
-## Talks about PET BIDS
+## About PET BIDS
 
 PET BIDS was presented at the annual [International NeuroInformatics Coordinating Facility](https://www.incf.org/about-incf) meeting 2020 (see the [talk](https://drive.google.com/file/d/1dl_crraH6LQ-LyrrWOPEg2Cx5M7fpdMR/view?usp=sharing) and follow-up [debrief](https://www.youtube.com/watch?v=S-S0bCYimq0)), and the specification development presented during the annual [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/) annual conference [2020](https://www.youtube.com/watch?v=PaTeKKxKzrw) and further 'derivatives' to create in [2021](https://www.youtube.com/watch?v=2ThzGy40Iig) during the open science session.
 
-PET-BIDS and the OpenNeuroPET project with application for brain tumour was presented ([slides here](https://doi.org/10.6084/m9.figshare.16652794.v1)) at the COST action [GliMR2.0](https://glimr.eu/) annual meeting.
+PET-BIDS and the OpenNeuroPET project with application for brain tumour was presented ([slides here](https://doi.org/10.6084/m9.figshare.16652794.v1)) at the COST action [GliMR2.0](https://glimr.eu/) annual meeting.  
+
+Read our PET-BIDS paper #openaccess published at [nature Scientific Data](https://www.nature.com/sdata/)
 
 ## Talks about data sharing
 
@@ -23,10 +25,11 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 
 | Event Name | Date |
 | ---------- | -------- |
-| Organization for Human Brain Mapping Annual Meeting  | May 30th - June 4th 2021 |
-| INGSA Satellite Workshop: Open Science for the 21st Century | Sept. 19th 2021 |
-| Human Brain Project Summit | Oct. 12th - Oct. 15th 2021 |
-| PET is Wonderful | Oct. 26th 2021 |
-| Brainhack MGH | Dec. 6th - Dec 7th 2021 |
-| Brainhack Nordic | Dec. 6th - Dec 7th 2021 |
-| NRM | Dec. 14th - Dec. 16th 2021 |
+| [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/i4a/search/search.cfm)  | May 30th - June 4th 2021 |
+| [INGSA Satellite Workshop: Open Science for the 21st Century](https://www.ingsa.org/ingsa2021/ingsa2021-unesco/) | Sept. 19th 2021 |
+| [Human Brain Project Summit](https://www.humanbrainproject.eu/en/) | Oct. 12th - Oct. 15th 2021 |
+| [PET is Wonderful](https://petiswonderful.org/) | Oct. 26th 2021 |
+| [Brainhack](https://brainhack.org/) MGH | Dec. 6th - Dec 7th 2021 |
+| [Brainhack](https://brainhack.org/) Nordic | Dec. 6th - Dec 7th 2021 |
+| [NRM](https://www.nrm2021.org/) | Dec. 14th - Dec. 16th 2021 |
+| [EuroBioImaging](https://www.eurobioimaging.eu/) | February 25 2022 |
