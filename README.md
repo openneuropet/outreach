@@ -34,5 +34,5 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [NRM](https://www.nrm2021.org/) | Dec. 14th - Dec. 16th 2021 |
 | [EuroBioImaging](https://www.eurobioimaging.eu/) | February 25th 2022 |
 | [Danish Medicines Agency](dkma@dkma.dk) | May 24th 2022 |
-| [Brain & BrainPET2022]([https://www.eurobioimaging.eu/](https://brain2022.scot/)) | May 28th - June 1st 2022 |
+| [Brain & BrainPET2022](https://brain2022.scot/) | May 28th - June 1st 2022 |
 | [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 19th-24th 2022 |
