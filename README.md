@@ -25,11 +25,14 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 
 | Event Name | Date |
 | ---------- | -------- |
-| [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/i4a/search/search.cfm)  | May 30th - June 4th 2021 |
+| [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/)  | May 30th - June 4th 2021 |
 | [INGSA Satellite Workshop: Open Science for the 21st Century](https://www.ingsa.org/ingsa2021/ingsa2021-unesco/) | Sept. 19th 2021 |
 | [Human Brain Project Summit](https://www.humanbrainproject.eu/en/) | Oct. 12th - Oct. 15th 2021 |
 | [PET is Wonderful](https://petiswonderful.org/) | Oct. 26th 2021 |
 | [Brainhack](https://brainhack.org/) MGH | Dec. 6th - Dec 7th 2021 |
 | [Brainhack](https://brainhack.org/) Nordic | Dec. 6th - Dec 7th 2021 |
 | [NRM](https://www.nrm2021.org/) | Dec. 14th - Dec. 16th 2021 |
-| [EuroBioImaging](https://www.eurobioimaging.eu/) | February 25 2022 |
+| [EuroBioImaging](https://www.eurobioimaging.eu/) | February 25th 2022 |
+| [Danish Medicines Agency](dkma@dkma.dk) | May 24th 2022 |
+| [Brain & BrainPET2022]([https://www.eurobioimaging.eu/](https://brain2022.scot/)) | May 28th - June 1st 2022 |
+| [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 19th-24th 2022 |
