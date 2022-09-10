@@ -36,3 +36,5 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [Danish Medicines Agency](dkma@dkma.dk) | May 24th 2022 |
 | [Brain & BrainPET2022](https://brain2022.scot/) | May 28th - June 1st 2022 |
 | [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 19th-24th 2022 |
+| [NeuroHackademy](https://github.com/neurohackademy/nh2022-curriculum/tree/main/ganz-petbids) |  July 25th – August 5th 2022 |
+| [International Neuroinformatics Coordinating Facility Annual Assembly](https://www.incf.org/blog/welcome-incf-assembly-2022) | Sept 12th-16th 2022 |
