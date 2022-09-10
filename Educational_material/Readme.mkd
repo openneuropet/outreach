@@ -2,14 +2,31 @@
 
 ## Content
 
+- a refreher about BIDS
+- file conversion using PET2BIDS (matlab, python, tabular meta data)
+- handling blood metadata
+- how to contribute
 
 ## The BIDS standard
 
-Since you are learning about PET2BIDS you must be familar with the the [BIDS standard](https://bids.neuroimaging.io/). If you need a refresher you can check that talk from Melanie Ganz-Benjaminsen. A more pratical way to learn about PET2BIDS and BIDS is to use the [stater kit](https://bids-standard.github.io/bids-starter-kit/).
+Since you are learning about PET2BIDS you must be familar with the the [BIDS standard](https://bids.neuroimaging.io/). If you need a refresher you can check that talk from Melanie Ganz-Benjaminsen:
 
-[![PET-BIDS](https://github.com/openneuropet/outreach/blob/main/Educational_material/pics/PET-BIDS.jpg)](https://youtu.be/1-sgAct6_NY "PET-BIDS")  
+[![PET-BIDS](/pics/PET-BIDS.jpg)](https://youtu.be/1-sgAct6_NY "PET-BIDS") 
+
+A more pratical way to learn about PET2BIDS and BIDS is to use the [stater kit](https://bids-standard.github.io/bids-starter-kit/).
 
 ## Converting DICOM and ecat files
+
+### What scanners are supported?
+
+In theory all scanners are supported, thanks to dcm2nixx! all we do is wrap around and add metadata. Bellow is list a phantom successfully converted, as you can see GE, Siemens and Phillips seems to work fine :-). 
+
+### How do I do this with Matlab?
+
+
+
+### How do I do this with Python?
+
 
 
 ## Generating json files from tabular Educational
@@ -18,6 +35,8 @@ Since you are learning about PET2BIDS you must be familar with the the [BIDS sta
 ## Give me blood
 
 
-## Geek stuff
+## Contribution and Geek stuff
+
+We have a [very inclusive policy for contribution as explained here](https://github.com/openneuropet/PET2BIDS/blob/main/contributing.md). As soon as you start doing stuff with us you are part of the project.
 
 FYI, when you look at the repository we have Matlab and python code. To make sure it does similar things, each pulls information from the _metadata_ directory where we have json files. This means that if some metadata are not handled by our code (say some key values for a reconstruction algorithm), all you need to do it update the right json file and do a pull request (or email it) and the code now takes care of it.
