@@ -5,11 +5,9 @@
 
 ## The BIDS standard
 
-Since you are learning about PET2BIDS you must be familar with the the [BIDS standard](https://bids.neuroimaging.io/). If you need a refresher you can check that talk from Melanie Ganz-Benjaminsen:
+Since you are learning about PET2BIDS you must be familar with the the [BIDS standard](https://bids.neuroimaging.io/). If you need a refresher you can check that talk from Melanie Ganz-Benjaminsen. A more pratical way to learn about PET2BIDS and BIDS is to use the [stater kit](https://bids-standard.github.io/bids-starter-kit/).
 
-[![PET-BIDS](/pics/PET-BIDS.jpg)](https://youtu.be/1-sgAct6_NY "PET-BIDS") 
-
-A more pratical way to learn about PET2BIDS and BIDS is to use the [stater kit](https://bids-standard.github.io/bids-starter-kit/).
+[![PET-BIDS](https://github.com/openneuropet/outreach/blob/main/Educational_material/pics/PET-BIDS.jpg)](https://youtu.be/1-sgAct6_NY "PET-BIDS")  
 
 ## Converting DICOM and ecat files
 
