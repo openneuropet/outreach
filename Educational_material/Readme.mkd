@@ -1,0 +1,25 @@
+# PET2BIDS Educational material
+
+## Content
+
+
+## The BIDS standard
+
+Since you are learning about PET2BIDS you must be familar with the the [BIDS standard](https://bids.neuroimaging.io/). If you need a refresher you can check that talk from Melanie Ganz-Benjaminsen:
+
+[![PET-BIDS](/pics/PET-BIDS.jpg)](https://youtu.be/1-sgAct6_NY "PET-BIDS") 
+
+A more pratical way to learn about PET2BIDS and BIDS is to use the [stater kit](https://bids-standard.github.io/bids-starter-kit/).
+
+## Converting DICOM and ecat files
+
+
+## Generating json files from tabular Educational
+
+
+## Give me blood
+
+
+## Geek stuff
+
+FYI, when you look at the repository we have Matlab and python code. To make sure it does similar things, each pulls information from the _metadata_ directory where we have json files. This means that if some metadata are not handled by our code (say some key values for a reconstruction algorithm), all you need to do it update the right json file and do a pull request (or email it) and the code now takes care of it.
