@@ -35,13 +35,7 @@ Check this short [video using our matlab code](https://drive.google.com/file/d/1
 Step 1: pip install pypet2bids  
 Step 2: call ecat2nii or dcm2niix4pet  
 
-<!DOCTYPE html>
-<html>
-<body> 
-  <iframe src="https://drive.google.com/file/d/1CF80-u3emD6-fumwDvWHxKJhSFvFvnlM/view?usp=sharing/preview" ></iframe>
-</body>
-</html>
-
+Check this short [video using our python code](https://drive.google.com/file/d/1CF80-u3emD6-fumwDvWHxKJhSFvFvnlM/view?usp=sharing/preview)
 
 ## Generating json files from tabular Educational
 
