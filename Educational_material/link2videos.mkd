@@ -1,0 +1,4 @@
+The PET2BIDS library: https://youtu.be/m1R0z2QyDr0
+  
+Example of using matlab to convert data https://drive.google.com/file/d/1zIvdTknnHJXRTsrpKBRgY_X7OQJVKNBi/view?usp=sharing  
+Example of using python to convert data https://drive.google.com/file/d/1CF80-u3emD6-fumwDvWHxKJhSFvFvnlM/view?usp=sharing  
