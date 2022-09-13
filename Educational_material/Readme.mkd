@@ -28,14 +28,25 @@ In theory all scanners are supported, thanks to dcm2nixx! all we do is wrap arou
 Step 1: create a metadata structure using get_pet_metadata.m
 Step 2: call ecat2nii.m or dcm2niix4pet.m
 
-![matlab_vid](https://drive.google.com/file/d/1zIvdTknnHJXRTsrpKBRgY_X7OQJVKNBi/view?usp=sharing)
+<!DOCTYPE html>
+<html>
+<body> 
+  <iframe src="https://drive.google.com/file/d/1zIvdTknnHJXRTsrpKBRgY_X7OQJVKNBi/view?usp=sharing/preview" ></iframe>
+</body>
+</html>
 
 ### How do I do this with Python?
 
 Step 1: pip install pypet2bids
 Step 2: call ecat2nii or dcm2niix4pet
 
-![python_vid](https://drive.google.com/file/d/1CF80-u3emD6-fumwDvWHxKJhSFvFvnlM/view?usp=sharing)
+<!DOCTYPE html>
+<html>
+<body> 
+  <iframe src="https://drive.google.com/file/d/1CF80-u3emD6-fumwDvWHxKJhSFvFvnlM/view?usp=sharing/preview" ></iframe>
+</body>
+</html>
+
 
 ## Generating json files from tabular Educational
 
