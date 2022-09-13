@@ -25,20 +25,15 @@ In theory all scanners are supported, thanks to dcm2nixx! all we do is wrap arou
 
 ### How do I do this with Matlab?
 
-Step 1: create a metadata structure using get_pet_metadata.m
-Step 2: call ecat2nii.m or dcm2niix4pet.m
+Step 1: create a metadata structure using get_pet_metadata.m  
+Step 2: call ecat2nii.m or dcm2niix4pet.m  
 
-<!DOCTYPE html>
-<html>
-<body> 
-  <iframe src="https://drive.google.com/file/d/1zIvdTknnHJXRTsrpKBRgY_X7OQJVKNBi/view?usp=sharing/preview" ></iframe>
-</body>
-</html>
+Check this short [video using our matlab code](https://drive.google.com/file/d/1zIvdTknnHJXRTsrpKBRgY_X7OQJVKNBi/view?usp=sharing/preview)
 
 ### How do I do this with Python?
 
-Step 1: pip install pypet2bids
-Step 2: call ecat2nii or dcm2niix4pet
+Step 1: pip install pypet2bids  
+Step 2: call ecat2nii or dcm2niix4pet  
 
 <!DOCTYPE html>
 <html>
