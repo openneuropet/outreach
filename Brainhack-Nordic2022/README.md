@@ -1,0 +1,50 @@
+# Brainhack Nordic - 5/6/7 Decembre 2021
+
+Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon --> bring your data, or ensure access to them from your laptop) with opportunities to develop tools around PET data conversion, curation, and pipelines. We are also super interested in any multimodal imaging. 
+
+<img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
+
+----------------------------------------------------------------------------------------------------
+   **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
+
+----------------------------------------------------------------------------------------------------    
+Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/code_of_conduct.md) - make sure you have a read.  
+
+Join the brainhack mattermost channels for the lastest info and interaction within the Open NeuroPET hack [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet)  
+
+Organized in coordination with [BrainHack MGH 2021](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
+
+----------------------------------------------------------------------------------------------------  
+## [Location](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2022/location.md)
+
+## [Team and contact](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2022/team.md)
+
+## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/attendees.md)
+
+## Schedule
+
+All times are CEST (GMT+1:00)
+
+### Dec 5th
+
+- PET2BIDS Datathon: bring your data! let's improve the library and educational material
+- **Unconference** | Project Ideas/Presentations
+
+### Dec 6th
+
+- BIDS PET derivatives, what's next?
+- **Unconference** | Project Updates 
+
+### Dec 7th - TrainTrack
+
+- getting around with Git and github
+- managing data with DataLad
+- introduction to PET Surfer
+
+
+
+
+
+
+
+    
