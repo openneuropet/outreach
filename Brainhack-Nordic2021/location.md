@@ -1,9 +1,9 @@
 # Brainhack Nordic
 
-06 - 07 / 12 / 2021             
+05 - 06 - 07 / 12 / 2022             
 
 
-[HOTEL SP34, SANKT PEDERS STRÆDE 34, 1453 KØBENHAVN K](https://www.brochner-hotels.dk/hotel-sp34/)
+[Hotel Scandic Sydhavnen](https://www.scandichotels.com/hotels/denmark/copenhagen/scandic-sydhavnen))
 
 ALL INCLUSIVE FULL DAY MEETING - Sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
 
@@ -11,20 +11,15 @@ ALL INCLUSIVE FULL DAY MEETING - Sponsored by [Novo Nordisk fonden](https://novo
 
 ## Time: 
 
-kl. 09.00 -17.00
+08.00 -16.00
 
-## Room: Plenum 1
-
-    Coffee, tea, Iced water, soft drinks and fresh fruit ad libitum
     Morning serving
+    Hack-away
     Lunch
+    Kack my PET
     Afternoon serving
+    
     Standard AV equipment
     LCD screen, sound system, paper, pens and flipchart.
    
-    :-) Wine Hour between kl. 17.00 – 18.00 in the hotel lobby bar
-    
-  ## Lunches 12:00-13:00
-  
-  Monday 6th December 2021: [Restaurant Vækst](https://cofoco.dk/en/vaekst/).  
-  Tuesday 7th December 2021: [Restaurant Meille](https://restaurant-meille.dk/en/velkommen/).  
+   
