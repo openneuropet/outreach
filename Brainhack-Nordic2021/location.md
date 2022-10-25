@@ -3,7 +3,7 @@
 05 - 06 - 07 / 12 / 2022             
 
 
-[Hotel Scandic Sydhavnen](https://www.scandichotels.com/hotels/denmark/copenhagen/scandic-sydhavnen)
+[Hotel Scandic Sydhavnen](https://www.scandichotels.com/hotels/denmark/copenhagen/scandic-sydhavnen))
 
 ALL INCLUSIVE FULL DAY MEETING - Sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
 
