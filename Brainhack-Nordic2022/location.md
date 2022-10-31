@@ -5,7 +5,7 @@
 
 [Hotel Scandic Sydhavnen](https://www.scandichotels.com/hotels/denmark/copenhagen/scandic-sydhavnen)
 
-ALL INCLUSIVE FULL DAY MEETING - Sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
+FULL DAY MEETING with breakfast and lunch - Sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
 
 <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="150">
 
