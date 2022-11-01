@@ -16,7 +16,7 @@ FULL DAY MEETING with breakfast and lunch - Sponsored by [Novo Nordisk fonden](h
     Morning serving
     Hack-away
     Lunch
-    Kack my PET
+    Hack my PET
     Afternoon serving
     
     Standard AV equipment
