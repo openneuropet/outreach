@@ -33,7 +33,7 @@ All times are CEST (GMT+1:00)
 (join the connectivity working group: https://molecularconnectivity.com/how-to-join/)
 - **Unconference** | Project Updates 
 
-### Dec 7th - TrainTrack
+### Dec 7th - TrainTrack (practicals)
 
 - getting around with Git and github
 - managing data with DataLad
