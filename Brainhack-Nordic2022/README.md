@@ -29,6 +29,8 @@ All times are CEST (GMT+1:00)
 ### Dec 6th
 
 - BIDS PET derivatives, what's next?
+- PET connectivity: zoom talk from Prof Christian Habeck, Columbia University
+(join the connectivity working group: https://molecularconnectivity.com/how-to-join/)
 - **Unconference** | Project Updates 
 
 ### Dec 7th - TrainTrack
