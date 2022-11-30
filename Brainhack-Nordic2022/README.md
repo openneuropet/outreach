@@ -1,4 +1,4 @@
-# Brainhack Nordic - 5/6/7 Decembre 2022
+# Brainhack Nordic - 5/6/7 December 2022
 
 Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon --> bring your data, or ensure access to them from your laptop) with opportunities to develop tools around PET data conversion, curation, and pipelines. We are also super interested in any multimodal imaging. 
 
