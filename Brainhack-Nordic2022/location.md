@@ -11,7 +11,7 @@ FULL DAY MEETING with breakfast and lunch - Sponsored by [Novo Nordisk fonden](h
 
 ## Time: 
 
-08.00 -16.00
+08.15 -16.00(ish)
 
     Morning serving
     Hack-away
