@@ -33,7 +33,7 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [Brainhack](https://brainhack.org/) Nordic | Dec. 6th - Dec 7th 2021 |
 | [NRM](https://www.nrm2021.org/) | Dec. 14th - Dec. 16th 2021 |
 | [EuroBioImaging](https://www.eurobioimaging.eu/) | February 25th 2022 |
-| [Danish Medicines Agency](dkma@dkma.dk) | May 24th 2022 |
+| [Danish Medicines Agency](https://laegemiddelstyrelsen.dk/en/) | May 24th 2022 |
 | [Brain & BrainPET2022](https://brain2022.scot/) | May 28th - June 1st 2022 |
 | [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 19th-24th 2022 |
 | [NeuroHackademy](https://github.com/neurohackademy/nh2022-curriculum/tree/main/ganz-petbids) |  July 25th – August 5th 2022 |
