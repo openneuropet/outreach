@@ -16,8 +16,8 @@ Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen -- see deta
 
 ## Local organizers
 
-Melanie Ganz: ganz@di.ku.dk [at] nru.dk
-Cyril Pernet: cyril.pernet [at] nru.dk
+Melanie Ganz: melanie.ganz [at] nru.dk  
+Cyril Pernet: cyril.pernet [at] nru.dk  
 
 ## Attendees
 
