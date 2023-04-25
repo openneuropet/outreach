@@ -29,12 +29,12 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 
 | Time | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
-| 9 am |  | Morning brief | Morning brief |
-| Morning |  | Current state of derivatives (BEP leads)| Summarize issue from yesterday and collective agreement |
-| Noon |  | Lunch | Lunch |
+| 9 am | X | Morning brief | Morning brief |
+| Morning | X | Current state of derivatives (BEP leads)| Summarize issue from yesterday and collective agreement |
+| Noon | X | Lunch | Lunch |
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
-|  |   | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity) | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity)| 
-| 3 pm | Welcome and introductions (BIDS steering group) |  |  |
+|  | Mingle, drink coffee, see old friends  | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity) | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity)| 
+| 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) |  |  |
 | Afternoon | Brainstorming tasks |  |  |
 | 5 pm | Reception |  | Wrap up - The way forward| 
 | 7 pm |  | Workshop dinner |  |
