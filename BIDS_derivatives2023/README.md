@@ -1,6 +1,6 @@
 # BIDS DERIVATIVES MEETING - 21-23 / 06 / 2023
 
-Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brings together the international working group of the the [Brain Imaging Data Structure](BIDS, www.bids-standard.org) to further develop the BIDS specification for derivatives.
+Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brings together the international working group of the the [Brain Imaging Data Structure](www.bids-standard.org) to further develop the BIDS specification for derivatives.
 
 This event is sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
 
@@ -10,18 +10,18 @@ This event is sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en
 The meeting has a [code of conduct](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/code_of_conduct.md) - make sure you have a read.  
 
 ----------------------------------------------------------------------------------------------------  
-## [Location](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/location.md)
+## Location
 
-[Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:nob+h:DKCPHSCA)
+Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen -- see details about [the hotel, how to get there, and other travel info here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/location.md)
 
 ## Local organizers
 
 Dr Melanie Ganz  
 Dr Cyril Pernet
 
-## [Attendees](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md)
+## Attendees
 
-Participants are be members of the BIDS steering group (https://bids.neuroimaging.io/2022/11/07/BIDS-Steering-Group-Election-2022.html), BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives (https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification) 
+Participants are be members of the BIDS steering group, BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives and other members of the communauty. The full [list of partcipants can be found here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md).
 
 ### Schedule
 
