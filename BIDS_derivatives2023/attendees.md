@@ -20,10 +20,10 @@ Paul Wighton
 Adam Thomas  
 Camille Maumet  
 Michael Hanke  
-Dora Hermes
-Paul Taylor
-Viviana Siless
-Cyrus Eierud
-Arnaud Delorme
-Nell Hardcastle
-Jean-Baptiste Poline 
+Dora Hermes  
+Paul Taylor  
+Viviana Siless  
+Cyrus Eierud  
+Arnaud Delorme  
+Nell Hardcastle  
+Jean-Baptiste Poline  
