@@ -20,7 +20,7 @@ Paul Wighton
 Adam Thomas  
 Camille Maumet  
 Michael Hanke  
-Dora Hermes  
+Dora Hermes
 Paul Taylor
 Viviana Siless
 Cyrus Eierud
