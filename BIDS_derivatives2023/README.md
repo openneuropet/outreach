@@ -2,9 +2,9 @@
 
 Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brings together the international working group of the the [Brain Imaging Data Structure](www.bids-standard.org) to further develop the BIDS specification for derivatives.
 
-This event is sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
+This event is sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/en/) & [The Lundbeck foundation](https://lundbeckfonden.com/en)
 
-<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="150">
+<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="150"> <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/Lundbeck.png" width="200" height="150">
 
 ----------------------------------------------------------------------------------------------------    
 The meeting has a [code of conduct](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/code_of_conduct.md) - make sure you have a read.  
