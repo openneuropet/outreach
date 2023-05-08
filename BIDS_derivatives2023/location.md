@@ -4,9 +4,9 @@
 
 [Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:nob+h:DKCPHSCA)
 
-ALL INCLUSIVE FULL DAY MEETING - Sponsored by [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)
+ALL INCLUSIVE FULL DAY MEETING - Sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/en/) & [The Lundbeck foundation](https://lundbeckfonden.com/en)
 
-<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="150">
+<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="150"> <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/Lundbeck.png" width="200" height="150">
 
 ## Getting there
 
