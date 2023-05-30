@@ -17,11 +17,11 @@ Answer were collected by email and compiled and assembled into broad categories.
 ## Vision
 - provide upgraded raw data (from other people), using provenance tracking.
 - provide well annotated, preprocessed data useful for direct use (by imaging people) or for mathematical modeling, machine learning, etc. (i.e. non imaging experts)
-- standadized outcome format (tsv and json, other) 
+- standadized outcome format across pipelines/modalities (tsv and json, other) 
 
 ## Derivative endpoints
-- document and store every step (0/5)
-- outcomes of a pipeline + share code (5/5)
+- document and store every step (1/8)
+- outcomes of a pipeline + share code (7/8)
 - guidelines for preparing a BIDS derivative dataset given common use cases
 
 Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrces, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to re-use derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code)
@@ -35,7 +35,7 @@ Note: pipelines can have multiple outcomes: averages, effect size maps, connecti
 - connectivity
 - data formats (hd5, zarr?) --> https://github.com/bids-standard/bids-specification/issues/197
 - adoption by software --> what can be done beyond containers for main software to adopt more widely BIDS
-- producers vs. customers --> should derivatives to stored as producers make them or formated for future users (more hd5, tsv stuffs)
+- producers vs. customers --> should derivatives to stored as producers make them or formated for future users (more hd5, tsv stuffs) 
 
 
 
