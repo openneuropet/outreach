@@ -12,6 +12,26 @@ For all attendees the following, we asked the following questions several weeks 
   
 Answer were collected by email and compiled and assembled into broad categories.
 
-# Result
+# Results
+
+## Vision
+- provide upgraded raw data (from other people), using provenance tracking.
+- provide well annotated, preprocessed data useful for mathematical modeling, machine learning, etc. (i.e. non imaging experts)
+- standadized outcome format (tsv and json) 
+
+## Derivative endpoints
+- outcomes of a pipeline + share code (3/3)
+
+Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrces, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to re-use derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code)
+
+*BIDS Validator*
+- Yarik [recently proposed](https://github.com/bids-standard/bids-validator/issues/1676#issuecomment-1563185929) to Provide summary of how many files analyzed, have issues and ignored ; this strang discussion with Scientific Data as the streering group is trying to get journals to have something to indicate data are in BIDS.  
+- In the same vein, Viviana mentioned that we could also provide a summary for derivatives, like numnber of outcomes and if the code available (implies the json of an outcome refer to a code in the code folder) - this also means that somehow pone would know the difference between an intermediate file (for QC) and an outcome file.
+
+## Roadblocks
+- connectivity
+- data formats
+- 
+
 
 
