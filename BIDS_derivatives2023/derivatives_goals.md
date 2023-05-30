@@ -31,7 +31,7 @@ Note: pipelines can have multiple outcomes: averages, effect size maps, connecti
 
 ## Roadblocks
 - connectivity
-- data formats (hd5)
+- data formats (hd5, zarr?) --> https://github.com/bids-standard/bids-specification/issues/197
 - adoption by software --> what can be done beyond containers for main software to adopt more widely BIDS
 - producers vs. customers --> should derivatives to stored as producers make them or formated for future users (more hd5, tsv stuffs)
 
