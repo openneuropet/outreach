@@ -37,5 +37,8 @@ Note: pipelines can have multiple outcomes: averages, effect size maps, connecti
 - adoption by software --> what can be done beyond containers for main software to adopt more widely BIDS
 - producers vs. customers --> should derivatives to stored as producers make them or formated for future users (more hd5, tsv stuffs) 
 - identify which outcomes in a workflow are useful - making them derivatives endpoints
+- provenance; resharing data
+- derivative nesting can challenging to follow both in term of metadata but also computationally
+- surface objects not well surpported
 
 
