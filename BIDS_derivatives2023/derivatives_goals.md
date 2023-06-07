@@ -20,8 +20,8 @@ Answer were collected by email and compiled and assembled into broad categories.
 - standadized outcome format across pipelines/modalities (tsv and json, other) 
 
 ## Derivative endpoints
-- document and store every step (2.5/12)
-- outcomes of a pipeline + share code (9.5/12)
+- document and store every step (2.5/13)
+- outcomes of a pipeline + share code (10.5/13)
 - guidelines for preparing a BIDS derivative dataset given common use cases
 
 Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrces, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to re-use derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code)
