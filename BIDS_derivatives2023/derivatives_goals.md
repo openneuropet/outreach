@@ -1,6 +1,7 @@
 # Goal
 
-Obtain a consensus on what derivatives should be primarily for, offering a vision to drive BEPs.  
+Obtain a consensus on what derivatives should be primarily for, offering a vision to drive BEPs. This in turn can be used as guideline into preparing the derivative BEP.  
+  
 Get ideas of the main roadblocks to address during the meeting.
 
 # Method
