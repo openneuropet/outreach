@@ -18,11 +18,11 @@ Answer were collected by email and compiled and assembled into broad categories.
 ## Vision
 - provide upgraded raw data (from other people), using provenance tracking.
 - provide well annotated, preprocessed data useful for direct use (by imaging people) or for mathematical modeling, machine learning, etc. (i.e. non imaging experts)
-- standadized outcome format across pipelines/modalities (tsv and json, other) 
+- standadized outcome format across pipelines/modalities (tsv and json, key-values for commonly used stuff, e.g. motion correction vs realignement, registration vs normalization, etc ... define common vocabulary as we did for raw) 
 
 ## Derivative endpoints
-- document and store every step (2.5/13)
-- outcomes of a pipeline + share code (10.5/13)
+- document and store every step (2.5/14)
+- outcomes of a pipeline + share code (11.5/14)
 - guidelines for preparing a BIDS derivative dataset given common use cases
 
 Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrces, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to re-use derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code)
