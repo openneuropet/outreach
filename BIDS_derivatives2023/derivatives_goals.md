@@ -23,10 +23,13 @@ Answer were collected by email and compiled and assembled into broad categories.
 ## Derivative endpoints
 - document and store every step (2.5/14)
 - outcomes of a pipeline + share code (11.5/14)
-- guidelines for preparing a BIDS derivative dataset given common use cases
 
 Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrces, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to re-use derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code)
 
+*guidelines for preparing a BIDS derivative*
+- different use cases to be adressed: minimal 1 outcome, then add intermediate steps
+- common vocabulary for commonly used analyses (image and electrophy)s
+   
 *BIDS Validator*
 - Yarik [recently proposed](https://github.com/bids-standard/bids-validator/issues/1676#issuecomment-1563185929) to Provide summary of how many files analyzed, have issues and ignored ; this strang discussion with Scientific Data as the streering group is trying to get journals to have something to indicate data are in BIDS.  
 - In the same vein, Viviana mentioned that we could also provide a summary for derivatives, like numnber of outcomes and if the code available (implies the json of an outcome refer to a code in the code folder) - this also means that somehow pone would know the difference between an intermediate file (for QC) and an outcome file.
