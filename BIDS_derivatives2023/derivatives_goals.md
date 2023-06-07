@@ -11,7 +11,7 @@ For all attendees the following, we asked the following questions several weeks 
 2. There are two views on derivatives: A. it should store the outcome of a pipeline + share code B. it should document every steps, and thus store every step. --> what is your view? --> to help developing BEP derivatives, would it be useful to have a framework/guidelines considering the focus of derivatives i.e. re-usage?
 3. Given your involvement in BIDS and derivatives, what is/are the current roadblocks to advance your project?
   
-Answer were collected by email and compiled and assembled into broad categories.
+Answer were collected by email and compiled and assembled into broad categories using Cyrils' totally subjective judgement. 
 
 # Results
 
