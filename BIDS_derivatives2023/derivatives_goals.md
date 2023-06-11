@@ -44,5 +44,6 @@ Note: pipelines can have multiple outcomes: averages, effect size maps, connecti
 - provenance; resharing data
 - derivative nesting can challenging to follow both in term of metadata but also computationally
 - surface objects not well surpported
+- clarify raw vs source for scanner obtained images --> T1w with gradient non linearity correction is raw, yet this is a post-hoc correction, same thing with the UNIT image from MP2RAGE, even the phasediff image is computed post-hoc and it is stored in raw. The common view being whatever comes out of the scanner is raw, and this should be formalized. FA, ADC, MD and CBF maps for instance, because somehow from time series tend to be seen as derivative. 
 
 
