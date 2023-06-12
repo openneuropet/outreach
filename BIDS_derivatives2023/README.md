@@ -31,7 +31,7 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 |---|---|---|---|
 | 9 am | X | Morning brief | Morning brief |
 | Morning | X | Current state of derivatives - Provenance (Cammille Maumet) and Connectivity (Peer Herholz)| Summarize issue from yesterday and collective agreement |
-| Noon | X | Lunch | Lunch |
+| Noon | Lunch | Lunch | Lunch |
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
 |  | Mingle, drink coffee, see old friends  | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld) | Theme: complex N-dimensional data structures (connectivity)| 
 | 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) |  |  |
