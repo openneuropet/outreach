@@ -30,14 +30,18 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 | Time | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
 | 9 am | X | Morning brief | Morning brief |
-| Morning | X | Current state of derivatives - Provenance (Cammille Maumet), What are derivatives for?how do we document that (Martin Nørgaard) and Connectivity (Peer Herholz)| Summarize issue from yesterday and collective agreement |
-| Noon | Lunch | Lunch | Lunch |
+| Morning | (Visit to Pioneer Center for AI - only for people who have signed up) | Current state of derivatives - Provenance (Cammille Maumet), What are derivatives for?how do we document that (Martin Nørgaard) and Connectivity (Peer Herholz)| Summarize issue from yesterday and collective agreement |
+| Noon - 1 pm | Lunch | Lunch | Lunch |
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
-|  | Mingle, drink coffee, see old friends  | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld) | Theme: complex N-dimensional data structures (connectivity)| Generic definitions and outputs
+|  | Mingle, drink coffee, have some snacks, see old friends  | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld) | Theme: complex N-dimensional data structures (connectivity)| Generic definitions and outputs
 | 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) |  |  |
 | Afternoon | Brainstorming tasks |  |  |
-| 5 pm | Reception |  | Wrap up - The way forward| 
+| 5:30 pm | Reception |  | Wrap up - The way forward| 
 | 7 pm |  | Workshop dinner |  |
+
+The hotel will serve a full breakfast to all attendees staying at the hotel
+Morning breaks will take place from 10-10:30 AM
+Afternoon breaks will take place at 3-3:30 PM (only the first day it will be at 4 pm)
 
 
 
