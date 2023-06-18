@@ -1,6 +1,6 @@
 # BIDS DERIVATIVES MEETING - 21-23 / 06 / 2023
 
-Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brings together the international working group of the the [Brain Imaging Data Structure](www.bids-standard.org) to further develop the BIDS specification for derivatives.
+Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brings together the international working group of the [Brain Imaging Data Structure](www.bids-standard.org) to further develop the BIDS specification for derivatives.
 
 This event is sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/en/) & [The Lundbeck foundation](https://lundbeckfonden.com/en)
 
@@ -29,13 +29,13 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 
 | Time | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
-| 9 am | X | Morning brief | Morning brief |
-| Morning | (Visit to Pioneer Center for AI - only for people who have signed up) | Current state of derivatives - Provenance (Cammille Maumet), What are derivatives for?how do we document that (Martin Nørgaard) and Connectivity (Peer Herholz)| Summarize issue from yesterday and collective agreement |
+| 9 am | -  | Morning brief | Morning brief |
+| Morning | [Pioneer Centre for AI](https://www.aicentre.dk/) (only for people who have signed up) | [Provenance](https://bids-specification--487.org.readthedocs.build/en/487/03-modality-agnostic-files.html#provenance-of-bids-datasets-files-and-derivatives) - Cammille Maumet, An example of short and long derivatives from [PET derivatives](https://docs.google.com/document/d/1yzsd1J9GT-aA0DWhdlgNr5LCu6_gvbjLyfvYq2FuxlY/edit?usp=sharing)  Martin Nørgaard ; Connectivity [1](https://docs.google.com/document/d/1ugBdUF6dhElXdj3u9vw0iWjE6f_Bibsro3ah7sRV0GA/edit?usp=sharing) & [2](https://docs.google.com/document/d/1GTWsj0MFQedXjOaNk6H0or6IDVFyMAysrJ9I4Zmpz2E/edit?usp=sharing) and [Atlas](https://docs.google.com/document/d/1RxW4cARr3-EiBEcXjLpSIVidvnUSHE7yJCUY91i5TfM/edit?usp=sharing) - Peer Herholz| Derivatives objectives, terms and formats |
 | Noon - 1 pm | Lunch | Lunch | Lunch |
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
-|  | Mingle, drink coffee, have some snacks, see old friends  | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld) | Theme: complex N-dimensional data structures (connectivity)| Generic definitions and outputs
+|  | Mingle, drink coffee, have some snacks, see old friends  |  | | 
 | 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) |  |  |
-| Afternoon | Brainstorming tasks |  |  |
+| Afternoon | [Meeting goals](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/derivatives_goals.md) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metatadata and provenance (jsonld) - Generic derivatives terms | Themes: - complex N-dimensional data structures (connectivity) - Generic derivatives terms|
 | 5:30 pm | Reception |  | Wrap up - The way forward| 
 | 7 pm |  | Workshop dinner |  |
 
