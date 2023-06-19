@@ -12,7 +12,7 @@ The meeting has a [code of conduct](https://github.com/openneuropet/outreach/blo
 ----------------------------------------------------------------------------------------------------  
 ## Location
 
-Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen -- see details about [the hotel, how to get there, and other travel info here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/location.md)
+The meeting takes place at the Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen -- this is also where we have booked room and breakfast, see details about [the hotel, how to get there, and other travel info here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/location.md)
 
 ## Local organizers
 
