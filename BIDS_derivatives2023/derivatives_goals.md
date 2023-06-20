@@ -34,9 +34,10 @@ Note: pipelines can have multiple outcomes: averages, effect size maps, connecti
 - common vocabulary for commonly used analyses (image and electrophy)s
    
 *BIDS Validator*
-- Yarik [recently proposed](https://github.com/bids-standard/bids-validator/issues/1676#issuecomment-1563185929) to Provide summary of how many files analyzed, have issues and ignored ; this strang discussion with Scientific Data as the streering group is trying to get journals to have something to indicate data are in BIDS.  
-- In the same vein, Viviana mentioned that we could also provide a summary for derivatives, like numnber of outcomes and if the code available (implies the json of an outcome refer to a code in the code folder) - this also means that somehow pone would know the difference between an intermediate file (for QC) and an outcome file.
-- Derivatives may have many values associated with a given key, should the validator only focus on keys and formats? 
+- Derivatives may have many values associated with a given key, should the validator only focus on some keys and formats given the ‘infinity’ of possible transforms?
+- Yarik [recently proposed](https://github.com/bids-standard/bids-validator/issues/1676#issuecomment-1563185929) to Provide summary of how many files analysed, have issues and ignored ; this came from a discussion with Scientific Data as the steering group is trying to get journals to have something to indicate data are in BIDS.
+- In the same vein, Viviana mentioned that we could also provide a summary for derivatives, like number of outcomes and if the code is available (implies the json of an outcome refer to a code in the code folder)
+
 
 ## Roadblocks
 - connectivity
