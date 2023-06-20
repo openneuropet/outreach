@@ -27,3 +27,4 @@ Cyrus Eierud
 Arnaud Delorme  
 Nell Hardcastle  
 Jean-Baptiste Poline  
+Guillaume Flandin
