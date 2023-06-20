@@ -41,7 +41,7 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 
 The hotel will serve a full breakfast to all attendees staying at the hotel  
 Morning breaks will take place from 10-10:30 AM  
-Afternoon breaks will take place at 3-3:30 PM (only the first day it will be at 4 pm)  
+Afternoon breaks will take place at 3-3:30 PM (only the first day will it be at 4 pm)  
 
 
 
