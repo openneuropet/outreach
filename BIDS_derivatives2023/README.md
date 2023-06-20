@@ -27,7 +27,7 @@ Participants are be members of the BIDS steering group, BIDS maintainers, the le
 
 The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET). Despite a schedule, if you have something that needs presented, an idea, whatever, we'll make the time for that. The plan is very much to interact and bounce ideas as much as possible.
 
-| Time | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
+| Time (CET) | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
 | 9 am | -  | Morning brief | Morning brief |
 | Morning | [Pioneer Centre for AI](https://www.aicentre.dk/) (only for people who have signed up) | [Provenance](https://bids-specification--487.org.readthedocs.build/en/487/03-modality-agnostic-files.html#provenance-of-bids-datasets-files-and-derivatives) - Cammille Maumet, An example of short and long derivatives from [PET derivatives](https://docs.google.com/document/d/1yzsd1J9GT-aA0DWhdlgNr5LCu6_gvbjLyfvYq2FuxlY/edit?usp=sharing)  Martin Nørgaard ; Connectivity [1](https://docs.google.com/document/d/1ugBdUF6dhElXdj3u9vw0iWjE6f_Bibsro3ah7sRV0GA/edit?usp=sharing) & [2](https://docs.google.com/document/d/1GTWsj0MFQedXjOaNk6H0or6IDVFyMAysrJ9I4Zmpz2E/edit?usp=sharing) and [Atlas](https://docs.google.com/document/d/1RxW4cARr3-EiBEcXjLpSIVidvnUSHE7yJCUY91i5TfM/edit?usp=sharing) - Peer Herholz [Join us via Zoom](https://ucph-ku.zoom.us/j/65737595002?pwd=R3lkMkh1R0N5NnYwWHVpckdsbkJ3dz09 )| Derivatives objectives, terms and formats |
