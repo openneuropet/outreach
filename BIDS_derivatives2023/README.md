@@ -43,6 +43,9 @@ The hotel will serve a full breakfast to all attendees staying at the hotel
 Morning breaks will take place from 10-10:30 AM  
 Afternoon breaks will take place at 3-3:30 PM (only the first day will it be at 4 pm)  
 
+### BIDS merchandise
+And in case you want to get some BIDS merchandise, check out this [site](https://www.teepublic.com/user/bids?utm_campaign=bids-merch&utm_medium=social&utm_source=designer)
+
 
 
 
