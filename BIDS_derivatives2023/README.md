@@ -39,7 +39,7 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 | 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) [Join us via Zoom](https://ucph-ku.zoom.us/j/63839620872?pwd=NXV2UEMwQVBWL1B3YWx1ZEttaUdiUT09) |  |  |
 | Afternoon | [Meeting goals](https://docs.google.com/presentation/d/1hweQZQh5RLPg6AW-s8qi1DoZCxzAs9ly/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metatadata and provenance - Generic derivatives terms [Zoom link](https://ucph-ku.zoom.us/j/63403766844?pwd=WXdmbEZzZlQ0a29ieEFLL2ppbHROQT09 ) | Themes: - atlas - Generic derivatives terms - electrophys push and integration [Zoom link](https://ucph-ku.zoom.us/j/63403766844?pwd=WXdmbEZzZlQ0a29ieEFLL2ppbHROQT09 )|
 | 5:30 pm | Reception |  | Wrap up - The way forward| 
-| 7 pm |  | [Workshop dinner](https://www.madklubben.dk/restauranter/koebenhavn/mammas/regnbuepladsen) |  |
+| 7:15 pm |  | [Workshop dinner](https://www.madklubben.dk/restauranter/koebenhavn/mammas/regnbuepladsen) |  |
 
 The hotel will serve a full breakfast to all attendees staying at the hotel  
 Morning breaks will take place from 10-10:30 AM  
