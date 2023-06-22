@@ -27,6 +27,8 @@ Participants are be members of the BIDS steering group, BIDS maintainers, the le
 
 The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET). Despite a schedule, if you have something that needs presented, an idea, whatever, we'll make the time for that. The plan is very much to interact and bounce ideas as much as possible.
 
+  Google doc for working together [here](https://docs.google.com/document/d/1VfIEWwacQ2xMCLV_NFTFdH61OZ7p9VCiaSXU9FaXbic/edit?usp=sharing)  
+
 | Time (CET) | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
 | 9 am | -  | Morning brief | Morning brief |
