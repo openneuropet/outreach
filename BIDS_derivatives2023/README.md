@@ -21,23 +21,21 @@ Cyril Pernet: cyril.pernet [at] nru.dk
 
 ## Attendees
 
-Participants are be members of the BIDS steering group, BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives and other members of the communauty. The full [list of partcipants can be found here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md).
+Participants are members of the BIDS steering group, BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives and other members of the community. The full [list of participants can be found here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md).
 
 ### Schedule
 
-The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET). Despite a schedule, if you have something that needs presented, an idea, whatever, we'll make the time for that. The plan is very much to interact and bounce ideas as much as possible.
-
-  Google doc for working together [here](https://docs.google.com/document/d/1VfIEWwacQ2xMCLV_NFTFdH61OZ7p9VCiaSXU9FaXbic/edit?usp=sharing)  
+The workshop will consist of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET). Despite a schedule, if you have something that needs to be presented, an idea, or whatever, we'll make the time for that. The plan is very much to interact and bounce ideas as much as possible.
 
 | Time (CET) | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
 | 9 am | -  | Morning brief | Morning brief |
-| Morning | [Pioneer Centre for AI](https://www.aicentre.dk/) (only for people who have signed up) | [Provenance](https://bids-specification--487.org.readthedocs.build/en/487/03-modality-agnostic-files.html#provenance-of-bids-datasets-files-and-derivatives) - Camille Maumet, An example of short and long derivatives from [PET derivatives](https://docs.google.com/document/d/1yzsd1J9GT-aA0DWhdlgNr5LCu6_gvbjLyfvYq2FuxlY/edit?usp=sharing)  Martin Nørgaard ; Connectivity [1](https://docs.google.com/document/d/1ugBdUF6dhElXdj3u9vw0iWjE6f_Bibsro3ah7sRV0GA/edit?usp=sharing) & [2](https://docs.google.com/document/d/1GTWsj0MFQedXjOaNk6H0or6IDVFyMAysrJ9I4Zmpz2E/edit?usp=sharing) and [Atlas](https://docs.google.com/document/d/1RxW4cARr3-EiBEcXjLpSIVidvnUSHE7yJCUY91i5TfM/edit?usp=sharing) - Peer Herholz [Join us via Zoom](https://ucph-ku.zoom.us/j/65737595002?pwd=R3lkMkh1R0N5NnYwWHVpckdsbkJ3dz09 )| Derivatives objectives, terms and formats [Zoom Link](https://ucph-ku.zoom.us/j/63839620872?pwd=NXV2UEMwQVBWL1B3YWx1ZEttaUdiUT09)|
+| Morning | [Pioneer Centre for AI](https://www.aicentre.dk/) (only for people who have signed up) | [Provenance](https://bids-specification--487.org.readthedocs.build/en/487/03-modality-agnostic-files.html#provenance-of-bids-datasets-files-and-derivatives) - Camille Maumet, An example of short and long derivatives from [PET derivatives](https://docs.google.com/document/d/1yzsd1J9GT-aA0DWhdlgNr5LCu6_gvbjLyfvYq2FuxlY/edit?usp=sharing)  Martin Nørgaard ; Connectivity [1](https://docs.google.com/document/d/1ugBdUF6dhElXdj3u9vw0iWjE6f_Bibsro3ah7sRV0GA/edit?usp=sharing) & [2](https://docs.google.com/document/d/1GTWsj0MFQedXjOaNk6H0or6IDVFyMAysrJ9I4Zmpz2E/edit?usp=sharing) and [Atlas](https://docs.google.com/document/d/1RxW4cARr3-EiBEcXjLpSIVidvnUSHE7yJCUY91i5TfM/edit?usp=sharing) - Peer Herholz|
 | Noon - 1 pm | Lunch | Lunch | Lunch |
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
 |  | Mingle, drink coffee, have some snacks, see old friends  |  | | 
 | 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) [Join us via Zoom](https://ucph-ku.zoom.us/j/63839620872?pwd=NXV2UEMwQVBWL1B3YWx1ZEttaUdiUT09) |  |  |
-| Afternoon | [Meeting goals](https://docs.google.com/presentation/d/1hweQZQh5RLPg6AW-s8qi1DoZCxzAs9ly/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metatadata and provenance - Generic derivatives terms [Zoom link](https://ucph-ku.zoom.us/j/63403766844?pwd=WXdmbEZzZlQ0a29ieEFLL2ppbHROQT09 ) | Themes: - atlas - Generic derivatives terms - electrophys push and integration [Zoom link](https://ucph-ku.zoom.us/j/63403766844?pwd=WXdmbEZzZlQ0a29ieEFLL2ppbHROQT09)|
+| Afternoon | [Meeting goals](https://docs.google.com/presentation/d/1hweQZQh5RLPg6AW-s8qi1DoZCxzAs9ly/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metatadata and provenance - Generic derivatives terms | Themes: - atlas - Generic derivatives terms - electrophys push and integration |
 | 5:30 pm | Reception |  | Wrap up - The way forward| 
 | 7:15 pm |  | [Workshop dinner](https://www.madklubben.dk/restauranter/koebenhavn/mammas/regnbuepladsen) |  |
 
