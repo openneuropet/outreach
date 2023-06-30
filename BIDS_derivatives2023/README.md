@@ -20,7 +20,7 @@ Cyril Pernet: cyril.pernet [at] nru.dk
 
 Participants were members of the BIDS steering group, BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives and other members of the community. The full [list of participants can be found here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md).
 
-![image info]([./pictures/image.png](https://github.com/openneuropet/outreach/blob/main/Templates/Images/BIDS_derivatives_group_pic.jpg)
+<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/BIDS_derivatives_group_pic.jpg">
 
 ### Work done
 
