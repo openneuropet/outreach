@@ -1,18 +1,15 @@
 # BIDS DERIVATIVES MEETING - 21-23 / 06 / 2023
 
-Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brings together the international working group of the [Brain Imaging Data Structure](www.bids-standard.org) to further develop the BIDS specification for derivatives.
+Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the workshop physically brought together the international working group of the [Brain Imaging Data Structure](www.bids-standard.org) to develop the BIDS specification for derivatives.
 
-This event is sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/en/) & [The Lundbeck foundation](https://lundbeckfonden.com/en)
+This event was sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/en/) & [The Lundbeck foundation](https://lundbeckfonden.com/en)
 
 <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="150"> <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/Lundbeck.png" width="200" height="150">
 
 ----------------------------------------------------------------------------------------------------    
-The meeting has a [code of conduct](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/code_of_conduct.md) - make sure you have a read.  
-
-----------------------------------------------------------------------------------------------------  
 ## Location
 
-The meeting takes place at the Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen -- this is also where we have booked room and breakfast, see details about [the hotel, how to get there, and other travel info here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/location.md)
+The meeting took place at the Radisson Blu Scandinavia Hotel, Amager Boulevard 70, 2300 Copenhagen.
 
 ## Local organizers
 
@@ -21,11 +18,13 @@ Cyril Pernet: cyril.pernet [at] nru.dk
 
 ## Attendees
 
-Participants are members of the BIDS steering group, BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives and other members of the community. The full [list of participants can be found here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md).
+Participants were members of the BIDS steering group, BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives and other members of the community. The full [list of participants can be found here](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/attendees.md).
 
-### Schedule
+![image info]([./pictures/image.png](https://github.com/openneuropet/outreach/blob/main/Templates/Images/BIDS_derivatives_group_pic.jpg))
 
-The workshop will consist of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET). Despite a schedule, if you have something that needs to be presented, an idea, or whatever, we'll make the time for that. The plan is very much to interact and bounce ideas as much as possible.
+### Work done
+
+The workshop consisted of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET) resulting in updated BIDS derivatives common terms and new guidelines to develop a derivatives BEP. Specific work on advancing the Atlas, Provenance and Common Electrophysiological derivatives also took place.
 
 | Time (CET) | Wednesday, June 21st | Thursday, June 22nd | Friday, June 23rd |
 |---|---|---|---|
@@ -38,10 +37,6 @@ The workshop will consist of 2 ½ days (Wednesday afternoon - Friday) of collabo
 | Afternoon | [Meeting goals](https://docs.google.com/presentation/d/1hweQZQh5RLPg6AW-s8qi1DoZCxzAs9ly/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metatadata and provenance - Generic derivatives terms | Themes: - atlas - Generic derivatives terms - electrophys push and integration |
 | 5:30 pm | Reception |  | Wrap up - The way forward| 
 | 7:15 pm |  | [Workshop dinner](https://www.madklubben.dk/restauranter/koebenhavn/mammas/regnbuepladsen) |  |
-
-The hotel will serve a full breakfast to all attendees staying at the hotel  
-Morning breaks will take place from 10-10:30 AM  
-Afternoon breaks will take place at 3-3:30 PM (only the first day will it be at 4 pm)  
 
 ### BIDS merchandise
 And in case you want to get some BIDS merchandise, check out this [site](https://www.teepublic.com/user/bids?utm_campaign=bids-merch&utm_medium=social&utm_source=designer)
