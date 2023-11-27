@@ -5,8 +5,10 @@ Our brainhack is split into an educational session about BIDS on the 22nd and ha
 <img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
 ----------------------------------------------------------------------------------------------------
-   **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
+** REGISTER VIA THIS [FORM](https://docs.google.com/forms/d/e/1FAIpQLSftpj36cZJhA2HNtmwtO5UpfkRcY6vXkElhlelNDXAwROA3Ew/viewform?usp=sf_link) **
 
+----------------------------------------------------------------------------------------------------
+   **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
 ----------------------------------------------------------------------------------------------------    
 Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/code_of_conduct.md) - make sure you have a read.  
 

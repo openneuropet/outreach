@@ -2,7 +2,7 @@
 
 Dr Cyril Pernet  
 Dr Granville Matheson
-Dr arang S. Dalal
+Dr Sarang S. Dalal
 
 ## Contact
 
