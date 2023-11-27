@@ -11,13 +11,13 @@ FULL DAY MEETING with breakfast and lunch - Sponsored by [Novo Nordisk fonden](h
 
 ## Time: 
 
-08.30 Morning serving for hungry people
-09.00 Unconference
-12.00 Lunch
-13.00 Hack-away
-15.00 Afternoon serving
-16.30 End of the day
-    
+08.30 Morning serving for hungry people  
+09.00 Unconference  
+12.00 Lunch  
+13.00 Hack-away  
+15.00 Afternoon serving  
+16.30 End of the day  
+      
     Standard AV equipment
     LCD screen, sound system, paper, pens and flipchart.
    
