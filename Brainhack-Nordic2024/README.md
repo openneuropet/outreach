@@ -1,6 +1,6 @@
 # Brainhack Nordic - 22-23-24 January 2024
 
-Our brainhack is split into an educational session about BIDS on the 22nd and hacking sessions/project based unconference on the 23rd and 24th. 
+Our brainhack is split into a BIDS educational day on the 22nd, followed by hacking sessions/project based unconference on the 23rd and 24th. 
 
 <img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
@@ -24,13 +24,27 @@ Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/open
 
 All times are CEST (GMT+1:00)
 
-### January 22th
+### January 22th: BIDS Educational Day
 
-- Morning: BIDS training, source, raw, derivatives, and generic tools  
-- Afternoon, parallel tracks: - PET BIDS App, getting the most of PET BIDS for data analyses  
-                              - BIDS derivatives, common electrophysiology and MRI derivatives  
+This day is devoted to onboarding and training for researchers into the basics of the BIDS standard, as well as hands-on sessions covering both data curation and the use of BIDS apps. 
+
+- Morning: The BIDS Standard
+   - Terminology and Data Structure: source, raw, derivatives
+   - Generic tools
+
+- Afternoon: Parallel tracks
+   - **PET**: hands-on demonstration of BIDS tooling for PET data
+      - *Data Curation*: PET2BIDS
+      - *BIDS Apps*: A roundup of some existing and upcoming BIDS apps relevant to PET analysis and practical demonstrations
+
+   - **BIDS derivatives:** organizing and describing outputs of computations performed on brain imaging data
+      - *Electrophysiology*
+      - *MRI*
+
 
 ### January 23th - 24th
+
+These days are devoted to projects, getting help with application of tools learned during the BIDS educational day to your own datasets, or anything else you want, in total unconference style. 
 
 - Public nEUro: sharing data in Europe, short presentation and discussion
 
