@@ -48,7 +48,7 @@ These days are devoted to projects, getting help with applying lessons learned d
 
 - Public nEUro: sharing data in Europe, short presentation and discussion
 
-- Unconference: project based hacking, see [projects]
+- Unconference: project based hacking, see [Projects]
 
 ## [Projects]
 - Head modelling and applications
