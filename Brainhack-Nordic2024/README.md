@@ -26,25 +26,25 @@ All times are CEST (GMT+1:00)
 
 ### January 22th: BIDS Educational Day
 
-This day is devoted to onboarding and training for researchers into the basics of the BIDS standard, as well as hands-on sessions covering both data curation and the use of BIDS apps. 
+This day is devoted to onboarding and training for researchers covering the basics of the BIDS standard, as well as more focused hands-on sessions in the afternoon. 
 
-- Morning: The BIDS Standard
+- **Morning Session: The BIDS Standard**
    - Terminology and Data Structure: source, raw, derivatives
    - Generic tools
 
-- Afternoon: Parallel tracks
-   - **PET**: hands-on demonstration of BIDS tooling for PET data
-      - *Data Curation*: PET2BIDS
-      - *BIDS Apps*: A roundup of some existing and upcoming BIDS apps relevant to PET analysis and practical demonstrations
+- **Afternoon Session: Parallel tracks**
+   - *PET-BIDS*: hands-on demonstrations of BIDS tooling for PET data
+      - Data Curation: Tools for helping you more easily convert your data to BIDS.
+      - BIDS Apps: How to get the most out of your BIDS datasets, with existing and upcoming tools.
 
-   - **BIDS derivatives:** organizing and describing outputs of computations performed on brain imaging data
-      - *Electrophysiology*
-      - *MRI*
+   - *BIDS derivatives:* organizing and describing outputs of computations performed on brain imaging data
+      - Electrophysiology derivatives
+      - MRI derivatives
 
 
 ### January 23th - 24th
 
-These days are devoted to projects, getting help with application of tools learned during the BIDS educational day to your own datasets, or anything else you want, in total unconference style. 
+These days are devoted to projects, getting help with applying lessons learned during the BIDS educational day, or anything else you want, in total unconference style. 
 
 - Public nEUro: sharing data in Europe, short presentation and discussion
 
@@ -52,3 +52,4 @@ Unconference: project based hacking, see [projects]
 
 ## [Projects]
 - Head modelling and applications
+- Creating a preliminary BIDS App PET for kinetic modelling using both invasive and non-invasive models
