@@ -48,8 +48,8 @@ These days are devoted to projects, getting help with applying lessons learned d
 
 - Public nEUro: sharing data in Europe, short presentation and discussion
 
-- Unconference: project based hacking, see [Projects]
+- Unconference: project based hacking, see [Projects](#projects)
 
 ## [Projects]
 - Head modelling and applications
-- Creating a preliminary BIDS App PET for easy kinetic modelling using both invasive and non-invasive models with *kinfitr*
+- Creating a preliminary BIDS App PET for kinetic modelling using both invasive and non-invasive models based on *kinfitr*
