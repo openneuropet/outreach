@@ -50,6 +50,6 @@ These days are devoted to projects, getting help with applying lessons learned d
 
 - Unconference: project based hacking, see [Projects](#projects)
 
-## [Projects]
+## Projects
 - Head modelling and applications
 - Creating a preliminary BIDS App PET for kinetic modelling using both invasive and non-invasive models based on *kinfitr*
