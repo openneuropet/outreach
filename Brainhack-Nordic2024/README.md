@@ -52,4 +52,4 @@ Unconference: project based hacking, see [projects]
 
 ## [Projects]
 - Head modelling and applications
-- Creating a preliminary BIDS App PET for kinetic modelling using both invasive and non-invasive models
+- Creating a preliminary BIDS App PET for easy kinetic modelling using both invasive and non-invasive models with *kinfitr*

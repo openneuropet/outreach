@@ -40,3 +40,4 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [International Neuroinformatics Coordinating Facility Annual Assembly](https://www.incf.org/blog/welcome-incf-assembly-2022) | Sept 12th-16th 2022 |
 | [Brainhack](https://brainhack.org/) Nordic | Dec. 12th - Dec 14th 2022 |
 | [BIDS derivatives meeting](https://bids.neuroimaging.io/) | June 21st-23rd 2023 |
+| [Brainhack](https://brainhack.org/) Nordic | Jan. 22nd - Jan 24th 2024 |
