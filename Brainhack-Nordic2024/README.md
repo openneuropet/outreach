@@ -14,11 +14,11 @@ Our brainhack is split into a BIDS educational day on the 22nd, followed by hack
 Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/code_of_conduct.md) - make sure you have a read.  
 
 ----------------------------------------------------------------------------------------------------  
-## [Location](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2022/location.md)
+## [Location](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2024/location.md)
 
-## [Team and contact](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2022/team.md)
+## [Team and contact](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2024/team.md)
 
-## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2022/attendees.md)
+## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2024/attendees.md)
 
 ## Schedule
 
