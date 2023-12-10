@@ -15,7 +15,8 @@ Read our PET-BIDS paper #openaccess published at [nature Scientific Data](https:
 
 ## Talks about data sharing
 
-We discussed data sharing issues in EU and how OpenNeuroPET implements data sharing ([The case of opening brain images to advance cognitive and clinical neuroscience](https://doi.org/10.6084/m9.figshare.16652761.v1)) during then [European Network of Research Integrity Offices](http://www.enrio.eu/) 2021 conference. A related discussion in the context of clinical data was also presented at the [European Society for Magnetic Resonance in Medicine and Biology](https://www.esmrmb.org/congress/esmrmb-2021/) 2021 annual meeting ([Data sharing standard for brain tumour imaging in the era of GDPR](https://doi.org/10.6084/m9.figshare.16676521.v1)).
+We presented the status of "PET data sharing and BIDS" at the [OpenKMI Workshop at IEEE Medical Imaging Conference 2023](https://www.openkmi.org/workshop/openkmi_mic2023).
+We discussed data sharing issues in EU and how OpenNeuroPET implements data sharing ([The case of opening brain images to advance cognitive and clinical neuroscience](https://doi.org/10.6084/m9.figshare.16652761.v1)) during the [European Network of Research Integrity Offices](http://www.enrio.eu/) 2021 conference. A related discussion in the context of clinical data was also presented at the [European Society for Magnetic Resonance in Medicine and Biology](https://www.esmrmb.org/congress/esmrmb-2021/) 2021 annual meeting ([Data sharing standard for brain tumour imaging in the era of GDPR](https://doi.org/10.6084/m9.figshare.16676521.v1)).
 
 ## Talks about PET data processing
 
@@ -40,4 +41,5 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [International Neuroinformatics Coordinating Facility Annual Assembly](https://www.incf.org/blog/welcome-incf-assembly-2022) | Sept 12th-16th 2022 |
 | [Brainhack](https://brainhack.org/) Nordic | Dec. 12th - Dec 14th 2022 |
 | [BIDS derivatives meeting](https://bids.neuroimaging.io/) | June 21st-23rd 2023 |
+| [Open KMI Workshop](https://www.openkmi.org/workshop/openkmi_mic2023) | Nov. 7th 2023 |
 | [Brainhack](https://brainhack.org/) Nordic | Jan. 22nd - Jan 24th 2024 |
