@@ -20,6 +20,8 @@ Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/open
 
 ## [Attendees](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2024/attendees.md)
 
+## [keep in touch using the BrainHack Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet)  
+
 ## Schedule
 
 All times are CEST (GMT+1:00)
