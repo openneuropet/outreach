@@ -1,7 +1,26 @@
 ## Attendees
+  
+Ruben Dörfel, DK  
+Sarang Dalal, DK  
+Igori Comarovschii, SE  
+Anastasiia Andriievska, SE  
+Alessio Giacomel, UK  
+Martin Norgaard, DK  
+Melanie Ganz, DK  
+Antonia Karamolegkou, DK  
+Alec, ?  
+Tamas Minarik, DK  
+Martin Bolin, SE  
+Sumit Pandey, DK  
+Granville Matheson, SE  
+Stefan Heinrich, DK  
+Yoana Monov, ?  
+Jesús Díaz Pereira, DK  
+Anders Petersen, DK  
+Maud Ottenheijm, DK  
+Axel Thielscher, DK  
+Jesper Duemose Nielsen, DK  
+Lau Møller Andersen, DK  
+leah banellis, DK  
+Cyril Pernet, DK  
 
-Melanie Ganz  
-Granville Matheson   
-Martin Nørgard
-Cyril Pernet  
-Sarang Dalal
