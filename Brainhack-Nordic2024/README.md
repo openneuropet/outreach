@@ -55,3 +55,4 @@ These days are devoted to projects, getting help with applying lessons learned d
 ## Projects
 - Head modelling and applications
 - Creating a preliminary BIDS App PET for kinetic modelling using both invasive and non-invasive models based on *kinfitr*
+- 24th from 2pm PM -- BIDS Atlas PEB development (jisti meeting)[https://meet.jit.si/BIDS_connectivity_project_meeting] @PeerHerhol
