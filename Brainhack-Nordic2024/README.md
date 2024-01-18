@@ -26,6 +26,13 @@ Brainhack Nordic follows the [BrainHack code of conduct](https://github.com/open
 
 All times are CEST (GMT+1:00)
 
+08.30 Morning serving for hungry people
+09.00 Unconference
+12.00 Lunch
+13.00 Hack-away
+15.00 Afternoon serving
+16.30 End of the day
+
 ### January 22th: BIDS Educational Day
 
 This day is devoted to onboarding and training for researchers covering the basics of the BIDS standard, as well as more focused hands-on sessions in the afternoon. 
