@@ -2,13 +2,11 @@
   
 Ruben Dörfel, DK  
 Sarang Dalal, DK  
-Igori Comarovschii, SE  
-Anastasiia Andriievska, SE  
 Alessio Giacomel, UK  
 Martin Norgaard, DK  
 Melanie Ganz, DK  
 Antonia Karamolegkou, DK  
-Alec, ?  
+Alec Gallo, DK  
 Tamas Minarik, DK  
 Martin Bolin, SE  
 Sumit Pandey, DK  
