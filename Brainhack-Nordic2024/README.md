@@ -60,6 +60,6 @@ These days are devoted to projects, getting help with applying lessons learned d
 - Unconference: project based hacking, see [Projects](#projects)
 
 ## Projects
-- Head modelling and applications
+- Head modelling and applications (extending FEM for MEG head models in [SimNIBS](https://simnibs.org), and integrating SimNIBS head models into [MNE-Python](https://mne.tools))
 - Creating a preliminary BIDS App PET for kinetic modelling using both invasive and non-invasive models based on *kinfitr*
 - 24th from 2pm PM -- BIDS Atlas PEB development [jisti meeting](https://meet.jit.si/BIDS_connectivity_project_meeting) @PeerHerhol
