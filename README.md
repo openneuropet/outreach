@@ -40,7 +40,7 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [NeuroHackademy](https://github.com/neurohackademy/nh2022-curriculum/tree/main/ganz-petbids) |  July 25th – August 5th 2022 |
 | [International Neuroinformatics Coordinating Facility Annual Assembly](https://www.incf.org/blog/welcome-incf-assembly-2022) | Sept 12th-16th 2022 |
 | [Brainhack](https://brainhack.org/) Nordic | Dec. 12th - Dec 14th 2022 |
-| [BIDS derivatives meeting]([https://bids.neuroimaging.io/](https://github.com/openneuropet/outreach/tree/main/BIDS_derivatives2023)) | June 21st-23rd 2023 |
+| [BIDS](https://bids.neuroimaging.io) [derivatives meeting](https://github.com/openneuropet/outreach/tree/main/BIDS_derivatives2023) | June 21st-23rd 2023 |
 | [Open KMI Workshop](https://www.openkmi.org/workshop/openkmi_mic2023) | Nov. 7th 2023 |
 | [Brainhack](https://brainhack.org/) Nordic | Jan. 22nd - Jan 24th 2024 |
 | [NRM 2024](https://www.mcgill.ca/nrm2024/) | May 18th - May 21st 2024 |
