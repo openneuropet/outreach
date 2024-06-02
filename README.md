@@ -44,3 +44,4 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [Open KMI Workshop](https://www.openkmi.org/workshop/openkmi_mic2023) | Nov. 7th 2023 |
 | [Brainhack](https://brainhack.org/) Nordic | Jan. 22nd - Jan 24th 2024 |
 | [NRM 2024](https://www.mcgill.ca/nrm2024/) | May 18th - May 21st 2024 |
+| [Stratneuro 2024](https://news.ki.se/calendar/stratneuro-retreat-2024-exclusive-day-for-phd-students) | June 3rd 2024 |
