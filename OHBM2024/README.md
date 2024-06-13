@@ -1,12 +1,42 @@
-# Brain Imaging Data Structure (BIDS) tutorial at StratNeuro 2024
+# Molecular Imaging: A Hands-on Tutorial Based on Open Access Datasets (OHBM2024)
 
-In this tutorial we will introduce you to BIDS basics. It's meant for BIDS newbies, since a [survey prior to the event](./StratNeuro2024_intro.pdf) revealed a background without much neuroimaging experience.
+## Course Details
+- **Submission Type:** Educational Course - Half Day (4 hours)  
+- **Organizers:**
+  - Arianna Sala, Université De Liège, Liege, Belgium
+  - Igor Yakushev, Dept. of Nuclear Medicine, Technical University of Munich, Munich, Germany
 
-First, we will give you a basic BIDS intro before then working on a BIDS basic conversion of a PET phantom data set. 
-The [slides](https://osf.io/e3b2m) for the basic intro are freely available on the Open Science Foundation's data sharing server. A special thanks to Ariel Rokem from the University of Washington for making them and sharing them with the community for re-use.
+## Presenters
+- **Igor Yakushev**, Dept. of Nuclear Medicine, Technical University of Munich, Munich, Germany
+- **Alessandra Bertoldo**, Padova Neuroscience Center, Padua, Italy
+- **Arianna Sala**, Université De Liège, Liege, Belgium
+- **Xin Di**, New Jersey Institute of Technology, Newark, USA
+- **Martin Nørgaard, PhD**, Copenhagen University, Copenhagen, Denmark
+- **Granville Matheson**, Columbia University / Karolinska Institutet, USA / Sweden
 
-Next, using the [provided Jupyter notebook](./PET_BIDS_tutorial_Colab.ipynb) in this folder and [Google Colab](http://colab.research.google.com/), you will download some phantom data in neuroimaging formats as they come of a scanner and then work on converting it to BIDS format. A special thnaks to BIDS maintainer Anthony Galassi for adding additional functionality to the notebook to make it run in any Colab environment. We will also introduce you to a BIDS converter that runs fully online, [EZBids](https://brainlife.io/ezbids/), that though comes with some restrictions for European data users. 
+## Overview
+This half-day educational course introduces the essentials of molecular imaging, focusing on practical, hands-on experience using open-access datasets. The course is designed to expand participants' understanding of neuroimaging beyond traditional methods, emphasizing the integration of molecular features with connectomics.
 
-Finally, we will also spend time on how we can utilize data in BIDS format for easy processing of neuroimaging data. We will finish the day by talking about machine learning applications and how BIDS can be useful for them. Thos slides are available [here](./StratNeuro2024_part2.pdf)
+## Detailed Session by Martin Nørgaard
+- **Duration:** 40 minutes  
+- **Topic:** PET Imaging of Neurotransmitter Systems: Access and Pre-processing (based on CIMBI or the OpenNeuro database)  
+Martin Nørgaard will explore PET imaging of neurotransmitter systems, focusing on the COX-2 using the radiotracer [11C]MC1. This session will cover data acquisition from OpenNeuro, including essential preprocessing steps such as motion correction, registration, and segmentation. Participants will learn about the latest open-source tools like PETSurfer and PETPrep, empowering them to develop their own PET processing pipelines.
 
-Other practical details for the day can be found [here](https://news.ki.se/calendar/stratneuro-retreat-2024-exclusive-day-for-phd-students).
+## Code
+Using the [provided Jupyter notebook](./PET_preproc_tutorial_colab.ipynb) in this folder and [Google Colab](http://colab.research.google.com/), you will download a subset of a PET-BIDS dataset located on OpenNeuro (https://openneuro.org/datasets/ds004869/versions/1.0.1). Next, you will apply various PET preprocessing steps to the data using petprep_hmc for robust head motion correction and petprep_extract_tacs for co-registration, segmentation and extraction of time activity curves. 
+
+## Educational Objectives
+1. Understand the basic principles of brain molecular imaging.
+2. Learn how to access and preprocess brain molecular imaging data.
+
+## Target Audience
+The course is designed for neuroimaging researchers at all levels of expertise who are keen to enhance their knowledge and skills in cutting-edge molecular imaging techniques.
+
+## Interactive Components
+Approximately 60% of the course time is dedicated to interactive elements, including live quizzes and hands-on sessions where participants engage in data preprocessing and quantification on their laptops.
+
+## Diversity and Inclusion
+The diverse panel of speakers and organizers from various stages of their careers and different international backgrounds ensures a rich, inclusive, and multi-perspective educational experience.
+
+## Justification for Speaker Selection and Scientific Perspectives
+The selection of speakers and the topics covered reflect OHBM’s commitment to diversity. The course utilizes a range of software tools and analytical perspectives, catering to a wide array of scientific interests and providing a comprehensive overview of the current landscape in molecular neuroimaging.
