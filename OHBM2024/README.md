@@ -11,7 +11,7 @@
 - **Alessandra Bertoldo**, Padova Neuroscience Center, Padua, Italy
 - **Arianna Sala**, Université De Liège, Liege, Belgium
 - **Xin Di**, New Jersey Institute of Technology, Newark, USA
-- **Martin Nørgaard, PhD**, Copenhagen University, Copenhagen, Denmark
+- **Martin Nørgaard, PhD**, University of Copenhagen, Copenhagen, Denmark
 - **Granville Matheson**, Columbia University / Karolinska Institutet, USA / Sweden
 
 ## Overview
