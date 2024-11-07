@@ -3,12 +3,14 @@ if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
 if (!requireNamespace("jsonlite", quietly = TRUE)) install.packages("jsonlite")
 if (!requireNamespace("ggplot2", quietly = TRUE)) install.packages("ggplot2")
 if (!requireNamespace("maps", quietly = TRUE)) install.packages("maps")
+if (!requireNamespace("hexbin", quietly = TRUE)) install.packages("hexbin")
 
 # Load required libraries
 
 library(httr)
 library(jsonlite)
 library(ggplot2)
+library(hexbin)
 library(maps)
 
 # Define the URL to fetch data from
@@ -95,7 +97,7 @@ plot4 <- ggplot(data=locations) +
 
 
 # Save plots
-ggsave("locations_pointplot.png", plot = plot1)
-ggsave("locations_heatmap.png", plot = plot2)
-ggsave("locations_countrymap.png", plot = plot3)
-ggsave("locations_hexmap.png", plot = plot4)
+ggsave("locations_pointplot.png", plot = plot1, height=5, width=8)
+ggsave("locations_heatmap.png", plot = plot2, height=5, width=8)
+ggsave("locations_countrymap.png", plot = plot3, height=5, width=9)
+ggsave("locations_hexmap.png", plot = plot4, height=5, width=9)
