@@ -10,3 +10,10 @@ OpenNeuroPET-PHANTOMS/
 ds001421-download/
 mynewfolder*/
 PET_pipelines
+
+# ignore R stuff
+.RData
+.Rhistory
+
+# ignore vscode
+.vscode
