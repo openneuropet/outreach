@@ -33,7 +33,7 @@ The workshop aims to provide hands-on training for PET researchers in the Nordic
 
 The workshop aims to provide practical, hands-on training in the following:
 
-* What BIDS is and how it can be beneficial for research infrastructure an reproducible analysis.
+* What BIDS is and how it can be beneficial for research infrastructure and reproducible analysis.
 * How BIDS can simplify sharing of resarch data using both open-access and closed-access.
 * How to install and apply open-source tools, including ezBIDS and PET2BIDS, to facilitate data curation.
 * How to install and use several recent BIDS Apps for PET data processing and analysis.
