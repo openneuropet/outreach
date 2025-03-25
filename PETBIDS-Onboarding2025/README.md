@@ -10,8 +10,10 @@ The workshop aims to provide hands-on training for PET researchers in the Nordic
    **LOCATION:** Karolinska Institutet, Stockholm, Sweden
 
    **REGISTRATION:** [Complete this form](https://forms.gle/xZjbhELEEJLtoXHw8)
-   
+
 ----------------------------------------------------------------------------------------------------
+
+![](BIDS_PET.png)
 
 ## Information
 
@@ -97,3 +99,5 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 |13h00 |PET-BIDS Tool Demonstrations and Tutorials (continued)                         |
 |14h30 |**COFFEE & SNACKS**                                                            |
 |15h00 |Applying/Trying Out Lessons Learned (with supervision)                         |
+
+
