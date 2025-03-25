@@ -9,11 +9,11 @@ The workshop aims to provide hands-on training for PET researchers in the Nordic
 
    **LOCATION:** Karolinska Institutet, Stockholm, Sweden
 
-   **REGISTRATION:** [Complete this form](https://forms.gle/xZjbhELEEJLtoXHw8)
+   **REGISTRATION:** [Complete this form ](https://forms.gle/xZjbhELEEJLtoXHw8)
 
 ----------------------------------------------------------------------------------------------------
 
-![](BIDS_PET.png)
+![ ](BIDS_PET.png)
 
 ## Information
 
