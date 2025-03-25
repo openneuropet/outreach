@@ -15,6 +15,7 @@ The workshop aims to provide hands-on training for PET researchers in the Nordic
 
 ![ ](BIDS_PET.png)
 
+
 ## Information
 
 #### What benefits does BIDS offer?
