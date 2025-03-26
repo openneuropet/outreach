@@ -24,7 +24,7 @@ The workshop aims to provide hands-on training for PET researchers in the Nordic
 
 2. **Simplified Data Infrastructure:** BIDS stores all PET information (including data not in image headers) in a data structure which is both human-readable and machine-readable, facilitating data handoff between researchers and within-group data organisation, as well as access to community-developed methods and tools.
 
-3. **Streamlined Analysis:** BIDS enables access to "BIDS Apps" - containerized tools that can automatically process your data with minimal commands and without complex installation requirements.
+3. **Streamlined Analysis:** BIDS enables automation to process datasets via dedicated pipelines or  "BIDS Apps" (containerized tools that can automatically process your data with minimal commands and without complex installation requirements).
 
 4. **Future-Proof Research:** As new methods are developed, they're converted to BIDS apps that can be immediately applied to your BIDS-formatted data.
 
@@ -37,6 +37,7 @@ The workshop aims to provide practical, hands-on training in the following:
 * How BIDS can simplify sharing of resarch data using both open-access and closed-access.
 * How to install and apply open-source tools, including ezBIDS and PET2BIDS, to facilitate data curation.
 * How to install and use several recent BIDS Apps for PET data processing and analysis.
+* Learn about options for EU researchers to share data.
 
 In so doing, we hope to establish a community of Nordic PET researchers at various PET centres who can collaborate with one another and assist one another in their BIDS transitions.
 
@@ -93,11 +94,11 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 |Time  |Topic                                                                          |
 |:-----|:------------------------------------------------------------------------------|
-|09h00 |PET-BIDS, PET-BIDS Derivatives & PET-Specific Considerations for Data Curation |
+|09h00 | EU landspace to share brain imaging data                                      |
 |10h00 |**COFFEE & SNACKS**                                                            |
-|10h30 |PET-BIDS Tool Demonstrations and Tutorials                                     |
+|10h30 |PET-BIDS, PET-BIDS Derivatives & PET-Specific Considerations for Data Curation |
 |12h00 |**LUNCH**                                                                      |
-|13h00 |PET-BIDS Tool Demonstrations and Tutorials (continued)                         |
+|13h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
 |14h30 |**COFFEE & SNACKS**                                                            |
 |15h00 |Applying/Trying Out Lessons Learned (with supervision)                         |
 
