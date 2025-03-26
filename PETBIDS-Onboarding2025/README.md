@@ -100,6 +100,6 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 |11h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
 |12h00 |**LUNCH**                                                                      |
 |13h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
-|14h30 |**COFFEE & SNACKS**                                                            |
-|15h00 |Applying/Trying Out Lessons Learned (with supervision)                         |
+|15h00 |**COFFEE & SNACKS**                                                            |
+|15h30 |Applying/Trying Out Lessons Learned (with supervision)                         |
 
