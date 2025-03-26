@@ -77,16 +77,17 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 
 
-|Time  |Topic                                          |
-|:-----|:----------------------------------------------|
-|09h00 |Introduction to BIDS                           |
-|09h45 |BIDS data curation                             |
-|10h30 |**COFFEE & SNACKS**                            |
-|11h00 |BIDS Derivatives: Apps and Analysis Workflows  |
-|12h00 |**LUNCH**                                      |
-|13h30 |Hands-on ezBIDS tutorial                       |
-|15h00 |**COFFEE & SNACKS**                            |
-|15h30 |Hands-on ezBIDS tutorial (continued)           |
+|Time  |Topic                                         |
+|:-----|:---------------------------------------------|
+|09h00 |Introduction to BIDS                          |
+|09h45 |BIDS data curation                            |
+|10h30 |**COFFEE & SNACKS**                           |
+|11h00 |BIDS Derivatives: Apps and Analysis Workflows |
+|12h00 |**LUNCH**                                     |
+|13h00 |EU landscape for sharing brain imaging data   |
+|14h00 |Hands-on ezBIDS tutorial                      |
+|15h00 |**COFFEE & SNACKS**                           |
+|15h30 |Hands-on ezBIDS tutorial (continued)          |
 
 *Note: This day will also be attended by members of the KI CIR Core Facilities*
 
@@ -94,12 +95,11 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 |Time  |Topic                                                                          |
 |:-----|:------------------------------------------------------------------------------|
-|09h00 | EU landspace to share brain imaging data                                      |
-|10h00 |**COFFEE & SNACKS**                                                            |
-|10h30 |PET-BIDS, PET-BIDS Derivatives & PET-Specific Considerations for Data Curation |
+|09h00 |PET-BIDS, PET-BIDS Derivatives & PET-Specific Considerations for Data Curation |
+|10h30 |**COFFEE & SNACKS**                                                            |
+|11h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
 |12h00 |**LUNCH**                                                                      |
 |13h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
 |14h30 |**COFFEE & SNACKS**                                                            |
 |15h00 |Applying/Trying Out Lessons Learned (with supervision)                         |
-
 
