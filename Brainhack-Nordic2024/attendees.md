@@ -6,8 +6,8 @@ Alessio Giacomel, UK
 Martin Norgaard, DK  
 Melanie Ganz, DK  
 Antonia Karamolegkou, DK  
-Alec Gallo, DK  
-Tamas Minarik, DK  
+Alec Gallo, DK 
+Jacob Væver Andersen, DK  
 Martin Bolin, SE  
 Sumit Pandey, DK  
 Granville Matheson, SE  
