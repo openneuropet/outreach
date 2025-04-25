@@ -46,4 +46,5 @@ One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.
 | [NRM 2024](https://www.mcgill.ca/nrm2024/) | May 18th - May 21st 2024 |
 | [Stratneuro 2024](https://news.ki.se/calendar/stratneuro-retreat-2024-exclusive-day-for-phd-students) | June 3rd 2024 |
 | [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 22th-27th 2024 |
+| [BIDS maintainer meeting 2025](https://github.com/openneuropet/outreach/tree/main/BIDS_maintainers2025) | June 10th-12th 2024 |
 
