@@ -6,7 +6,7 @@ Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the wo
 
 Day 1 is dedicated to enhance interaction with EU related projects, in particular with EBRAINS but also specific BEP close to completion lead by EU developpers.
 
-Day 2-3 Intended for BIDS mainainers to have space to work togther soliving GitHub issues.
+Day 2-3 Intended for BIDS mainainers to have space to work togther solving GitHub issues.
 
 ---
 
