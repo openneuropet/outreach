@@ -8,6 +8,14 @@ Day 1 is dedicated to enhance interaction with EU related projects, in particula
 
 Day 2-3 Intended for BIDS mainainers to have space to work togther solving GitHub issues.
 
+This meeting is supported by funding from The Neuro Irv and Helga Cooper Foundation ([BIDS Open Science Prize 2023](https://www.mcgill.ca/neuro/article/rewarding-excellence-open-science)) and by The Novo Nordisk Foundation
+
+<p align="center">
+  <img src="pics/IHCF.png" alt="IHCF Logo" width="40%">
+  <img src="pics/logo-Novo-Nordisk-Fonden.png" alt="Novo Nordisk Foundation Logo" width="30%" height="auto">
+</p>
+
+
 ---
 
 ## [Location](location.md)
