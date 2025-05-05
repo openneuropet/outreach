@@ -4,7 +4,10 @@ Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the wo
 
 [Goals](meeting_golas.md)
 
+_Schedule is 9 am to 5 pm - lunch at 1pm_
+
 Day 1 is dedicated to enhance interaction with EU related projects, in particular with EBRAINS but also specific BEP close to completion lead by EU developpers.
+--> @15.30 open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
 
 Day 2-3 Intended for BIDS mainainers to have space to work togther solving GitHub issues.
 
