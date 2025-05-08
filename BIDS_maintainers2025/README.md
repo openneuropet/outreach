@@ -7,9 +7,7 @@ Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the wo
 _Schedule is 9 am to 5 pm - lunch at 1pm_
 
 **Day 1** is dedicated to enhance interaction with EU related projects, in particular with EBRAINS but also specific BEP close to completion lead by EU developpers.  
---> In the agenda to discuss EBRAINS quick-overview, followed by WP2 BIDS sub-group (moving to the 20% zone, ie still unsupported raw), BIDS2OpenMinds, EBRAINS Atlases and BEP38
--->
---> @15.30 open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
+--> In the agenda to discuss EBRAINS quick-overview, followed by WP2 BIDS sub-group (moving to the 20% zone, ie 'exotic' unsupported raw - how to best organize submissions), BIDS2OpenMinds, EBRAINS Atlases + @15.30 open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
 
 **Day 2-3** Intended for BIDS mainainers to have space to work togther solving GitHub issues.
 
