@@ -15,5 +15,8 @@ Seyed Yahya
 
 # BEP leads and other attendees
 
-Martin Nørgaard  
 Jean Baptiste Poline
+Florian Sipp (HIPP iEEG BIDS tools and clinical annotations)
+Lyuba Zehl  (EBRAINS Org, BIDS2OpenMinds)
+Timo Dickscheid (EBRAINS Atlasing)  
+Lorenzo Pini (EBRAINS WP2 - 5M and clinical datasets)
