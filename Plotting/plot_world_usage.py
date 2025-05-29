@@ -28,6 +28,16 @@ def fetch_or_load_data(data_file="pet2bids_data.json"):
         with open(data_file, 'r') as f:
             data = json.load(f)
     
+    # Print debugging information
+    print("\nData Structure Information:")
+    print(f"Total number of entries: {len(data)}")
+    if len(data) > 0:
+        print("\nFirst entry structure:")
+        print(json.dumps(data[0], indent=2))
+        print("\nKeys in first entry:", list(data[0].keys()))
+        if 'content' in data[0]:
+            print("\nKeys in content:", list(data[0]['content'].keys()))
+    
     return data
 
 def extract_locations(data):
@@ -378,48 +388,87 @@ def plot_catchup_time(df):
     
     return fig
 
+def fetch_and_summarize_endpoints(endpoints):
+    base_url = "http://openneuropet.org/check/"
+    for endpoint in endpoints:
+        url = f"{base_url}{endpoint}/"
+        data_file = f"{endpoint}_data.json"
+        print(f"\n--- Fetching {endpoint} ---")
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            data = response.json()
+            with open(data_file, 'w') as f:
+                json.dump(data, f, indent=2)
+            print(f"Saved {len(data)} entries to {data_file}")
+            if len(data) > 0:
+                print("First entry:")
+                print(json.dumps(data[0], indent=2))
+                print("Keys:", list(data[0].keys()))
+                if 'content' in data[0]:
+                    print("Keys in content:", list(data[0]['content'].keys()))
+            else:
+                print("No entries returned.")
+        except Exception as e:
+            print(f"Error fetching {endpoint}: {e}")
+
 def main():
-    # Fetch or load data
+    # Fetch data
     data = fetch_or_load_data()
     
-    # Extract relevant fields into DataFrame
+    # Convert to DataFrame
     df = extract_locations(data)
+    df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
     
-    # Convert timestamp to datetime using ISO8601 format
-    df['timestamp'] = pd.to_datetime(df['timestamp'], format='ISO8601')
+    # Print quota information
+    print("\nQuota Information:")
+    print(f"Total number of entries: {len(df)}")
+    print(f"Number of entries with location data: {df.dropna(subset=['latitude', 'longitude']).shape[0]}")
+    print(f"Number of entries missing location data: {len(df) - df.dropna(subset=['latitude', 'longitude']).shape[0]}")
     
-    # Create and show usage plots
-    print("Generating weekly usage plot...")
-    weekly_fig = plot_weekly_usage(df)
-    weekly_fig.show()
+    # Generate and show plots in browser, and export as datestamped files
+    print("\nGenerating and displaying plots...")
+    date_str = datetime.now().strftime("%Y%m%d")
     
-    print("Generating monthly usage plot...")
-    monthly_fig = plot_monthly_usage(df)
-    monthly_fig.show()
+    fig1 = plot_weekly_usage(df)
+    fig1.show()
+    fig1.write_image(f"weekly_usage_{date_str}.png")
+    fig1.write_html(f"weekly_usage_{date_str}.html")
     
-    # Create and show map plots
-    print("Generating point map...")
-    point_fig = plot_point_map(df)
-    if point_fig:
-        point_fig.show()
+    fig2 = plot_monthly_usage(df)
+    fig2.show()
+    fig2.write_image(f"monthly_usage_{date_str}.png")
+    fig2.write_html(f"monthly_usage_{date_str}.html")
     
-    print("Generating heatmap...")
-    heat_fig = plot_heatmap(df)
-    if heat_fig:
-        heat_fig.show()
+    fig3 = plot_point_map(df)
+    if fig3:
+        fig3.show()
+        fig3.write_image(f"point_map_{date_str}.png")
+        fig3.write_html(f"point_map_{date_str}.html")
     
-    print("Generating country map...")
-    country_fig = plot_country_map(df)
-    if country_fig:
-        country_fig.show()
+    fig4 = plot_heatmap(df)
+    if fig4:
+        fig4.show()
+        fig4.write_image(f"heatmap_{date_str}.png")
+        fig4.write_html(f"heatmap_{date_str}.html")
     
-    print("Generating location data availability plot...")
-    location_fig = plot_location_data_availability(df)
-    location_fig.show()
+    fig5 = plot_country_map(df)
+    if fig5:
+        fig5.show()
+        fig5.write_image(f"country_map_{date_str}.png")
+        fig5.write_html(f"country_map_{date_str}.html")
     
-    print("Generating catch-up time plot...")
-    catchup_fig = plot_catchup_time(df)
-    catchup_fig.show()
+    fig6 = plot_location_data_availability(df)
+    fig6.show()
+    fig6.write_image(f"location_data_availability_{date_str}.png")
+    fig6.write_html(f"location_data_availability_{date_str}.html")
+    
+    fig7 = plot_catchup_time(df)
+    fig7.show()
+    fig7.write_image(f"catchup_time_{date_str}.png")
+    fig7.write_html(f"catchup_time_{date_str}.html")
+    
+    print("\nAll plots have been displayed in your browser and exported as datestamped image and HTML files!")
 
 if __name__ == "__main__":
     main() 
