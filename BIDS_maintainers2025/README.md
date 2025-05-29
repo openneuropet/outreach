@@ -33,6 +33,15 @@ Cyril Pernet: cyril.pernet [at] nru.dk
 
 Participants are members of the BIDS steering group, BIDS maintainers and individuals developping BEPs or project necessiting BIDS inputs. The full [list of participants can be found here](attendees.md).
 
+## Transport
+
+- Metro/Bus/etc tickets can be purchased via the [DOT app](https://dinoffentligetransport.dk/en/find-tickets/dot-tickets-app)
+- [Donkey Bike](https://www.donkey.bike/denmark) Affordable long and short term bike rental 
+
+## Misc
+
+- [HolaFly](https://esim.holafly.com/esim-denmark/) E-sim for Denmark w/ unlimited data
+
 ### Outputs
 
 // to do //
