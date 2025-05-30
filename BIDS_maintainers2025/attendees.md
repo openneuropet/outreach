@@ -11,7 +11,7 @@ Christine Rogers
 Julia-Katharina Pfarr   
 Eric Earl  
 Nell Hardcastle  
-Seyed Yahya  
+Seyed Yahya Shirazi
 
 # BEP leads and other attendees
 
