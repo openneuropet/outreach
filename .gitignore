@@ -17,3 +17,8 @@ PET_pipelines
 
 # ignore vscode
 .vscode
+
+Plotting/*.html
+Plotting/.idea
+Plotting/*.png
+
