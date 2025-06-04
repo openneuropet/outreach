@@ -6,7 +6,7 @@ Isil Bilgin, Anibal Sólon Heinsfeld
 
 ## Before You Start
 
-Here we aim to collect advices and suggestions currated from the many previous years' project leaders and attendees as the best practices
+Here we aim to collect advice and suggestions currated from the many previous years' project leaders and attendees as the best practices
 of running successful, collaborative projects that would lead high impact and successful outputs in the given short amount of time. The 
 main aim of the Brainhacks is being inclusive, removing the borders and limits and increasing the information and experience exchange 
 between the members of the project members. In the light of these aims, we encourage and support each single individual to be part of 

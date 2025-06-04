@@ -16,7 +16,7 @@ Martin	Norgaard
 Cyril	Pernet  
 Arianna	Sala  
 Anjali	Sankar  
-Claus	Svarer  
+Clause	Svarer  
 Jonas	Svensson  
 Søren Vinther  
 Marcel	Zwiers  

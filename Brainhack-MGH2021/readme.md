@@ -12,7 +12,7 @@
 - Bring your data! We'll help you curate a BIDS dataset
 - Submit you project as an [issue](https://github.com/openneuropet/outreach/issues/new/choose)
 
-**Unfortunately due to MGH's current COVID policies, this session can only be attended in person by MGH employees.  All can attend the virtual sessions.**  All talks will be accesible via jisti, check this page again on the day of the event for the link. Also, please join [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet) for latest info and collaborative hacking. 
+**Unfortunately due to MGH's current COVID policies, this session can only be attended in person by MGH employees.  All can attend the virtual sessions.**  All talks will be accessible via jisti, check this page again on the day of the event for the link. Also, please join [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet) for latest info and collaborative hacking. 
 
 ## About
 

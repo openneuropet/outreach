@@ -4,4 +4,4 @@ Benefiting from the maintainer presence in CPH to enhance interaction with EU re
 
 # Tuesday 11 and Wednesday 12
 
-Intended for BIDS mainainers to have space to work togther soliving GitHub issues.
+Intended for BIDS maintainers to have space to work together soliving GitHub issues.
