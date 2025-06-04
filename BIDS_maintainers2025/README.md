@@ -18,7 +18,7 @@ _Schedule is 9 am to 5 pm - lunch at 1pm_
 **15:30:** open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
 
     
-**Day 2-3** Intended for BIDS mainainers to have space to work togther solving GitHub issues.
+**Day 2-3** Intended for BIDS mainainers to have space to work togther solving GitHub issues and help BEP leads.
 
 This meeting is supported by funding from The Neuro Irv and Helga Cooper Foundation ([BIDS Open Science Prize 2023](https://www.mcgill.ca/neuro/article/rewarding-excellence-open-science)) and by The Novo Nordisk Foundation
 
