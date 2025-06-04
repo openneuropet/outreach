@@ -34,7 +34,7 @@ The workshop consisted of 2 ½ days (Wednesday afternoon - Friday) of collaborat
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
 |  | Mingle, drink coffee, have some snacks, see old friends  |  | | 
 | 3 pm | Welcome and introductions: - past and future of BIDS (Russ Poldrack) - state of BIDS derivatives (Chris Markiewicz) |  |  |
-| Afternoon | [Meeting goals](https://docs.google.com/presentation/d/1hweQZQh5RLPg6AW-s8qi1DoZCxzAs9ly/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metatadata and provenance - Generic derivatives terms | Themes: - atlas - Generic derivatives terms - electrophys push and integration |
+| Afternoon | [Meeting goals](https://docs.google.com/presentation/d/1hweQZQh5RLPg6AW-s8qi1DoZCxzAs9ly/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true) - Cyril Pernet | Themes: - data formats agreement (nifit, gifti and MDF5) - enhanced metadata and provenance - Generic derivatives terms | Themes: - atlas - Generic derivatives terms - electrophys push and integration |
 | 5:30 pm | Reception |  | Wrap up - The way forward| 
 | 7:15 pm |  | [Workshop dinner](https://www.madklubben.dk/restauranter/koebenhavn/mammas/regnbuepladsen) |  |
 
