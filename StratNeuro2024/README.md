@@ -7,6 +7,6 @@ The [slides](https://osf.io/e3b2m) for the basic intro are freely available on t
 
 Next, using the [provided Jupyter notebook](./PET_BIDS_tutorial_Colab.ipynb) in this folder and [Google Colab](http://colab.research.google.com/), you will download some phantom data in neuroimaging formats as they come of a scanner and then work on converting it to BIDS format. A special thnaks to BIDS maintainer Anthony Galassi for adding additional functionality to the notebook to make it run in any Colab environment. We will also introduce you to a BIDS converter that runs fully online, [EZBids](https://brainlife.io/ezbids/), that though comes with some restrictions for European data users. 
 
-Finally, we will also spend time on how we can utilize data in BIDS format for easy processing of neuroimaging data. We will finish the day by talking about machine learning applications and how BIDS can be useful for them. Thos slides are available [here](./StratNeuro2024_part2.pdf)
+Finally, we will also spend time on how we can utilize data in BIDS format for easy processing of neuroimaging data. We will finish the day by talking about machine learning applications and how BIDS can be useful for them. Those slides are available [here](./StratNeuro2024_part2.pdf)
 
 Other practical details for the day can be found [here](https://news.ki.se/calendar/stratneuro-retreat-2024-exclusive-day-for-phd-students).

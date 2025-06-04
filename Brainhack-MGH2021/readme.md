@@ -24,7 +24,7 @@ You can register [here](https://forms.gle/M9QMk2dtguJLmFJB7)
 
 ## Contact
 
-Join the brainhack mattermost channel for the lastest info
+Join the brainhack mattermost channel for the latest info
 - [#bhg21-openneuropet](https://mattermost.brainhack.org/brainhack/channels/bhg21-openneuropet)
 
 Or contact Paul Wighton: `paul.wighton [at] gmail.com`
