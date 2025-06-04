@@ -1,25 +1,25 @@
 # Steering group (past and present)
 
-Yaroslav Halchenko  
-Cyril Pernet
+Yaroslav Halchenko (Department of Psychological and Brain Sciences, Dartmouth, USA)  
+Cyril Pernet (Neurobiology Research Unit, Rigshospitalet, DK)  -- EBRAINS WP 5M comnectome
 
 # Maintainers
 
-Chris Markiewicz  
-Anthony Galassi  
-Christine Rogers  
-Julia-Katharina Pfarr   
-Eric Earl  
-Nell Hardcastle  
-Seyed Yahya Shirazi
+Chris Markiewicz (Poldrack Lab & McGovern Institute for Brain Research, Stanford University, USA)     
+Anthony Galassi (Data Science and Sharing Team, NIH/NIMH, USA)  
+Christine Rogers  (McGill Centre for Integrative Neuroscience, CA)  
+Julia-Katharina Pfarr (McGill University, CA)  
+Eric Earl (Data Science and Sharing Team, NIH/NIMH, USA)  
+Nell Hardcastle (Department: Psychology, Stanford University)       
+Seyed Yahya Shirazi ( Swartz Center for Computational Neuroscience, USA)  
 
 # BEP leads and other attendees
 
-Jean Baptiste Poline  
-Florian Sipp (HIPP iEEG BIDS tools and clinical annotations)  
-Lyuba Zehl  (EBRAINS Org, BIDS2OpenMinds)  
-Timo Dickscheid (EBRAINS Atlasing)   
-Chiara Tuzzato (EBRAINS WP2 - 5M and clinical datasets)  
-Andrew Davidson (BIDS2OpenMinds)  
+Jean Baptiste Poline (Department of Neurology and Neurosurgery, McGill, CA)  
+Florian Sipp (Department of Clinical Neuroscience, CHUV, CH) -- [HIPP](https://thehip.app/login) iEEG BIDS tools and clinical annotations  
+Lyuba Zehl  (EBRAINS Org, Be) [OpenMinds](https://openminds-documentation.readthedocs.io/en/latest/)  
+Timo Dickscheid (Heinrich Heine University Düsseldorf, Ge) EBRAINS Atlasing     
+Chiara Tuzzato (EBRAINS WP2, Padoa, It) Clinical connectome  
+Peyman Najafi (CNRS, Fr) [BIDS2OpenMinds](https://github.com/openMetadataInitiative/bids2openminds)  
 Ben Dichter ([BEP032](https://bids.neuroimaging.io/extensions/beps/bep_032.html))  
 Hugo Boniface ([BEP024](https://bids.neuroimaging.io/extensions/beps/bep_024.html))
