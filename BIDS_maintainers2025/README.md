@@ -10,7 +10,7 @@ _Schedule is 9 am to 5 pm - lunch at 1pm_
 
 **9:** Welcome (Cyril) and EBRAINS presentation (Lyuba)  
 **9.45:**  WP2 5M connectome and Clinical Connectome (Chiara) -- discuss how best to submit new data types and derivatives (one huge project, lots of 'new' files)   
-**10.30:** BIDS2OpenMinds (Peyman) 
+**10.30:** BIDS2OpenMinds (Peyman)   
 **11.15:** HiPP (Florian)  
 **12.00:** How to use the BIDS Schema in applications -- BIDS2OpenMinds, HiPP support   
 **13.00:** Lunch and free work  
