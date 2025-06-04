@@ -31,7 +31,30 @@ Cyril Pernet: cyril.pernet [at] nru.dk
 
 ## Attendees
 
-Participants are members of the BIDS steering group, BIDS maintainers and individuals developping BEPs or project necessiting BIDS inputs. The full [list of participants can be found here](attendees.md).
+Participants are members of the BIDS steering group, BIDS maintainers and individuals developping BEPs or project necessiting BIDS inputs. The full [list of participants with affiliations and projects can be found here](attendees.md).
+
+Quick overview over the three days
+
+| Tueday                | Wednesday             | Tursday               |
+|-----------------------|-----------------------|-----------------------|
+| Yaroslav Halchenko    | Yaroslav Halchenko    | Yaroslav Halchenko    |
+| Cyril Pernet          | Cyril Pernet          |                       |
+| Chris Markiewicz      | Chris Markiewicz      | Chris Markiewicz      |
+| Anthony Galassi       | Anthony Galassi       | Anthony Galassi       |
+| Christine Rogers      | Christine Rogers      | Christine Rogers      |
+| Julia-Katharina Pfarr | Julia-Katharina Pfarr | Julia-Katharina Pfarr |
+| Eric Earl             | Eric Earl             | Eric Earl             |
+| Nell Hardcastle       | Nell Hardcastle       | Nell Hardcastle       |
+| Seyed Yahya Shirazi   | Seyed Yahya Shirazi   | Seyed Yahya Shirazi   |
+| Jean Baptiste Poline  | Jean Baptiste Poline  | Jean Baptiste Poline  |
+| Florian Sipp          |                       |                       |
+| Lyuba Zehl            | Lyuba Zehl            | Lyuba Zehl            |
+| Timo Dickscheid       |                       |                       |
+| Chiara Tuzzato        |                       |                       |
+| Peyman Najafi         |                       |                       |
+| Ben Dichter           | Ben Dichter           | Ben Dichter           |
+|                       | Hugo Boniface         | Hugo Boniface         |
+|                       | Martin Nørgaard       |                       | 
 
 ## Transport
 
