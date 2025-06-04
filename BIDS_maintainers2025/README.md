@@ -44,7 +44,7 @@ Participants are members of the BIDS steering group, BIDS maintainers and indivi
 
 Quick overview over the three days
 
-| Tueday                | Wednesday             | Tursday               |
+| Tueday                | Wednesday             | Thursday              |
 |-----------------------|-----------------------|-----------------------|
 | Yaroslav Halchenko    | Yaroslav Halchenko    | Yaroslav Halchenko    |
 | Cyril Pernet          | Cyril Pernet          |                       |
