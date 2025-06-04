@@ -7,8 +7,17 @@ Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the wo
 _Schedule is 9 am to 5 pm - lunch at 1pm_
 
 **Day 1** is dedicated to enhance interaction with EU related projects, in particular with EBRAINS but also specific BEP close to completion lead by EU developpers.  
---> In the agenda to discuss EBRAINS quick-overview, followed by WP2 BIDS sub-group (moving to the 20% zone, ie 'exotic' unsupported raw - how to best organize submissions), BIDS2OpenMinds, EBRAINS Atlases + @15.30 open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
 
+**9:** Welcome (Cyril) and EBRAINS presentation (Lyuba)  
+**9.45:**  WP2 5M connectome and Clinical Connectome (Chiara) -- discuss how best to submit new data types and derivatives (one huge project, lots of 'new' files)   
+**10.30:** BIDS2OpenMinds (Peyman) 
+**11.15:** HiPP (Florian)  
+**12.00:** How to use the BIDS Schema in applications -- BIDS2OpenMinds, HiPP support   
+**13.00:** Lunch and free work  
+**14.30:** EBRAINS Atlases (Timo) -- state of the current BEP38  
+**15:30:** open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
+
+    
 **Day 2-3** Intended for BIDS mainainers to have space to work togther solving GitHub issues.
 
 This meeting is supported by funding from The Neuro Irv and Helga Cooper Foundation ([BIDS Open Science Prize 2023](https://www.mcgill.ca/neuro/article/rewarding-excellence-open-science)) and by The Novo Nordisk Foundation
@@ -54,7 +63,7 @@ Quick overview over the three days
 | Peyman Najafi         |                       |                       |
 | Ben Dichter           | Ben Dichter           | Ben Dichter           |
 |                       | Hugo Boniface         | Hugo Boniface         |
-|                       | Martin Nørgaard       |                       | 
+|                       | Martin Nørgaard       | Martin Nørgaard       | 
 
 ## Transport
 
