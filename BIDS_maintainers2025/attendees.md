@@ -21,5 +21,7 @@ Lyuba Zehl  (EBRAINS Org, Be) [OpenMinds](https://openminds-documentation.readth
 Timo Dickscheid (Heinrich Heine University Düsseldorf, Ge) EBRAINS Atlasing     
 Chiara Tuzzato (EBRAINS WP2, Padoa, It) Clinical connectome  
 Peyman Najafi (CNRS, Fr) [BIDS2OpenMinds](https://github.com/openMetadataInitiative/bids2openminds)  
-Ben Dichter ([BEP032](https://bids.neuroimaging.io/extensions/beps/bep_032.html))  
-Hugo Boniface ([BEP024](https://bids.neuroimaging.io/extensions/beps/bep_024.html))
+Ben Dichter ( CatalystNeuro, USA) [BEP032](https://bids.neuroimaging.io/extensions/beps/bep_032.html)  
+Hugo Boniface (Inria, Fr) [BEP024](https://bids.neuroimaging.io/extensions/beps/bep_024.html)  
+Martin Nørgaard (Dpt of Computer Science KU, DK) [BEP38](https://bids-specification--1714.org.readthedocs.build/en/1714/derivatives/atlas.html)  
+
