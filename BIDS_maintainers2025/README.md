@@ -14,8 +14,8 @@ _Schedule is 9 am to 5 pm - lunch at 1pm_
 **11.15:** HiPP (Florian)  
 **12.00:** How to use the BIDS Schema in applications -- BIDS2OpenMinds, HiPP support   
 **13.00:** Lunch and free work  
-**14.30:** EBRAINS Atlases (Timo) -- state of the current BEP38  
-**15:30:** open discussion on suffixes (https://meet.google.com/mgv-xkpd-oct)
+**14.30:** EBRAINS Atlases (Timo) -- state of the current BEP38  [join in using zoom](https://utexas.zoom.us/my/kimray)
+**15:30:** open discussion on suffixes - [join in using zoom](https://utexas.zoom.us/my/kimray) 
 
     
 **Day 2-3** Intended for BIDS mainainers to have space to work togther solving GitHub issues and help BEP leads.
