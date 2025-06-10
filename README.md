@@ -22,6 +22,9 @@ We discussed data sharing issues in EU and how OpenNeuroPET implements data shar
 
 One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer). If you haven't heard about it, [check out this video from Doug Greve](https://youtu.be/1-sgAct6_NY?t=1583). To make life easier, you can [wrap PETSurfer in a pipeline with python](https://youtu.be/m3pFVS13U3g), as explained by V. Beliveau during Brain Hack Nordic 2021.
 
+## [A drive to put presentations](
+https://drive.google.com/drive/folders/1o4k-e3r_xnwO1cck5-7nBlj8ekp5b8Yq?usp=sharing)
+
 ## Calendar of Past and Upcoming Events
 
 | Event Name | Date |
