@@ -25,12 +25,12 @@ Answer were collected by email and compiled and assembled into broad categories 
 - document and store every step (2.5/16)
 - outcomes of a pipeline + share code (13.5/16)
 
-Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrces, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to re-use derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code) -- we all agree on this anyway.
+Note: pipelines can have multiple outcomes: averages, effect size maps, connectivity matrices, etc ..  while sharing code seems recommended we know it will not always happen - Guiomar made also made the point that reading the code can be tedious, therefore a well documented json of each step taken is highly recommended. If we consider that non imaging experts should be able to reuse derivatives, this is also what they need (i.e. almost all will understand what a frequency filter is, but would not stop that in a code) -- we all agree on this anyway.
 
 -> also have to think of the resources (too many steps saved, who will host that?)
 
 *guidelines for preparing a BIDS derivative*
-- different use cases to be adressed: minimal 1 outcome, then add intermediate steps
+- different use cases to be addressed: minimal 1 outcome, then add intermediate steps
 - common vocabulary for commonly used analyses (image and electrophy)s
    
 *BIDS Validator*
@@ -42,7 +42,7 @@ Note: pipelines can have multiple outcomes: averages, effect size maps, connecti
 ## Roadblocks
 - connectivity
 - data formats (hd5, zarr?) --> https://github.com/bids-standard/bids-specification/issues/197
-- adoption by software --> what can be done beyond containers for main software to adopt more widely BIDS, can sofware start implementing naming, json + provenance?
+- adoption by software --> what can be done beyond containers for main software to adopt more widely BIDS, can software start implementing naming, json + provenance?
 - producers vs. customers --> Should derivatives to stored as producers make them or formatted for future users (more hd5, tsv stuffs), can we even predict future users?
 - identify which outcomes in a workflow are useful - making them derivatives endpoints
 - provenance; resharing data

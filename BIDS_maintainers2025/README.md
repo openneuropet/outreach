@@ -6,7 +6,7 @@ Organized by the [OpenNeuroPET project](https://openneuropet.github.io/), the wo
 
 _Schedule is 9 am to 5 pm - lunch at 1pm_
 
-**Day 1** is dedicated to enhance interaction with EU related projects, in particular with EBRAINS but also specific BEP close to completion lead by EU developpers.  
+**Day 1** is dedicated to enhance interaction with EU related projects, in particular with EBRAINS but also specific BEP close to completion lead by EU developers.  
 
 **9:** Welcome (Cyril) and EBRAINS presentation (Lyuba)  
 **9.45:**  WP2 5M connectome and Clinical Connectome (Chiara) -- discuss how best to submit new data types and derivatives (one huge project, lots of 'new' files)   
@@ -18,7 +18,7 @@ _Schedule is 9 am to 5 pm - lunch at 1pm_
 **15:30:** open discussion on suffixes - [join in using zoom](https://utexas.zoom.us/my/kimray) 
 
     
-**Day 2-3** Intended for BIDS mainainers to have space to work togther solving GitHub issues and help BEP leads.
+**Day 2-3** Intended for BIDS maintainers to have space to work together solving GitHub issues and help BEP leads.
 
 This meeting is supported by funding from The Neuro Irv and Helga Cooper Foundation ([BIDS Open Science Prize 2023](https://www.mcgill.ca/neuro/article/rewarding-excellence-open-science)) and by The Novo Nordisk Foundation
 
@@ -40,11 +40,11 @@ Cyril Pernet: cyril.pernet [at] nru.dk
 
 ## Attendees
 
-Participants are members of the BIDS steering group, BIDS maintainers and individuals developping BEPs or project necessiting BIDS inputs. The full [list of participants with affiliations and projects can be found here](attendees.md).
+Participants are members of the BIDS steering group, BIDS maintainers and individuals developing BEPs or project necessiting BIDS inputs. The full [list of participants with affiliations and projects can be found here](attendees.md).
 
 Quick overview over the three days
 
-| Tueday                | Wednesday             | Tursday               |
+| Tueday                | Wednesday             | Thursday              |
 |-----------------------|-----------------------|-----------------------|
 | Yaroslav Halchenko    | Yaroslav Halchenko    | Yaroslav Halchenko    |
 | Cyril Pernet          | Cyril Pernet          |                       |
