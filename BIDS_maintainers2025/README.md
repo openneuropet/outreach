@@ -14,6 +14,7 @@ _Schedule is 9 am to 5 pm - lunch at 1pm_
 **11.15:** HiPP (Florian)  
 **12.00:** How to use the BIDS Schema in applications -- BIDS2OpenMinds, HiPP support   
 **13.00:** Lunch and free work  
+**14:00:** BIDS-Study standard: preliminary work and implementation with Nipoppy  
 **14.30:** EBRAINS Atlases (Timo) -- state of the current BEP38  [join in using zoom](https://utexas.zoom.us/my/kimray)  
 **15:30:** open discussion on suffixes - [join in using zoom](https://utexas.zoom.us/my/kimray) 
 
