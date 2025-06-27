@@ -81,4 +81,16 @@ Quick overview over the three days
 - Atlasing BIDS-EBRAINS to test for microscopy
 - BEP process doc
 - Website updates
-- BIDS issues solving
+- BIDS issues solving:  
+  
+[4 major issues solved](https://github.com/search?q=org%3Abids-standard+label%3Acopenhagen+state%3Aclosed&type=issues).
+1. https://github.com/bids-standard/bids-specification/issues/2134
+2. https://github.com/bids-standard/bids-specification/issues/2055
+3. https://github.com/bids-standard/bids-specification/issues/2040
+4. https://github.com/bids-standard/bids-specification/issues/1999
+   
+[4 Pull requests are now merged](https://github.com/search?q=org%3Abids-standard+label%3Acopenhagen+state%3Aclosed&type=pullrequests)
+1. https://github.com/bids-standard/bids-website/pull/671
+2. https://github.com/bids-standard/bids-specification/pull/2116
+3. https://github.com/bids-standard/bids-specification/pull/2075
+4. https://github.com/bids-standard/bids-specification/pull/1834
