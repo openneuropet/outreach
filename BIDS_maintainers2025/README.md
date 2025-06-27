@@ -55,7 +55,6 @@ Quick overview over the three days
 | Julia-Katharina Pfarr | Julia-Katharina Pfarr | Julia-Katharina Pfarr |
 | Eric Earl             | Eric Earl             | Eric Earl             |
 | Nell Hardcastle       | Nell Hardcastle       | Nell Hardcastle       |
-| Seyed Yahya Shirazi   | Seyed Yahya Shirazi   | Seyed Yahya Shirazi   |
 | Jean Baptiste Poline  | Jean Baptiste Poline  | Jean Baptiste Poline  |
 | Florian Sipp          |                       |                       |
 | Lyuba Zehl            | Lyuba Zehl            | Lyuba Zehl            |
@@ -76,4 +75,10 @@ Quick overview over the three days
 
 ### Outputs
 
-// to do //
+- EBRAINS BIDS2OpenMinds to use the BIDS schema
+- BIDS schema doc available
+- HIPP platform, Phi platform to integrate schema and possible name mapping (BEP)
+- Atlasing BIDS-EBRAINS to test for microscopy
+- BEP process doc
+- Website updates
+- BIDS issues solving
