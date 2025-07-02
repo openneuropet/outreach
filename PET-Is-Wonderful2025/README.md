@@ -1,6 +1,6 @@
 # PiW 2025
 
-[PET is wonderful 2025 Meeting](https://petiswonderful.org/) was held from the 2nd to 4th July 2025
+The [PET is wonderful 2025 Meeting](https://petiswonderful.org/) was held from the 2nd to 4th July 2025. 
 
 Two sessions of the educational part of the conference were presented by OpenNeuroPET members:
 
