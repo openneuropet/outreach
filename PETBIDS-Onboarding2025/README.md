@@ -71,7 +71,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 ----------------------------------------------------------------------------------------------------
 
 
-## Preliminary Schedule
+## Schedule
 
 #### Thursday 28 August: Domain-General BIDS Introduction and ezBIDS tutorial (Inghesalen, Tomtebodavägen 18a, 171 65 Solna)
 
