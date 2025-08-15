@@ -65,7 +65,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
   * **petprep_hmc:** Head motion correction
   * **petprep_extract_tacs:** PET time activity curve extraction
   * **bloodstream:** PET blood data processing
-  * **kinfitr:** PET kinetic modelling and quantification (under development...)
+  * **kinfitr:** PET kinetic modelling and quantification
 
 
 ----------------------------------------------------------------------------------------------------
@@ -76,30 +76,28 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 #### Thursday 28 August: Domain-General BIDS Introduction and ezBIDS tutorial
 
 
+| Time   | Presenters         | Topic                                                           |
+|--------|--------------------|-----------------------------------------------------------------|
+| 09h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
+| 10h00  | Cyril Pernet       | Introduction to BIDS and data curation                          |
+| 11h00  | Martin Nørgaard    | BIDS Apps and Analysis Workflows                                |
+| 12h00  | 🧆                 | LUNCH                                                           |
+| 13h00  | Cyril Pernet       | EU landscape for sharing brain imaging data                     |
+| 14h00  | Melanie Ganz       | Hands-on ezBIDS tutorial                                        |
+| 15h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
+| 16h00  | Melanie Ganz       | Hands-on ezBIDS tutorial (continued)                            |
 
-|Time  |Topic                                         |
-|:-----|:---------------------------------------------|
-|09h00 |Introduction to BIDS                          |
-|09h45 |BIDS data curation                            |
-|10h30 |**COFFEE & SNACKS**                           |
-|11h00 |BIDS Derivatives: Apps and Analysis Workflows |
-|12h00 |**LUNCH**                                     |
-|13h00 |EU landscape for sharing brain imaging data   |
-|14h00 |Hands-on ezBIDS tutorial                      |
-|15h00 |**COFFEE & SNACKS**                           |
-|15h30 |Hands-on ezBIDS tutorial (continued)          |
-
-*Note: This day will also be attended by members of the KI CIR Core Facilities*
+*Note: This day will also be attended by members of the KI CIR Core Facilities*  
 
 #### Friday 29 August: PET-BIDS apps and PET-specific considerations
 
-|Time  |Topic                                                                          |
-|:-----|:------------------------------------------------------------------------------|
-|09h00 |PET-BIDS, PET-BIDS Derivatives & PET-Specific Considerations for Data Curation |
-|10h30 |**COFFEE & SNACKS**                                                            |
-|11h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
-|12h00 |**LUNCH**                                                                      |
-|13h00 |PET-BIDS Tool Demonstrations and Tutorials                                     |
-|15h00 |**COFFEE & SNACKS**                                                            |
-|15h30 |Applying/Trying Out Lessons Learned (with supervision)                         |
+| Time   | Presenters         | Topic                                                           |
+|--------|--------------------|-----------------------------------------------------------------|
+| 09h00  | All                | PET-BIDS, PET-BIDS Derivatives & PET-Specific Considerations for Data Curation |
+| 10h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
+| 11h00  | Martin Nørgaard    | PET-BIDS Tool Demonstrations and Tutorials: Image Analysis      |
+| 12h30  | 🧆                 | LUNCH                                                           |
+| 13h30  | Granville Matheson | PET-BIDS Tool Demonstrations and Tutorials: Quantification      |
+| 15h00  | ☕                 | COFFEE, TEA & SNACKS                                            |
+| 15h30  | All                | Applying/Trying Out Lessons Learned (with supervision)          |
 
