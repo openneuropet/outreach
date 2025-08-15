@@ -73,7 +73,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 ## Preliminary Schedule
 
-#### Thursday 28 August: Domain-General BIDS Introduction and ezBIDS tutorial
+#### Thursday 28 August: Domain-General BIDS Introduction and ezBIDS tutorial (Inghesalen, Tomtebodavägen 18a, 171 65 Solna)
 
 
 | Time   | Presenters         | Topic                                                           |
@@ -89,7 +89,8 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 *Note: This day will also be attended by members of the KI CIR Core Facilities*  
 
-#### Friday 29 August: PET-BIDS apps and PET-specific considerations
+#### Friday 29 August: PET-BIDS apps and PET-specific considerations (Wretlindsalen, Tomtebodavägen 18a, 171 65 Solna)
+
 
 | Time   | Presenters         | Topic                                                           |
 |--------|--------------------|-----------------------------------------------------------------|
