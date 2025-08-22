@@ -79,13 +79,13 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 | Time   | Presenters         | Topic                                                           |
 |--------|--------------------|-----------------------------------------------------------------|
 | 09h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
-| 10h00  | Cyril Pernet       | Introduction to BIDS and data curation                          |
+| 10h00  | Cyril Pernet       | Introduction to BIDS                                            |
 | 11h00  | Martin Nørgaard    | BIDS Apps and Analysis Workflows                                |
 | 12h00  | 🧆                 | LUNCH                                                           |
 | 13h00  | Cyril Pernet       | EU landscape for sharing brain imaging data                     |
-| 14h00  | Melanie Ganz       | Hands-on ezBIDS tutorial                                        |
+| 14h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS)                       |
 | 15h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
-| 16h00  | Melanie Ganz       | Hands-on ezBIDS tutorial (continued)                            |
+| 16h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS - continued)            |
 
 *Note: This day will also be attended by members of the KI CIR Core Facilities*  
 
