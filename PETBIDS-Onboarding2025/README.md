@@ -80,7 +80,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 |--------|--------------------|-----------------------------------------------------------------|
 | 09h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
 | 10h00  | Cyril Pernet       | [Introduction to BIDS](https://docs.google.com/presentation/d/1pIXA1I3y3MmbTSDKLYkwnTbK-tve9rHP/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true)                                       |
-| 11h00  | Martin Nørgaard    | BIDS Apps and Analysis Workflows                                |
+| 11h00  | Martin Nørgaard    | Analysis Workflows, Derivatives, and BIDS Apps                               |
 | 12h00  | 🧆                 | LUNCH                                                           |
 | 13h00  | Cyril Pernet       | Sharing brain imaging data in Europe                     |
 | 14h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS)                       |
