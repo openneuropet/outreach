@@ -62,8 +62,8 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 * **Data Processing (BIDS Apps)**
   * **[petdeface](https://github.com/openneuropet/petdeface):** Defacing of PET data for data sharing
-  * **petprep_hmc:** Head motion correction
-  * **petprep_extract_tacs:** PET time activity curve extraction
+  * **[petprep_hmc](https://github.com/mnoergaard/petprep_hmc):** Head motion correction
+  * **[petprep_extract_tacs](https://github.com/mnoergaard/petprep_extract_tacs):** PET time activity curve extraction
   * **[petprep](https://github.com/nipreps/petprep):** Robust preprocessing of PET data
   * **[bloodstream](https://github.com/mathesong/bloodstream):** PET blood data processing
   * **[kinfitr](https://github.com/mathesong/kinfitr_app):** PET kinetic modelling and quantification
