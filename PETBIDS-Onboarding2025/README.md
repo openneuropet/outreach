@@ -64,6 +64,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
   * **petdeface:** Defacing of PET data for data sharing
   * **petprep_hmc:** Head motion correction
   * **petprep_extract_tacs:** PET time activity curve extraction
+  * **petprep:** Robust preprocessing of PET data
   * **bloodstream:** PET blood data processing
   * **kinfitr:** PET kinetic modelling and quantification
 
