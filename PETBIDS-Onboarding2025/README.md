@@ -57,16 +57,16 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 
 * **Data Curation**
   * **ezBIDS:** This is a tool for simplifying data conversion to BIDS with a graphical user interface, thereby allowing less technical team members to add additional data.
-  * **PET2BIDS:** This validated tool allows accurate conversion of both DICOM (`.dcm`) and ecat7 (`.v`) PET data to BIDS while extracting data from image headers.
+  * **[PET2BIDS](https://github.com/openneuropet/PET2BIDS):** This validated tool allows accurate conversion of both DICOM (`.dcm`) and ecat7 (`.v`) PET data to BIDS while extracting data from image headers.
   * **dcm2niix:** This tool simplifies conversion of DICOM MR data to BIDS.
 
 * **Data Processing (BIDS Apps)**
   * **petdeface:** Defacing of PET data for data sharing
   * **petprep_hmc:** Head motion correction
   * **petprep_extract_tacs:** PET time activity curve extraction
-  * **petprep:** Robust preprocessing of PET data
-  * **bloodstream:** PET blood data processing
-  * **kinfitr:** PET kinetic modelling and quantification
+  * **[petprep](https://github.com/nipreps/petprep):** Robust preprocessing of PET data
+  * **[bloodstream](https://github.com/mathesong/bloodstream):** PET blood data processing
+  * **[kinfitr](https://github.com/mathesong/kinfitr):** PET kinetic modelling and quantification
 
 
 ----------------------------------------------------------------------------------------------------
