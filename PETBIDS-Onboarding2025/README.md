@@ -83,7 +83,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 | 10h00  | Cyril Pernet       | [Introduction to BIDS](https://docs.google.com/presentation/d/1pIXA1I3y3MmbTSDKLYkwnTbK-tve9rHP/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true)                                       |
 | 11h00  | Martin Nørgaard    | [Analysis Workflows, Derivatives, and BIDS Apps](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/workflows_apps_derivatives_onboarding_stockholm_2025.pdf)                               |
 | 12h00  | 🧆                 | LUNCH                                                           |
-| 13h00  | Cyril Pernet       | Sharing brain imaging data in Europe                     |
+| 13h00  | Cyril Pernet       |  [Sharing brain imaging data in Europe](https://docs.google.com/presentation/d/1HzjojlnX5emINTNqyj_4jtgUuS6GVgJ3/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true)                     |
 | 14h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS)                       |
 | 15h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
 | 16h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS - continued)            |
