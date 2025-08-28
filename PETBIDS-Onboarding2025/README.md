@@ -84,9 +84,9 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 | 11h00  | Martin Nørgaard    | [Analysis Workflows, Derivatives, and BIDS Apps](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/workflows_apps_derivatives_onboarding_stockholm_2025.pdf)                               |
 | 12h00  | 🧆                 | LUNCH                                                           |
 | 13h00  | Cyril Pernet       |  [Sharing brain imaging data in Europe](https://docs.google.com/presentation/d/1HzjojlnX5emINTNqyj_4jtgUuS6GVgJ3/edit?usp=sharing&ouid=105032844288633808506&rtpof=true&sd=true)                     |
-| 14h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS)                       |
+| 14h00  | Melanie Ganz       | [Hands-on data curation (including ezBIDS)](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/BIDS_conversion_tutorial_Colab.ipynb)                       |
 | 15h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
-| 16h00  | Melanie Ganz       | Hands-on data curation (including ezBIDS - continued)            |
+| 16h00  | Melanie Ganz       | [Hands-on data curation (including ezBIDS - continued)](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/BIDS_conversion_tutorial_Colab.ipynb)            |
 
 *Note: This day will also be attended by members of the KI CIR Core Facilities*  
 
