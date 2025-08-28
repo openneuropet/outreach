@@ -97,7 +97,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 |--------|--------------------|-----------------------------------------------------------------|
 | 09h00  | All                | [PET2BIDS conversion](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/PET2BIDS.pdf), [PET-BIDS Derivatives & PET-Specific Considerations for Data Curation](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/PET_BIDS_derivatives_NordicOnboarding2025.pdf) |
 | 10h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
-| 11h00  | Martin Nørgaard    | PET-BIDS Tool Demonstrations and Tutorials: Image Analysis      |
+| 11h00  | Martin Nørgaard    | [PET-BIDS Tool Demonstrations and Tutorials: Image Analysis](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/PET_BIDS_tools_and_demonstration.pdf)      |
 | 12h30  | 🧆                 | LUNCH                                                           |
 | 13h30  | Granville Matheson | PET-BIDS Tool Demonstrations and Tutorials: Quantification      |
 | 15h00  | ☕                 | COFFEE, TEA & SNACKS                                            |
