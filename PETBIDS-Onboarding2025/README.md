@@ -66,7 +66,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
   * **petprep_extract_tacs:** PET time activity curve extraction
   * **[petprep](https://github.com/nipreps/petprep):** Robust preprocessing of PET data
   * **[bloodstream](https://github.com/mathesong/bloodstream):** PET blood data processing
-  * **[kinfitr](https://github.com/mathesong/kinfitr):** PET kinetic modelling and quantification
+  * **[kinfitr](https://github.com/mathesong/kinfitr_app):** PET kinetic modelling and quantification
 
 
 ----------------------------------------------------------------------------------------------------
