@@ -61,7 +61,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
   * **dcm2niix:** This tool simplifies conversion of DICOM MR data to BIDS.
 
 * **Data Processing (BIDS Apps)**
-  * **petdeface:** Defacing of PET data for data sharing
+  * **[petdeface](https://github.com/openneuropet/petdeface):** Defacing of PET data for data sharing
   * **petprep_hmc:** Head motion correction
   * **petprep_extract_tacs:** PET time activity curve extraction
   * **[petprep](https://github.com/nipreps/petprep):** Robust preprocessing of PET data
