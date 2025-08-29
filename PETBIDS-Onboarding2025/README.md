@@ -99,7 +99,7 @@ This list may grow, but at present, we plan to provide hands-on training in the 
 | 10h30  | ☕                 | COFFEE, TEA & SNACKS                                            |
 | 11h00  | Martin Nørgaard    | [PET-BIDS Tool Demonstrations and Tutorials: Image Analysis](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/PET_BIDS_tools_and_demonstration.pdf)      |
 | 12h30  | 🧆                 | LUNCH                                                           |
-| 13h30  | Granville Matheson | PET-BIDS Tool Demonstrations and Tutorials: Quantification      |
+| 13h30  | Granville Matheson | [PET-BIDS Tool Demonstrations and Tutorials: Quantification](https://github.com/openneuropet/outreach/blob/main/PETBIDS-Onboarding2025/quantification_tools_onboarding_stockholm_2025.pdf)      |
 | 15h00  | ☕                 | COFFEE, TEA & SNACKS                                            |
 | 15h30  | All                | Applying/Trying Out Lessons Learned (with supervision)          |
 
