@@ -13,6 +13,10 @@ PET-BIDS and the OpenNeuroPET project with application for brain tumour was pres
 
 Read our PET-BIDS paper #openaccess published at [nature Scientific Data](https://www.nature.com/sdata/)
 
+## BIDS and PET-BIDS educational lectures
+
+Find an introduction to BIDS, to BIDS derivatives, a lecture on data curation and lectures a specific PET BIDS tools on the [INCF training space](https://training.incf.org/course/bids-pet-researchers-data-curation-sharing-and-analysis). Those lectures were recorded durinf the [PETBIDS-Onboarding2025 workshop](https://github.com/openneuropet/outreach/tree/main/PETBIDS-Onboarding2025) hosted by the Karolinska Institute.
+
 ## Talks about data sharing
 
 We presented the status of "PET data sharing and BIDS" at the [OpenKMI Workshop at IEEE Medical Imaging Conference 2023](https://www.openkmi.org/workshop/openkmi_mic2023).
@@ -22,8 +26,7 @@ We discussed data sharing issues in EU and how OpenNeuroPET implements data shar
 
 One of our favourite tool at OpenNeuroPET is [PETSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer). If you haven't heard about it, [check out this video from Doug Greve](https://youtu.be/1-sgAct6_NY?t=1583). To make life easier, you can [wrap PETSurfer in a pipeline with python](https://youtu.be/m3pFVS13U3g), as explained by V. Beliveau during Brain Hack Nordic 2021.
 
-## [A drive to put presentations](
-https://drive.google.com/drive/folders/1o4k-e3r_xnwO1cck5-7nBlj8ekp5b8Yq?usp=sharing)
+
 
 ## Calendar of Past and Upcoming Events
 
@@ -50,4 +53,5 @@ https://drive.google.com/drive/folders/1o4k-e3r_xnwO1cck5-7nBlj8ekp5b8Yq?usp=sha
 | [Stratneuro 2024](https://news.ki.se/calendar/stratneuro-retreat-2024-exclusive-day-for-phd-students) | June 3rd 2024 |
 | [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 22th-27th 2024 |
 | [BIDS maintainer meeting 2025](https://github.com/openneuropet/outreach/tree/main/BIDS_maintainers2025) | June 10th-12th 2025 |
+| [PETBIDS-Onboarding2025 workshop](https://github.com/openneuropet/outreach/tree/main/PETBIDS-Onboarding2025)| August 28-29 2025 |
 
