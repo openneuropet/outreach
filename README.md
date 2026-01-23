@@ -56,5 +56,6 @@ Find on the INCF training space our [lectures from the 2025 Nordic PET-BIDS Onbo
 | [Stratneuro 2024](https://news.ki.se/calendar/stratneuro-retreat-2024-exclusive-day-for-phd-students) | June 3rd 2024 |
 | [Organization for Human Brain Mapping Annual Meeting](https://www.humanbrainmapping.org/) | June 22th-27th 2024 |
 | [BIDS maintainer meeting 2025](https://github.com/openneuropet/outreach/tree/main/BIDS_maintainers2025) | June 10th-12th 2025 |
+| [PET is wonderful 2025 Meeting](https://github.com/openneuropet/outreach/tree/main/PET-Is-Wonderful2025)  | July 2nd-4th 2025 |
 | [PETBIDS-Onboarding2025 workshop](https://github.com/openneuropet/outreach/tree/main/PETBIDS-Onboarding2025)| August 28-29 2025 |
 
