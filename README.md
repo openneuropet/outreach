@@ -58,4 +58,6 @@ Find on the INCF training space our [lectures from the 2025 Nordic PET-BIDS Onbo
 | [BIDS maintainer meeting 2025](https://github.com/openneuropet/outreach/tree/main/BIDS_maintainers2025) | June 10th-12th 2025 |
 | [PET is wonderful 2025 Meeting](https://github.com/openneuropet/outreach/tree/main/PET-Is-Wonderful2025)  | July 2nd-4th 2025 |
 | [PETBIDS-Onboarding2025 workshop](https://github.com/openneuropet/outreach/tree/main/PETBIDS-Onboarding2025)| August 28-29 2025 |
+| [Neuroimaging Methods Symposium (NEMES): Insights and Advances in Neuroimaging Methodologies](https://github.com/openneuropet/outreach/tree/main/NEMES2025)| September 24-26 2025 |
+
 
