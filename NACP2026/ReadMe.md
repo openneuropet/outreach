@@ -1,0 +1,1 @@
+Here you will find the slides for Melanie's presentation titled "Efficient Data Management for Clinical Physicists" at the Nordic Association of Clinical Physics Annual Meeting 2026 (see www.nacp2026.com). The presentation will take place on 26/03-2026 at 09:45 am in the Wallenberg conference Center in Goeteborg.
